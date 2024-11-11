@@ -1,0 +1,10 @@
+Predictor,Contribution,Portion,Rank
+Tank Level,0.636668,0.2272,1
+Temp,0.533916,0.1905,2
+Ethanol,0.486879,0.1737,3
+Molasses Feed,0.428604,0.1529,4
+NH3 Feed,0.263438,0.0940,5
+pH,0.222504,0.0794,6
+Air,0.196100,0.0700,7
+Random Uniform,0.017442,0.0062,8
+Random Normal,0.017025,0.0061,9

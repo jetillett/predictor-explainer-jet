@@ -1,0 +1,769 @@
+Predictor,Contribution,Portion,Rank
+Mean of Temperature control error during deagglomeration,0.122188,0.0315,1
+Quantiles5 of Average Torque [Nm]  during deagglomeration,0.106593,0.0275,2
+Max of Average Torque [Nm]  during deagglomeration,0.106305,0.0274,3
+Sum of Average Torque [Nm]  during deagglomeration,0.095307,0.0246,4
+Sum of Temperature control error during deagglomeration,0.093889,0.0242,5
+Max of Z (Initial cake weight) [kg],0.090868,0.0234,6
+Quantiles5 of Agitator Speed [rpm] variablity during deagglomeration,0.087109,0.0225,7
+Quantiles5 of Y11,0.085888,0.0221,8
+Quantiles5 of Temperature control error during deagglomeration,0.085656,0.0221,9
+Quantiles95 of Average Torque [Nm]  during deagglomeration,0.082923,0.0214,10
+Quantiles95 of Agitator Speed [rpm] variablity during deagglomeration,0.079447,0.0205,11
+Min of Y11,0.072218,0.0186,12
+Median of Y11,0.068215,0.0176,13
+Mean of Z (Initial cake weight) [kg],0.067953,0.0175,14
+Max of Temperature control error during deagglomeration,0.067279,0.0173,15
+Mean of Agitator Speed [rpm] variablity during deagglomeration,0.062429,0.0161,16
+Sum of Y11,0.057422,0.0148,17
+Min of Y10,0.055131,0.0142,18
+Max of Agitator Speed [rpm] variablity during deagglomeration,0.054329,0.0140,19
+Mean of Average Torque [Nm]  during deagglomeration,0.051406,0.0133,20
+Min of Temperature control error during deagglomeration,0.051154,0.0132,21
+Median of Agitator Speed [rpm] variablity during deagglomeration,0.051079,0.0132,22
+Min of Average Torque [Nm]  during deagglomeration,0.050755,0.0131,23
+Median of Average Torque [Nm]  during deagglomeration,0.048619,0.0125,24
+Quantiles95 of Z (Initial cake weight) [kg],0.048143,0.0124,25
+Quantiles95 of Temperature control error during deagglomeration,0.046247,0.0119,26
+Quantiles5 of Z (Initial cake weight) [kg],0.044625,0.0115,27
+Sum of Agitator Speed [rpm] variablity during deagglomeration,0.042358,0.0109,28
+Sum of Z (Initial cake weight) [kg],0.041707,0.0108,29
+Mean of Y11,0.040315,0.0104,30
+Max of Temperature Slope (rate of change) during heating,0.037902,0.0098,31
+Max of Y10,0.037493,0.0097,32
+Min of Agitator Speed [rpm] variablity during deagglomeration,0.036466,0.0094,33
+Quantiles95 of Y10,0.036233,0.0093,34
+Median of Z (Initial cake weight) [kg],0.034641,0.0089,35
+Min of Z (Initial cake weight) [kg],0.032660,0.0084,36
+Max of Y11,0.031061,0.0080,37
+Sum of Y10,0.030431,0.0078,38
+Quantiles95 of Y11,0.028849,0.0074,39
+Mean of Y10,0.028422,0.0073,40
+Median of Temperature control error during deagglomeration,0.026102,0.0067,41
+Max of Y5,0.024946,0.0064,42
+Median of Y2,0.023733,0.0061,43
+Sum of Z6,0.023280,0.0060,44
+Min of Z2,0.022700,0.0059,45
+Quantiles95 of Temperature Slope (rate of change) during heating,0.021860,0.0056,46
+Mean of Z6,0.021750,0.0056,47
+Mean of Y5,0.019545,0.0050,48
+Quantiles5 of Z2,0.019340,0.0050,49
+Quantiles5 of Y3,0.019134,0.0049,50
+Min of Z8,0.018445,0.0048,51
+Mean of Y7,0.018104,0.0047,52
+Quantiles95 of Z2,0.018054,0.0047,53
+Median of Duration (min) of high speed agitation,0.017869,0.0046,54
+Range of Y2,0.017839,0.0046,55
+Max of Level (collector) at the end of deagglomeration,0.017790,0.0046,56
+Quantiles95 of Y5,0.017530,0.0045,57
+Max of Random Normal,0.017377,0.0045,58
+Quantiles5 of Z9,0.017048,0.0044,59
+Sum of Z7,0.016876,0.0044,60
+Quantiles95 of Z6,0.016835,0.0043,61
+Quantiles5 of Y10,0.016594,0.0043,62
+Mean of Level (collector) at the end of deagglomeration,0.016514,0.0043,63
+Sum of Z2,0.016497,0.0043,64
+Range of Z8,0.015160,0.0039,65
+Median of Z6,0.014954,0.0039,66
+Mean of Z9,0.014840,0.0038,67
+Max of Y9,0.014718,0.0038,68
+Quantiles5 of Temperature Slope (rate of change) during heating,0.013756,0.0035,69
+Min of Temp2 dryer at the end of heating,0.013623,0.0035,70
+Min of Z7,0.013538,0.0035,71
+Median of Temperature Slope (rate of change) during heating,0.013495,0.0035,72
+Sum of Random Uniform,0.013129,0.0034,73
+Quantiles95 of Z4,0.012648,0.0033,74
+Quantiles95 of Temp. dryer at the end of deagglomeration,0.012622,0.0033,75
+Median of Y10,0.012597,0.0032,76
+Min of Random Normal,0.012325,0.0032,77
+Quantiles5 of Z6,0.012260,0.0032,78
+Quantiles5 of Level (collector) at the end of deagglomeration,0.012225,0.0032,79
+Median of Y5,0.012166,0.0031,80
+Sum of Y5,0.012137,0.0031,81
+Max of Z8,0.012085,0.0031,82
+Sum of Z9,0.012067,0.0031,83
+Mean of Y4,0.012026,0.0031,84
+Median of Z1,0.011662,0.0030,85
+Median of Random Normal,0.011653,0.0030,86
+Sum of Z8,0.011649,0.0030,87
+Quantiles95 of Z1,0.011553,0.0030,88
+Mean of Temperature Slope (rate of change) during heating,0.011520,0.0030,89
+Max of Y3,0.011463,0.0030,90
+Median of Z8,0.011436,0.0029,91
+Min of Random Uniform,0.011351,0.0029,92
+Mean of Z2,0.011316,0.0029,93
+Sum of Y7,0.011089,0.0029,94
+Min of Temperature Slope (rate of change) during heating,0.011070,0.0029,95
+Quantiles95 of Y3,0.010905,0.0028,96
+Sum of Y1,0.010809,0.0028,97
+Quantiles95 of Z7,0.010783,0.0028,98
+Sum of Duration (min) of high speed agitation,0.010678,0.0028,99
+Median of Y3,0.010398,0.0027,100
+Median of Y7,0.010385,0.0027,101
+Median of Y1,0.009959,0.0026,102
+Sum of Y4,0.009806,0.0025,103
+Quantiles5 of Y9,0.009726,0.0025,104
+Quantiles95 of Z11,0.009725,0.0025,105
+Min of Y4,0.009567,0.0025,106
+Sum of Temp. dryer at the end of deagglomeration,0.009555,0.0025,107
+Median of Random Uniform,0.009450,0.0024,108
+Min of Z6,0.009444,0.0024,109
+Min of Duration (min) of high speed agitation,0.009416,0.0024,110
+Quantiles95 of Z8,0.009113,0.0023,111
+Min of Z4,0.009099,0.0023,112
+Mean of Y3,0.009059,0.0023,113
+Mean of Y2,0.008954,0.0023,114
+Max of Z7,0.008946,0.0023,115
+Mean of Temp. dryer at the end of deagglomeration,0.008905,0.0023,116
+Quantiles95 of Y1,0.008892,0.0023,117
+Max of Y2,0.008631,0.0022,118
+Mean of Z8,0.008595,0.0022,119
+Quantiles95 of Random Uniform,0.008525,0.0022,120
+Median of Z11,0.008484,0.0022,121
+Mean of Temp2 dryer at the end of heating,0.008387,0.0022,122
+Quantiles5 of Y2,0.008118,0.0021,123
+Median of Z2,0.008056,0.0021,124
+Min of Y7,0.007923,0.0020,125
+Mean of Z4,0.007911,0.0020,126
+Min of Y2,0.007819,0.0020,127
+Max of Z9,0.007772,0.0020,128
+Quantiles95 of Z9,0.007696,0.0020,129
+Min of Level (collector) at the end of deagglomeration,0.007636,0.0020,130
+Max of Duration (min) of high speed agitation,0.007527,0.0019,131
+Quantiles5 of Z4,0.007337,0.0019,132
+Median of Z3,0.007234,0.0019,133
+Max of Z4,0.007172,0.0018,134
+Interquartile Range of Z11,0.007148,0.0018,135
+Quantiles95 of Y4,0.006621,0.0017,136
+Max of Y4,0.006620,0.0017,137
+Min of Z11,0.006550,0.0017,138
+Min of Y3,0.006502,0.0017,139
+Mean of Duration (min) of high speed agitation,0.006408,0.0017,140
+Quantiles5 of Z1,0.006160,0.0016,141
+Interquartile Range of Y2,0.006156,0.0016,142
+Max of Z1,0.005868,0.0015,143
+Min of Y5,0.005734,0.0015,144
+Quantiles95 of Y2,0.005711,0.0015,145
+Mean of Y1,0.005607,0.0014,146
+Mean of Random Uniform,0.005578,0.0014,147
+Min of Temp. dryer at the end of deagglomeration,0.005537,0.0014,148
+Quantiles5 of Y6,0.005417,0.0014,149
+Interquartile Range of Z2,0.005325,0.0014,150
+Median of Z4,0.005300,0.0014,151
+Range of Z4,0.005261,0.0014,152
+Max of Z11,0.005222,0.0013,153
+Max of Temp2 dryer at the end of heating,0.005028,0.0013,154
+Quantiles95 of Level (collector) at the end of deagglomeration,0.004687,0.0012,155
+Quantiles5 of Z8,0.004562,0.0012,156
+Sum of Z1,0.004547,0.0012,157
+Sum of Z10,0.004537,0.0012,158
+Sum of Random Normal,0.004502,0.0012,159
+Quantiles5 of Z11,0.004388,0.0011,160
+Sum of Y6,0.004356,0.0011,161
+Median of Z9,0.004282,0.0011,162
+Range of Y11,0.004265,0.0011,163
+Mean of Y6,0.004196,0.0011,164
+Quantiles5 of Temp. dryer at the end of deagglomeration,0.004158,0.0011,165
+Quantiles5 of Duration (min) of high speed agitation,0.004091,0.0011,166
+Min of Y6,0.004042,0.0010,167
+Mean of Random Normal,0.004017,0.0010,168
+Min of Y1,0.003966,0.0010,169
+Median of Y4,0.003930,0.0010,170
+Max of Y7,0.003792,0.0010,171
+Sum of Z4,0.003784,0.0010,172
+Median of Z7,0.003628,0.0009,173
+Mean of Z10,0.003542,0.0009,174
+Sum of Y9,0.003439,0.0009,175
+Quantiles5 of Z10,0.003411,0.0009,176
+Min of Z1,0.003376,0.0009,177
+Sum of Y3,0.003182,0.0008,178
+Max of Z3,0.003078,0.0008,179
+Sum of Temperature Slope (rate of change) during heating,0.002996,0.0008,180
+Median of Y9,0.002990,0.0008,181
+Quantiles95 of Random Normal,0.002913,0.0008,182
+Quantiles5 of Y4,0.002909,0.0007,183
+Min of Z9,0.002775,0.0007,184
+Range of Z11,0.002528,0.0007,185
+Median of Y6,0.002504,0.0006,186
+Quantiles5 of Temp2 dryer at the end of heating,0.002354,0.0006,187
+Min of Z5,0.002117,0.0005,188
+Mean of Y9,0.002023,0.0005,189
+Sum of Y2,0.001994,0.0005,190
+Max of Z2,0.001984,0.0005,191
+Median of Z10,0.001931,0.0005,192
+Max of Z6,0.001907,0.0005,193
+Max of Z5,0.001842,0.0005,194
+Quantiles95 of Temp2 dryer at the end of heating,0.001816,0.0005,195
+Quantiles95 of Y7,0.001812,0.0005,196
+Quantiles95 of Z10,0.001719,0.0004,197
+Max of Y6,0.001656,0.0004,198
+Max of Z10,0.001621,0.0004,199
+Min of Y9,0.001589,0.0004,200
+Quantiles5 of Y5,0.001588,0.0004,201
+Max of Y1,0.001453,0.0004,202
+Max of Random Uniform,0.001394,0.0004,203
+Sum of Z5,0.001318,0.0003,204
+Mean of Z5,0.001130,0.0003,205
+Min of Z3,0.001130,0.0003,206
+Mean of Z11,0.000922,0.0002,207
+Interquartile Range of Z3,0.000880,0.0002,208
+Median of Z5,0.000875,0.0002,209
+Median of Temp2 dryer at the end of heating,0.000813,0.0002,210
+Quantiles5 of Random Normal,0.000794,0.0002,211
+Sum of Z11,0.000792,0.0002,212
+Sum of Temp2 dryer at the end of heating,0.000780,0.0002,213
+Quantiles5 of Random Uniform,0.000746,0.0002,214
+Mean of Z3,0.000613,0.0002,215
+Sum of Z3,0.000462,0.0001,216
+Quantiles5 of Z3,0.000458,0.0001,217
+Quantiles95 of Duration (min) of high speed agitation,0.000448,0.0001,218
+Quantiles5 of Z5,0.000437,0.0001,219
+Interquartile Range of Z1,0.000394,0.0001,220
+Quantiles95 of Y9,0.000392,0.0001,221
+Range of Z9,0.000373,0.0001,222
+Max of Temp. dryer at the end of deagglomeration,0.000344,0.0001,223
+Range of Z5,0.000327,0.0001,224
+Quantiles5 of Y7,0.000324,0.0001,225
+Range of Z7,0.000324,0.0001,226
+Quantiles95 of Z5,0.000286,0.0001,227
+Mean of Z7,0.000281,0.0001,228
+Min of Z10,0.000241,0.0001,229
+Interquartile Range of Z6,0.000234,0.0001,230
+Interquartile Range of Z5,0.000230,0.0001,231
+Range of Y1,0.000127,0.0000,232
+Quantiles95 of Z3,0.000127,0.0000,233
+Quantiles5 of Y8,0.000100,0.0000,234
+Sum of Level (collector) at the end of deagglomeration,0.000046,0.0000,235
+Mean of Z1,0.000043,0.0000,236
+Interquartile Range of Y3,0.000012,0.0000,237
+Max of Diff_Y3,0.000000,0.0000,238
+Max of Diff_Y4,0.000000,0.0000,239
+Max of Diff_Y5,0.000000,0.0000,240
+Max of Diff_Y6,0.000000,0.0000,241
+Max of Diff_Y7,0.000000,0.0000,242
+Max of Diff_Y8,0.000000,0.0000,243
+Max of Diff_Y9,0.000000,0.0000,244
+Max of Diff_Y10,0.000000,0.0000,245
+Max of Diff_Y11,0.000000,0.0000,246
+Max of Diff_Agitator Speed [rpm] variablity during deagglomeration,0.000000,0.0000,247
+Max of Diff_Average Torque [Nm]  during deagglomeration,0.000000,0.0000,248
+Max of Diff_Temperature control error during deagglomeration,0.000000,0.0000,249
+Max of Diff_Level (collector) at the end of deagglomeration,0.000000,0.0000,250
+Max of Diff_Temp. dryer at the end of deagglomeration,0.000000,0.0000,251
+Max of Diff_Temp2 dryer at the end of heating,0.000000,0.0000,252
+Max of Diff_Duration (min) of high speed agitation,0.000000,0.0000,253
+Max of Diff_Temperature Slope (rate of change) during heating,0.000000,0.0000,254
+Max of Diff_Z1,0.000000,0.0000,255
+Max of Diff_Z2,0.000000,0.0000,256
+Max of Diff_Z3,0.000000,0.0000,257
+Max of Diff_Z4,0.000000,0.0000,258
+Max of Diff_Z5,0.000000,0.0000,259
+Max of Diff_Z6,0.000000,0.0000,260
+Max of Diff_Z7,0.000000,0.0000,261
+Max of Diff_Z8,0.000000,0.0000,262
+Max of Diff_Z9,0.000000,0.0000,263
+Max of Diff_Z10,0.000000,0.0000,264
+Max of Diff_Z11,0.000000,0.0000,265
+Std Dev of Diff_Y1,0.000000,0.0000,266
+Min of Y8,0.000000,0.0000,267
+Min of Diff_Z (Initial cake weight) [kg],0.000000,0.0000,268
+Min of Diff_Y1,0.000000,0.0000,269
+Min of Diff_Y2,0.000000,0.0000,270
+Min of Diff_Y3,0.000000,0.0000,271
+Min of Diff_Y4,0.000000,0.0000,272
+Min of Diff_Y5,0.000000,0.0000,273
+Min of Diff_Y6,0.000000,0.0000,274
+Min of Diff_Y7,0.000000,0.0000,275
+Min of Diff_Y8,0.000000,0.0000,276
+Min of Diff_Y9,0.000000,0.0000,277
+Min of Diff_Y10,0.000000,0.0000,278
+Min of Diff_Y11,0.000000,0.0000,279
+Min of Diff_Agitator Speed [rpm] variablity during deagglomeration,0.000000,0.0000,280
+Min of Diff_Average Torque [Nm]  during deagglomeration,0.000000,0.0000,281
+Min of Diff_Temperature control error during deagglomeration,0.000000,0.0000,282
+Min of Diff_Level (collector) at the end of deagglomeration,0.000000,0.0000,283
+Min of Diff_Temp. dryer at the end of deagglomeration,0.000000,0.0000,284
+Min of Diff_Temp2 dryer at the end of heating,0.000000,0.0000,285
+Min of Diff_Duration (min) of high speed agitation,0.000000,0.0000,286
+Min of Diff_Temperature Slope (rate of change) during heating,0.000000,0.0000,287
+Min of Diff_Z1,0.000000,0.0000,288
+Min of Diff_Z2,0.000000,0.0000,289
+Min of Diff_Z3,0.000000,0.0000,290
+Min of Diff_Z4,0.000000,0.0000,291
+Min of Diff_Z5,0.000000,0.0000,292
+Min of Diff_Z6,0.000000,0.0000,293
+Min of Diff_Z7,0.000000,0.0000,294
+Min of Diff_Z8,0.000000,0.0000,295
+Min of Diff_Z9,0.000000,0.0000,296
+Min of Diff_Z10,0.000000,0.0000,297
+Min of Diff_Z11,0.000000,0.0000,298
+Sum of Y8,0.000000,0.0000,299
+Sum of Diff_Z (Initial cake weight) [kg],0.000000,0.0000,300
+Sum of Diff_Y2,0.000000,0.0000,301
+Sum of Diff_Y3,0.000000,0.0000,302
+Sum of Diff_Y4,0.000000,0.0000,303
+Sum of Diff_Y5,0.000000,0.0000,304
+Sum of Diff_Y6,0.000000,0.0000,305
+Sum of Diff_Y7,0.000000,0.0000,306
+Sum of Diff_Y8,0.000000,0.0000,307
+Sum of Diff_Y9,0.000000,0.0000,308
+Sum of Diff_Y10,0.000000,0.0000,309
+Sum of Diff_Y11,0.000000,0.0000,310
+Sum of Diff_Agitator Speed [rpm] variablity during deagglomeration,0.000000,0.0000,311
+Sum of Diff_Average Torque [Nm]  during deagglomeration,0.000000,0.0000,312
+Sum of Diff_Temperature control error during deagglomeration,0.000000,0.0000,313
+Sum of Diff_Level (collector) at the end of deagglomeration,0.000000,0.0000,314
+Sum of Diff_Temp. dryer at the end of deagglomeration,0.000000,0.0000,315
+Sum of Diff_Temp2 dryer at the end of heating,0.000000,0.0000,316
+Sum of Diff_Duration (min) of high speed agitation,0.000000,0.0000,317
+Sum of Diff_Temperature Slope (rate of change) during heating,0.000000,0.0000,318
+Sum of Diff_Z1,0.000000,0.0000,319
+Sum of Diff_Z2,0.000000,0.0000,320
+Sum of Diff_Z3,0.000000,0.0000,321
+Sum of Diff_Z4,0.000000,0.0000,322
+Sum of Diff_Z5,0.000000,0.0000,323
+Sum of Diff_Z6,0.000000,0.0000,324
+Sum of Diff_Z7,0.000000,0.0000,325
+Sum of Diff_Z8,0.000000,0.0000,326
+Sum of Diff_Z9,0.000000,0.0000,327
+Sum of Diff_Z10,0.000000,0.0000,328
+Sum of Diff_Z11,0.000000,0.0000,329
+Range of Z (Initial cake weight) [kg],0.000000,0.0000,330
+Range of Y3,0.000000,0.0000,331
+Range of Y4,0.000000,0.0000,332
+Range of Y5,0.000000,0.0000,333
+Range of Y6,0.000000,0.0000,334
+Range of Y7,0.000000,0.0000,335
+Range of Y8,0.000000,0.0000,336
+Range of Y9,0.000000,0.0000,337
+Range of Y10,0.000000,0.0000,338
+Range of Agitator Speed [rpm] variablity during deagglomeration,0.000000,0.0000,339
+Range of Average Torque [Nm]  during deagglomeration,0.000000,0.0000,340
+Range of Temperature control error during deagglomeration,0.000000,0.0000,341
+Range of Level (collector) at the end of deagglomeration,0.000000,0.0000,342
+Range of Temp. dryer at the end of deagglomeration,0.000000,0.0000,343
+Range of Temp2 dryer at the end of heating,0.000000,0.0000,344
+Range of Duration (min) of high speed agitation,0.000000,0.0000,345
+Range of Temperature Slope (rate of change) during heating,0.000000,0.0000,346
+Range of Z1,0.000000,0.0000,347
+Range of Z2,0.000000,0.0000,348
+Range of Z3,0.000000,0.0000,349
+Range of Z6,0.000000,0.0000,350
+Range of Z10,0.000000,0.0000,351
+Range of Diff_Z (Initial cake weight) [kg],0.000000,0.0000,352
+Range of Diff_Y1,0.000000,0.0000,353
+Range of Diff_Y2,0.000000,0.0000,354
+Range of Diff_Y3,0.000000,0.0000,355
+Range of Diff_Y4,0.000000,0.0000,356
+Range of Diff_Y5,0.000000,0.0000,357
+Range of Diff_Y6,0.000000,0.0000,358
+Range of Diff_Y7,0.000000,0.0000,359
+Range of Diff_Y8,0.000000,0.0000,360
+Range of Diff_Y9,0.000000,0.0000,361
+Range of Diff_Y10,0.000000,0.0000,362
+Range of Diff_Y11,0.000000,0.0000,363
+Range of Diff_Agitator Speed [rpm] variablity during deagglomeration,0.000000,0.0000,364
+Range of Diff_Average Torque [Nm]  during deagglomeration,0.000000,0.0000,365
+Range of Diff_Temperature control error during deagglomeration,0.000000,0.0000,366
+Range of Diff_Level (collector) at the end of deagglomeration,0.000000,0.0000,367
+Range of Diff_Temp. dryer at the end of deagglomeration,0.000000,0.0000,368
+Range of Diff_Temp2 dryer at the end of heating,0.000000,0.0000,369
+Range of Diff_Duration (min) of high speed agitation,0.000000,0.0000,370
+Range of Diff_Temperature Slope (rate of change) during heating,0.000000,0.0000,371
+Range of Diff_Z1,0.000000,0.0000,372
+Range of Diff_Z2,0.000000,0.0000,373
+Range of Diff_Z3,0.000000,0.0000,374
+Range of Diff_Z4,0.000000,0.0000,375
+Range of Diff_Z5,0.000000,0.0000,376
+Range of Diff_Z6,0.000000,0.0000,377
+Range of Diff_Z7,0.000000,0.0000,378
+Range of Diff_Z8,0.000000,0.0000,379
+Range of Diff_Z9,0.000000,0.0000,380
+Range of Diff_Z10,0.000000,0.0000,381
+Range of Diff_Z11,0.000000,0.0000,382
+Range of Random Normal,0.000000,0.0000,383
+Range of Random Uniform,0.000000,0.0000,384
+Sum of Diff_Y1,0.000000,0.0000,385
+Mean of Y8,0.000000,0.0000,386
+Mean of Diff_Z (Initial cake weight) [kg],0.000000,0.0000,387
+Mean of Diff_Y1,0.000000,0.0000,388
+Mean of Diff_Y2,0.000000,0.0000,389
+Mean of Diff_Y3,0.000000,0.0000,390
+Quantiles95 of Y6,0.000000,0.0000,391
+Mean of Diff_Y4,0.000000,0.0000,392
+Quantiles95 of Y8,0.000000,0.0000,393
+Mean of Diff_Y5,0.000000,0.0000,394
+Mean of Diff_Y6,0.000000,0.0000,395
+Mean of Diff_Y7,0.000000,0.0000,396
+Mean of Diff_Y8,0.000000,0.0000,397
+Mean of Diff_Y9,0.000000,0.0000,398
+Mean of Diff_Y10,0.000000,0.0000,399
+Mean of Diff_Y11,0.000000,0.0000,400
+Mean of Diff_Agitator Speed [rpm] variablity during deagglomeration,0.000000,0.0000,401
+Mean of Diff_Average Torque [Nm]  during deagglomeration,0.000000,0.0000,402
+Mean of Diff_Temperature control error during deagglomeration,0.000000,0.0000,403
+Mean of Diff_Level (collector) at the end of deagglomeration,0.000000,0.0000,404
+Mean of Diff_Temp. dryer at the end of deagglomeration,0.000000,0.0000,405
+Mean of Diff_Temp2 dryer at the end of heating,0.000000,0.0000,406
+Mean of Diff_Duration (min) of high speed agitation,0.000000,0.0000,407
+Mean of Diff_Temperature Slope (rate of change) during heating,0.000000,0.0000,408
+Mean of Diff_Z1,0.000000,0.0000,409
+Mean of Diff_Z2,0.000000,0.0000,410
+Mean of Diff_Z3,0.000000,0.0000,411
+Mean of Diff_Z4,0.000000,0.0000,412
+Mean of Diff_Z5,0.000000,0.0000,413
+Mean of Diff_Z6,0.000000,0.0000,414
+Mean of Diff_Z7,0.000000,0.0000,415
+Quantiles95 of Diff_Z (Initial cake weight) [kg],0.000000,0.0000,416
+Quantiles95 of Diff_Y1,0.000000,0.0000,417
+Quantiles95 of Diff_Y2,0.000000,0.0000,418
+Quantiles95 of Diff_Y3,0.000000,0.0000,419
+Quantiles95 of Diff_Y4,0.000000,0.0000,420
+Quantiles95 of Diff_Y5,0.000000,0.0000,421
+Quantiles95 of Diff_Y6,0.000000,0.0000,422
+Quantiles95 of Diff_Y7,0.000000,0.0000,423
+Quantiles95 of Diff_Y8,0.000000,0.0000,424
+Quantiles95 of Diff_Y9,0.000000,0.0000,425
+Quantiles95 of Diff_Y10,0.000000,0.0000,426
+Quantiles95 of Diff_Y11,0.000000,0.0000,427
+Quantiles95 of Diff_Agitator Speed [rpm] variablity during deagglomeration,0.000000,0.0000,428
+Quantiles95 of Diff_Average Torque [Nm]  during deagglomeration,0.000000,0.0000,429
+Quantiles95 of Diff_Temperature control error during deagglomeration,0.000000,0.0000,430
+Quantiles95 of Diff_Level (collector) at the end of deagglomeration,0.000000,0.0000,431
+Quantiles95 of Diff_Temp. dryer at the end of deagglomeration,0.000000,0.0000,432
+Quantiles95 of Diff_Temp2 dryer at the end of heating,0.000000,0.0000,433
+Quantiles95 of Diff_Duration (min) of high speed agitation,0.000000,0.0000,434
+Quantiles95 of Diff_Temperature Slope (rate of change) during heating,0.000000,0.0000,435
+Quantiles95 of Diff_Z1,0.000000,0.0000,436
+Quantiles95 of Diff_Z2,0.000000,0.0000,437
+Quantiles95 of Diff_Z3,0.000000,0.0000,438
+Quantiles95 of Diff_Z4,0.000000,0.0000,439
+Quantiles95 of Diff_Z5,0.000000,0.0000,440
+Quantiles95 of Diff_Z6,0.000000,0.0000,441
+Quantiles95 of Diff_Z7,0.000000,0.0000,442
+Quantiles95 of Diff_Z8,0.000000,0.0000,443
+Quantiles95 of Diff_Z9,0.000000,0.0000,444
+Quantiles95 of Diff_Z10,0.000000,0.0000,445
+Quantiles95 of Diff_Z11,0.000000,0.0000,446
+Mean of Diff_Z8,0.000000,0.0000,447
+Mean of Diff_Z9,0.000000,0.0000,448
+Mean of Diff_Z10,0.000000,0.0000,449
+Mean of Diff_Z11,0.000000,0.0000,450
+Std Dev of Z (Initial cake weight) [kg],0.000000,0.0000,451
+Std Dev of Y1,0.000000,0.0000,452
+Std Dev of Y2,0.000000,0.0000,453
+Std Dev of Y3,0.000000,0.0000,454
+Std Dev of Y4,0.000000,0.0000,455
+Std Dev of Y5,0.000000,0.0000,456
+Median of Y8,0.000000,0.0000,457
+Std Dev of Y6,0.000000,0.0000,458
+Std Dev of Y7,0.000000,0.0000,459
+Std Dev of Y8,0.000000,0.0000,460
+Std Dev of Y9,0.000000,0.0000,461
+Std Dev of Y10,0.000000,0.0000,462
+Std Dev of Y11,0.000000,0.0000,463
+Median of Level (collector) at the end of deagglomeration,0.000000,0.0000,464
+Median of Temp. dryer at the end of deagglomeration,0.000000,0.0000,465
+Std Dev of Agitator Speed [rpm] variablity during deagglomeration,0.000000,0.0000,466
+Std Dev of Average Torque [Nm]  during deagglomeration,0.000000,0.0000,467
+Std Dev of Temperature control error during deagglomeration,0.000000,0.0000,468
+Std Dev of Level (collector) at the end of deagglomeration,0.000000,0.0000,469
+Std Dev of Temp. dryer at the end of deagglomeration,0.000000,0.0000,470
+Std Dev of Temp2 dryer at the end of heating,0.000000,0.0000,471
+Std Dev of Duration (min) of high speed agitation,0.000000,0.0000,472
+Std Dev of Temperature Slope (rate of change) during heating,0.000000,0.0000,473
+Std Dev of Z1,0.000000,0.0000,474
+Std Dev of Z2,0.000000,0.0000,475
+Std Dev of Z3,0.000000,0.0000,476
+Std Dev of Z4,0.000000,0.0000,477
+Std Dev of Z5,0.000000,0.0000,478
+Std Dev of Z6,0.000000,0.0000,479
+Median of Diff_Z (Initial cake weight) [kg],0.000000,0.0000,480
+Median of Diff_Y1,0.000000,0.0000,481
+Median of Diff_Y2,0.000000,0.0000,482
+Median of Diff_Y3,0.000000,0.0000,483
+Median of Diff_Y4,0.000000,0.0000,484
+Median of Diff_Y5,0.000000,0.0000,485
+Median of Diff_Y6,0.000000,0.0000,486
+Median of Diff_Y7,0.000000,0.0000,487
+Median of Diff_Y8,0.000000,0.0000,488
+Median of Diff_Y9,0.000000,0.0000,489
+Median of Diff_Y10,0.000000,0.0000,490
+Median of Diff_Y11,0.000000,0.0000,491
+Median of Diff_Agitator Speed [rpm] variablity during deagglomeration,0.000000,0.0000,492
+Median of Diff_Average Torque [Nm]  during deagglomeration,0.000000,0.0000,493
+Median of Diff_Temperature control error during deagglomeration,0.000000,0.0000,494
+Median of Diff_Level (collector) at the end of deagglomeration,0.000000,0.0000,495
+Median of Diff_Temp. dryer at the end of deagglomeration,0.000000,0.0000,496
+Median of Diff_Temp2 dryer at the end of heating,0.000000,0.0000,497
+Median of Diff_Duration (min) of high speed agitation,0.000000,0.0000,498
+Median of Diff_Temperature Slope (rate of change) during heating,0.000000,0.0000,499
+Median of Diff_Z1,0.000000,0.0000,500
+Median of Diff_Z2,0.000000,0.0000,501
+Median of Diff_Z3,0.000000,0.0000,502
+Median of Diff_Z4,0.000000,0.0000,503
+Median of Diff_Z5,0.000000,0.0000,504
+Median of Diff_Z6,0.000000,0.0000,505
+Median of Diff_Z7,0.000000,0.0000,506
+Median of Diff_Z8,0.000000,0.0000,507
+Median of Diff_Z9,0.000000,0.0000,508
+Median of Diff_Z10,0.000000,0.0000,509
+Median of Diff_Z11,0.000000,0.0000,510
+Std Dev of Z7,0.000000,0.0000,511
+Std Dev of Z8,0.000000,0.0000,512
+Std Dev of Z9,0.000000,0.0000,513
+Quantiles5 of Y1,0.000000,0.0000,514
+Std Dev of Z10,0.000000,0.0000,515
+Std Dev of Z11,0.000000,0.0000,516
+Std Dev of Diff_Z (Initial cake weight) [kg],0.000000,0.0000,517
+Std Dev of Diff_Y2,0.000000,0.0000,518
+Std Dev of Diff_Y3,0.000000,0.0000,519
+Std Dev of Diff_Y4,0.000000,0.0000,520
+Std Dev of Diff_Y5,0.000000,0.0000,521
+Std Dev of Diff_Y6,0.000000,0.0000,522
+Std Dev of Diff_Y7,0.000000,0.0000,523
+Std Dev of Diff_Y8,0.000000,0.0000,524
+Std Dev of Diff_Y9,0.000000,0.0000,525
+Std Dev of Diff_Y10,0.000000,0.0000,526
+Std Dev of Diff_Y11,0.000000,0.0000,527
+Std Dev of Diff_Agitator Speed [rpm] variablity during deagglomeration,0.000000,0.0000,528
+Std Dev of Diff_Average Torque [Nm]  during deagglomeration,0.000000,0.0000,529
+Std Dev of Diff_Temperature control error during deagglomeration,0.000000,0.0000,530
+Std Dev of Diff_Level (collector) at the end of deagglomeration,0.000000,0.0000,531
+Std Dev of Diff_Temp. dryer at the end of deagglomeration,0.000000,0.0000,532
+Std Dev of Diff_Temp2 dryer at the end of heating,0.000000,0.0000,533
+Std Dev of Diff_Duration (min) of high speed agitation,0.000000,0.0000,534
+Std Dev of Diff_Temperature Slope (rate of change) during heating,0.000000,0.0000,535
+Std Dev of Diff_Z1,0.000000,0.0000,536
+Std Dev of Diff_Z2,0.000000,0.0000,537
+Std Dev of Diff_Z3,0.000000,0.0000,538
+Quantiles5 of Z7,0.000000,0.0000,539
+Std Dev of Diff_Z4,0.000000,0.0000,540
+Std Dev of Diff_Z5,0.000000,0.0000,541
+Std Dev of Diff_Z6,0.000000,0.0000,542
+Std Dev of Diff_Z7,0.000000,0.0000,543
+Quantiles5 of Diff_Z (Initial cake weight) [kg],0.000000,0.0000,544
+Quantiles5 of Diff_Y1,0.000000,0.0000,545
+Quantiles5 of Diff_Y2,0.000000,0.0000,546
+Quantiles5 of Diff_Y3,0.000000,0.0000,547
+Quantiles5 of Diff_Y4,0.000000,0.0000,548
+Quantiles5 of Diff_Y5,0.000000,0.0000,549
+Quantiles5 of Diff_Y6,0.000000,0.0000,550
+Quantiles5 of Diff_Y7,0.000000,0.0000,551
+Quantiles5 of Diff_Y8,0.000000,0.0000,552
+Quantiles5 of Diff_Y9,0.000000,0.0000,553
+Quantiles5 of Diff_Y10,0.000000,0.0000,554
+Quantiles5 of Diff_Y11,0.000000,0.0000,555
+Quantiles5 of Diff_Agitator Speed [rpm] variablity during deagglomeration,0.000000,0.0000,556
+Quantiles5 of Diff_Average Torque [Nm]  during deagglomeration,0.000000,0.0000,557
+Quantiles5 of Diff_Temperature control error during deagglomeration,0.000000,0.0000,558
+Quantiles5 of Diff_Level (collector) at the end of deagglomeration,0.000000,0.0000,559
+Quantiles5 of Diff_Temp. dryer at the end of deagglomeration,0.000000,0.0000,560
+Quantiles5 of Diff_Temp2 dryer at the end of heating,0.000000,0.0000,561
+Quantiles5 of Diff_Duration (min) of high speed agitation,0.000000,0.0000,562
+Quantiles5 of Diff_Temperature Slope (rate of change) during heating,0.000000,0.0000,563
+Quantiles5 of Diff_Z1,0.000000,0.0000,564
+Quantiles5 of Diff_Z2,0.000000,0.0000,565
+Quantiles5 of Diff_Z3,0.000000,0.0000,566
+Quantiles5 of Diff_Z4,0.000000,0.0000,567
+Quantiles5 of Diff_Z5,0.000000,0.0000,568
+Quantiles5 of Diff_Z6,0.000000,0.0000,569
+Quantiles5 of Diff_Z7,0.000000,0.0000,570
+Quantiles5 of Diff_Z8,0.000000,0.0000,571
+Quantiles5 of Diff_Z9,0.000000,0.0000,572
+Quantiles5 of Diff_Z10,0.000000,0.0000,573
+Quantiles5 of Diff_Z11,0.000000,0.0000,574
+Std Dev of Diff_Z8,0.000000,0.0000,575
+Std Dev of Diff_Z9,0.000000,0.0000,576
+Interquartile Range of Z (Initial cake weight) [kg],0.000000,0.0000,577
+Interquartile Range of Y1,0.000000,0.0000,578
+Std Dev of Diff_Z10,0.000000,0.0000,579
+Std Dev of Diff_Z11,0.000000,0.0000,580
+Interquartile Range of Y4,0.000000,0.0000,581
+Interquartile Range of Y5,0.000000,0.0000,582
+Interquartile Range of Y6,0.000000,0.0000,583
+Interquartile Range of Y7,0.000000,0.0000,584
+Interquartile Range of Y8,0.000000,0.0000,585
+Interquartile Range of Y9,0.000000,0.0000,586
+Interquartile Range of Y10,0.000000,0.0000,587
+Interquartile Range of Y11,0.000000,0.0000,588
+Interquartile Range of Agitator Speed [rpm] variablity during deagglomeration,0.000000,0.0000,589
+Interquartile Range of Average Torque [Nm]  during deagglomeration,0.000000,0.0000,590
+Interquartile Range of Temperature control error during deagglomeration,0.000000,0.0000,591
+Interquartile Range of Level (collector) at the end of deagglomeration,0.000000,0.0000,592
+Interquartile Range of Temp. dryer at the end of deagglomeration,0.000000,0.0000,593
+Interquartile Range of Temp2 dryer at the end of heating,0.000000,0.0000,594
+Interquartile Range of Duration (min) of high speed agitation,0.000000,0.0000,595
+Interquartile Range of Temperature Slope (rate of change) during heating,0.000000,0.0000,596
+Std Dev of Random Normal,0.000000,0.0000,597
+Std Dev of Random Uniform,0.000000,0.0000,598
+Max of Y8,0.000000,0.0000,599
+Interquartile Range of Z4,0.000000,0.0000,600
+Max of Diff_Z (Initial cake weight) [kg],0.000000,0.0000,601
+Max of Diff_Y1,0.000000,0.0000,602
+Interquartile Range of Z7,0.000000,0.0000,603
+Interquartile Range of Z8,0.000000,0.0000,604
+Interquartile Range of Z9,0.000000,0.0000,605
+Interquartile Range of Z10,0.000000,0.0000,606
+Max of Diff_Y2,0.000000,0.0000,607
+Interquartile Range of Diff_Z (Initial cake weight) [kg],0.000000,0.0000,608
+Interquartile Range of Diff_Y1,0.000000,0.0000,609
+Interquartile Range of Diff_Y2,0.000000,0.0000,610
+Interquartile Range of Diff_Y3,0.000000,0.0000,611
+Interquartile Range of Diff_Y4,0.000000,0.0000,612
+Interquartile Range of Diff_Y5,0.000000,0.0000,613
+Interquartile Range of Diff_Y6,0.000000,0.0000,614
+Interquartile Range of Diff_Y7,0.000000,0.0000,615
+Interquartile Range of Diff_Y8,0.000000,0.0000,616
+Interquartile Range of Diff_Y9,0.000000,0.0000,617
+Interquartile Range of Diff_Y10,0.000000,0.0000,618
+Interquartile Range of Diff_Y11,0.000000,0.0000,619
+Interquartile Range of Diff_Agitator Speed [rpm] variablity during deagglomeration,0.000000,0.0000,620
+Interquartile Range of Diff_Average Torque [Nm]  during deagglomeration,0.000000,0.0000,621
+Interquartile Range of Diff_Temperature control error during deagglomeration,0.000000,0.0000,622
+Interquartile Range of Diff_Level (collector) at the end of deagglomeration,0.000000,0.0000,623
+Interquartile Range of Diff_Temp. dryer at the end of deagglomeration,0.000000,0.0000,624
+Interquartile Range of Diff_Temp2 dryer at the end of heating,0.000000,0.0000,625
+Interquartile Range of Diff_Duration (min) of high speed agitation,0.000000,0.0000,626
+Interquartile Range of Diff_Temperature Slope (rate of change) during heating,0.000000,0.0000,627
+Interquartile Range of Diff_Z1,0.000000,0.0000,628
+Interquartile Range of Diff_Z2,0.000000,0.0000,629
+Interquartile Range of Diff_Z3,0.000000,0.0000,630
+Interquartile Range of Diff_Z4,0.000000,0.0000,631
+Interquartile Range of Diff_Z5,0.000000,0.0000,632
+Interquartile Range of Diff_Z6,0.000000,0.0000,633
+Interquartile Range of Diff_Z7,0.000000,0.0000,634
+Interquartile Range of Diff_Z8,0.000000,0.0000,635
+Interquartile Range of Diff_Z9,0.000000,0.0000,636
+Interquartile Range of Diff_Z10,0.000000,0.0000,637
+Interquartile Range of Diff_Z11,0.000000,0.0000,638
+Interquartile Range of Random Normal,0.000000,0.0000,639
+Interquartile Range of Random Uniform,0.000000,0.0000,640
+Mode of Z (Initial cake weight) [kg],0.000000,0.0000,641
+Mode of Y1,0.000000,0.0000,642
+Mode of Y2,0.000000,0.0000,643
+Mode of Y3,0.000000,0.0000,644
+Mode of Y4,0.000000,0.0000,645
+Mode of Y5,0.000000,0.0000,646
+Mode of Y6,0.000000,0.0000,647
+Mode of Y7,0.000000,0.0000,648
+Mode of Y8,0.000000,0.0000,649
+Mode of Y9,0.000000,0.0000,650
+Mode of Y10,0.000000,0.0000,651
+Mode of Y11,0.000000,0.0000,652
+Mode of Agitator Speed [rpm] variablity during deagglomeration,0.000000,0.0000,653
+Mode of Average Torque [Nm]  during deagglomeration,0.000000,0.0000,654
+Mode of Temperature control error during deagglomeration,0.000000,0.0000,655
+Mode of Level (collector) at the end of deagglomeration,0.000000,0.0000,656
+Mode of Temp. dryer at the end of deagglomeration,0.000000,0.0000,657
+Mode of Temp2 dryer at the end of heating,0.000000,0.0000,658
+Mode of Duration (min) of high speed agitation,0.000000,0.0000,659
+Mode of Temperature Slope (rate of change) during heating,0.000000,0.0000,660
+Mode of Z1,0.000000,0.0000,661
+Mode of Z2,0.000000,0.0000,662
+Mode of Z3,0.000000,0.0000,663
+Mode of Z4,0.000000,0.0000,664
+Mode of Z5,0.000000,0.0000,665
+Mode of Z6,0.000000,0.0000,666
+Mode of Z7,0.000000,0.0000,667
+Mode of Z8,0.000000,0.0000,668
+Mode of Z9,0.000000,0.0000,669
+Mode of Z10,0.000000,0.0000,670
+Mode of Z11,0.000000,0.0000,671
+Mode of Diff_Z (Initial cake weight) [kg],0.000000,0.0000,672
+Mode of Diff_Y1,0.000000,0.0000,673
+Mode of Diff_Y2,0.000000,0.0000,674
+Mode of Diff_Y3,0.000000,0.0000,675
+Mode of Diff_Y4,0.000000,0.0000,676
+Mode of Diff_Y5,0.000000,0.0000,677
+Mode of Diff_Y6,0.000000,0.0000,678
+Mode of Diff_Y7,0.000000,0.0000,679
+Mode of Diff_Y8,0.000000,0.0000,680
+Mode of Diff_Y9,0.000000,0.0000,681
+Mode of Diff_Y10,0.000000,0.0000,682
+Mode of Diff_Y11,0.000000,0.0000,683
+Mode of Diff_Agitator Speed [rpm] variablity during deagglomeration,0.000000,0.0000,684
+Mode of Diff_Average Torque [Nm]  during deagglomeration,0.000000,0.0000,685
+Mode of Diff_Temperature control error during deagglomeration,0.000000,0.0000,686
+Mode of Diff_Level (collector) at the end of deagglomeration,0.000000,0.0000,687
+Mode of Diff_Temp. dryer at the end of deagglomeration,0.000000,0.0000,688
+Mode of Diff_Temp2 dryer at the end of heating,0.000000,0.0000,689
+Mode of Diff_Duration (min) of high speed agitation,0.000000,0.0000,690
+Mode of Diff_Temperature Slope (rate of change) during heating,0.000000,0.0000,691
+Mode of Diff_Z1,0.000000,0.0000,692
+Mode of Diff_Z2,0.000000,0.0000,693
+Mode of Diff_Z3,0.000000,0.0000,694
+Mode of Diff_Z4,0.000000,0.0000,695
+Mode of Diff_Z5,0.000000,0.0000,696
+Mode of Diff_Z6,0.000000,0.0000,697
+Mode of Diff_Z7,0.000000,0.0000,698
+Mode of Diff_Z8,0.000000,0.0000,699
+Mode of Diff_Z9,0.000000,0.0000,700
+Mode of Diff_Z10,0.000000,0.0000,701
+Mode of Diff_Z11,0.000000,0.0000,702
+Mode of Random Normal,0.000000,0.0000,703
+Mode of Random Uniform,0.000000,0.0000,704
+CV of Z (Initial cake weight) [kg],0.000000,0.0000,705
+CV of Y1,0.000000,0.0000,706
+CV of Y2,0.000000,0.0000,707
+CV of Y3,0.000000,0.0000,708
+CV of Y4,0.000000,0.0000,709
+CV of Y5,0.000000,0.0000,710
+CV of Y6,0.000000,0.0000,711
+CV of Y7,0.000000,0.0000,712
+CV of Y8,0.000000,0.0000,713
+CV of Y9,0.000000,0.0000,714
+CV of Y10,0.000000,0.0000,715
+CV of Y11,0.000000,0.0000,716
+CV of Agitator Speed [rpm] variablity during deagglomeration,0.000000,0.0000,717
+CV of Average Torque [Nm]  during deagglomeration,0.000000,0.0000,718
+CV of Temperature control error during deagglomeration,0.000000,0.0000,719
+CV of Level (collector) at the end of deagglomeration,0.000000,0.0000,720
+CV of Temp. dryer at the end of deagglomeration,0.000000,0.0000,721
+CV of Temp2 dryer at the end of heating,0.000000,0.0000,722
+CV of Duration (min) of high speed agitation,0.000000,0.0000,723
+CV of Temperature Slope (rate of change) during heating,0.000000,0.0000,724
+CV of Z1,0.000000,0.0000,725
+CV of Z2,0.000000,0.0000,726
+CV of Z3,0.000000,0.0000,727
+CV of Z4,0.000000,0.0000,728
+CV of Z5,0.000000,0.0000,729
+CV of Z6,0.000000,0.0000,730
+CV of Z7,0.000000,0.0000,731
+CV of Z8,0.000000,0.0000,732
+CV of Z9,0.000000,0.0000,733
+CV of Z10,0.000000,0.0000,734
+CV of Z11,0.000000,0.0000,735
+CV of Diff_Z (Initial cake weight) [kg],0.000000,0.0000,736
+CV of Diff_Y1,0.000000,0.0000,737
+CV of Diff_Y2,0.000000,0.0000,738
+CV of Diff_Y3,0.000000,0.0000,739
+CV of Diff_Y4,0.000000,0.0000,740
+CV of Diff_Y5,0.000000,0.0000,741
+CV of Diff_Y6,0.000000,0.0000,742
+CV of Diff_Y7,0.000000,0.0000,743
+CV of Diff_Y8,0.000000,0.0000,744
+CV of Diff_Y9,0.000000,0.0000,745
+CV of Diff_Y10,0.000000,0.0000,746
+CV of Diff_Y11,0.000000,0.0000,747
+CV of Diff_Agitator Speed [rpm] variablity during deagglomeration,0.000000,0.0000,748
+CV of Diff_Average Torque [Nm]  during deagglomeration,0.000000,0.0000,749
+CV of Diff_Temperature control error during deagglomeration,0.000000,0.0000,750
+CV of Diff_Level (collector) at the end of deagglomeration,0.000000,0.0000,751
+CV of Diff_Temp. dryer at the end of deagglomeration,0.000000,0.0000,752
+CV of Diff_Temp2 dryer at the end of heating,0.000000,0.0000,753
+CV of Diff_Duration (min) of high speed agitation,0.000000,0.0000,754
+CV of Diff_Temperature Slope (rate of change) during heating,0.000000,0.0000,755
+CV of Diff_Z1,0.000000,0.0000,756
+CV of Diff_Z2,0.000000,0.0000,757
+CV of Diff_Z3,0.000000,0.0000,758
+CV of Diff_Z4,0.000000,0.0000,759
+CV of Diff_Z5,0.000000,0.0000,760
+CV of Diff_Z6,0.000000,0.0000,761
+CV of Diff_Z7,0.000000,0.0000,762
+CV of Diff_Z8,0.000000,0.0000,763
+CV of Diff_Z9,0.000000,0.0000,764
+CV of Diff_Z10,0.000000,0.0000,765
+CV of Diff_Z11,0.000000,0.0000,766
+CV of Random Normal,0.000000,0.0000,767
+CV of Random Uniform,0.000000,0.0000,768

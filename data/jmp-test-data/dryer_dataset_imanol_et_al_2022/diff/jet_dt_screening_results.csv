@@ -1,0 +1,3025 @@
+Predictor,Contribution,Portion,Rank
+"Sum of Z11, 1_Deagglomerate",0.165760,0.0404,1
+"Median of Diff_abs(Jacket Temp SP-PV)  [degC], 1_Deagglomerate",0.158388,0.0386,2
+"Interquartile Range of Power [W], 2_Heat",0.104774,0.0255,3
+"Mode of Diff_Dryer Temp SP [degC], 2_Heat",0.100841,0.0246,4
+"CV of Torque [Nm], 2_Heat",0.074872,0.0182,5
+"Interquartile Range of Torque [Nm], 2_Heat",0.066115,0.0161,6
+"Std Dev of Diff_Torque [Nm], 1_Deagglomerate",0.065590,0.0160,7
+"Sum of Dryer Temp SP [degC], 3_Cooldown",0.059899,0.0146,8
+"Sum of Y11, 3_Cooldown",0.057163,0.0139,9
+"Std Dev of Agitator Speed [rpm], 1_Deagglomerate",0.053236,0.0130,10
+"Mode of Difference[Dryer Temp PV [degC]], 2_Heat",0.052078,0.0127,11
+"Sum of Y11, 1_Deagglomerate",0.050471,0.0123,12
+"Sum of Diff_abs(Dryer Temp SP-PV)  [degC], 1_Deagglomerate",0.045344,0.0110,13
+"CV of Difference[Dryer Temp PV [degC]], 1_Deagglomerate",0.044245,0.0108,14
+"Quantiles95 of Diff_Dryer pressure [mmHg], 3_Cooldown",0.042813,0.0104,15
+"Sum of Y5, 1_Deagglomerate",0.041491,0.0101,16
+"Range of Diff_abs(Jacket Temp SP-PV)  [degC], 2_Heat",0.041194,0.0100,17
+"Quantiles5 of Diff_Torque [Nm], 1_Deagglomerate",0.040347,0.0098,18
+"Mean of Power [W], 1_Deagglomerate",0.038564,0.0094,19
+"CV of Diff_Agitator Speed [rpm], 1_Deagglomerate",0.036515,0.0089,20
+"Interquartile Range of Differential pressure [mmHg], 3_Cooldown",0.035352,0.0086,21
+"Sum of Z11, 2_Heat",0.034680,0.0084,22
+"Sum of Y10, 1_Deagglomerate",0.034005,0.0083,23
+"Interquartile Range of Random Uniform, 2_Heat",0.033200,0.0081,24
+"Sum of Y5, 2_Heat",0.032963,0.0080,25
+"Sum of Y11, 2_Heat",0.032826,0.0080,26
+"Mode of Diff_abs(Dryer Temp SP-PV)  [degC], 2_Heat",0.031239,0.0076,27
+"Median of Torque [Nm], 1_Deagglomerate",0.030501,0.0074,28
+"Median of Diff_Jacket Temp SP [degC], 1_Deagglomerate",0.029034,0.0071,29
+"Max of Diff_abs(Jacket Temp SP-PV)  [degC], 2_Heat",0.028348,0.0069,30
+"Mean of Diff_Torque [Nm], 1_Deagglomerate",0.025582,0.0062,31
+"Sum of Y3, 1_Deagglomerate",0.023264,0.0057,32
+"Quantiles5 of abs(Dryer Temp SP-PV)  [degC], 2_Heat",0.023043,0.0056,33
+"Interquartile Range of Torque [Nm], 3_Cooldown",0.022301,0.0054,34
+"Median of Diff_Mean[Tank level [%]], 3_Cooldown",0.022085,0.0054,35
+"Mode of Dryer Temp SP [degC], 2_Heat",0.021973,0.0054,36
+"Max of Diff_Power [W], 3_Cooldown",0.021262,0.0052,37
+"Quantiles5 of Diff_Power [W], 3_Cooldown",0.020724,0.0050,38
+"Std Dev of Torque [Nm], 2_Heat",0.020466,0.0050,39
+"Quantiles95 of Diff_Difference[Dryer Temp PV [degC]], 2_Heat",0.020254,0.0049,40
+"Mean of Y10, 2_Heat",0.019991,0.0049,41
+"CV of Diff_Jacket Temp SP [degC], 1_Deagglomerate",0.018892,0.0046,42
+"Quantiles5 of Diff_Dryer Temp PV [degC], 3_Cooldown",0.018758,0.0046,43
+"Std Dev of Dryer pressure [mmHg], 3_Cooldown",0.018442,0.0045,44
+"Min of Diff_Difference[Dryer Temp PV [degC]], 2_Heat",0.017810,0.0043,45
+"Median of Diff_Tank level [%]-Mean[Tank level [%]], 1_Deagglomerate",0.017566,0.0043,46
+"Mean of Diff_abs(Jacket Temp SP-PV)  [degC], 1_Deagglomerate",0.017509,0.0043,47
+"Min of Dryer pressure [mmHg], 3_Cooldown",0.017438,0.0042,48
+"Range of Diff_Dryer Temp PV [degC], 1_Deagglomerate",0.017257,0.0042,49
+"Sum of Diff_Differential pressure [mmHg], 2_Heat",0.017232,0.0042,50
+"Median of Random Uniform, 2_Heat",0.017126,0.0042,51
+"Interquartile Range of abs(Dryer Temp SP-PV)  [degC], 1_Deagglomerate",0.017001,0.0041,52
+"Quantiles5 of Diff_Jacket Temp PV  [degC], 1_Deagglomerate",0.016375,0.0040,53
+"Max of abs(Dryer Temp SP-PV)  [degC], 1_Deagglomerate",0.016216,0.0039,54
+"Quantiles95 of Tank level [%]-Mean[Tank level [%]], 2_Heat",0.016140,0.0039,55
+"Mean of Diff_Agitator Speed [rpm], 3_Cooldown",0.016069,0.0039,56
+"Mean of Diff_Differential pressure [mmHg], 2_Heat",0.016042,0.0039,57
+"Interquartile Range of Diff_Torque [Nm], 3_Cooldown",0.015917,0.0039,58
+"Median of Diff_Differential pressure [mmHg], 3_Cooldown",0.015681,0.0038,59
+"CV of Diff_Tank level [%], 2_Heat",0.015458,0.0038,60
+"Max of Diff_Difference[Dryer Temp PV [degC]], 2_Heat",0.015424,0.0038,61
+"Median of Diff_Power [W], 1_Deagglomerate",0.015186,0.0037,62
+"Quantiles5 of Diff_Difference[Dryer Temp PV [degC]], 1_Deagglomerate",0.015159,0.0037,63
+"Quantiles95 of abs(Dryer Temp SP-PV)  [degC], 1_Deagglomerate",0.014540,0.0035,64
+"Sum of Z6, 1_Deagglomerate",0.014437,0.0035,65
+"Sum of Z2, 1_Deagglomerate",0.014321,0.0035,66
+"CV of Difference[Dryer Temp PV [degC]], 2_Heat",0.014150,0.0034,67
+"Mode of Y11, 2_Heat",0.014110,0.0034,68
+"Quantiles5 of Diff_Power [W], 2_Heat",0.013421,0.0033,69
+"Mean of Diff_Power [W], 1_Deagglomerate",0.013322,0.0032,70
+"CV of Diff_Tank level [%]-Mean[Tank level [%]], 1_Deagglomerate",0.012975,0.0032,71
+"Min of Diff_Difference[Dryer Temp PV [degC]], 1_Deagglomerate",0.012872,0.0031,72
+"Median of Dryer Temp PV [degC], 1_Deagglomerate",0.012652,0.0031,73
+"Sum of Y7, 3_Cooldown",0.012517,0.0030,74
+"Sum of Random Normal, 1_Deagglomerate",0.012407,0.0030,75
+"Quantiles5 of Diff_abs(Dryer Temp SP-PV)  [degC], 3_Cooldown",0.012337,0.0030,76
+"Mean of Dryer pressure [mmHg], 1_Deagglomerate",0.012253,0.0030,77
+"Quantiles5 of abs(Dryer Temp SP-PV)  [degC], 1_Deagglomerate",0.012219,0.0030,78
+"Mean of Torque [Nm], 3_Cooldown",0.012091,0.0029,79
+"CV of Diff_Agitator Speed [rpm], 3_Cooldown",0.012029,0.0029,80
+"Mean of Random Uniform, 2_Heat",0.011952,0.0029,81
+"Range of Difference[Dryer Temp PV [degC]], 1_Deagglomerate",0.011947,0.0029,82
+"Std Dev of Diff_Differential pressure [mmHg], 2_Heat",0.011852,0.0029,83
+"Max of Y7, 2_Heat",0.011840,0.0029,84
+"Mode of Diff_Dryer pressure [mmHg], 2_Heat",0.011753,0.0029,85
+"Mean of Y10, 1_Deagglomerate",0.011735,0.0029,86
+"Mean of Diff_Difference[Dryer Temp PV [degC]], 1_Deagglomerate",0.011644,0.0028,87
+"Mean of abs(Jacket Temp SP-PV)  [degC], 1_Deagglomerate",0.011632,0.0028,88
+"Std Dev of Diff_Dryer pressure [mmHg], 1_Deagglomerate",0.011409,0.0028,89
+"Median of Y5, 1_Deagglomerate",0.011337,0.0028,90
+"Sum of Torque [Nm], 3_Cooldown",0.011275,0.0027,91
+"Mean of Z9, 3_Cooldown",0.011076,0.0027,92
+"Interquartile Range of Diff_Torque [Nm], 1_Deagglomerate",0.011048,0.0027,93
+"Sum of Random Uniform, 3_Cooldown",0.011036,0.0027,94
+"Mean of Torque [Nm], 1_Deagglomerate",0.010827,0.0026,95
+"Interquartile Range of Diff_Dryer Temp SP [degC], 3_Cooldown",0.010615,0.0026,96
+"Median of Power [W], 1_Deagglomerate",0.010549,0.0026,97
+"Std Dev of Power [W], 3_Cooldown",0.010329,0.0025,98
+"Std Dev of Jacket Temp PV  [degC], 1_Deagglomerate",0.010297,0.0025,99
+"Mode of Diff_Jacket Temp SP [degC], 2_Heat",0.010165,0.0025,100
+"Range of Random Uniform, 3_Cooldown",0.010062,0.0025,101
+"Std Dev of Jacket Temp PV  [degC], 3_Cooldown",0.010016,0.0024,102
+"Mode of Diff_Dryer Temp PV [degC], 1_Deagglomerate",0.009774,0.0024,103
+"CV of Tank level [%], 3_Cooldown",0.009699,0.0024,104
+"Quantiles5 of Dryer Temp PV [degC], 1_Deagglomerate",0.009647,0.0023,105
+"Median of Diff_Z2, 1_Deagglomerate",0.009588,0.0023,106
+"Quantiles5 of Diff_Mean[Tank level [%]], 3_Cooldown",0.009572,0.0023,107
+"Interquartile Range of Tank level [%]-Mean[Tank level [%]], 3_Cooldown",0.009531,0.0023,108
+"Quantiles5 of Jacket Temp PV  [degC], 1_Deagglomerate",0.009477,0.0023,109
+"Range of Diff_Dryer Temp SP [degC], 3_Cooldown",0.009448,0.0023,110
+"Max of Power [W], 1_Deagglomerate",0.009421,0.0023,111
+"Mean of Z (Initial cake weight) [kg], 1_Deagglomerate",0.009393,0.0023,112
+"Max of Y11, 3_Cooldown",0.009343,0.0023,113
+"Mode of Jacket Temp PV  [degC], 2_Heat",0.009267,0.0023,114
+"Quantiles95 of Z6, 3_Cooldown",0.009259,0.0023,115
+"Quantiles5 of Diff_Tank level [%], 1_Deagglomerate",0.009159,0.0022,116
+"Std Dev of Difference[Dryer Temp PV [degC]], 2_Heat",0.009132,0.0022,117
+"Quantiles95 of Z8, 2_Heat",0.009064,0.0022,118
+"Mean of Diff_Difference[Dryer Temp PV [degC]], 3_Cooldown",0.008895,0.0022,119
+"Median of Jacket Temp PV  [degC], 1_Deagglomerate",0.008861,0.0022,120
+"Min of Diff_Dryer Temp SP [degC], 3_Cooldown",0.008848,0.0022,121
+"Max of Jacket Temp PV  [degC], 3_Cooldown",0.008833,0.0022,122
+"CV of Diff_Dryer Temp PV [degC], 1_Deagglomerate",0.008748,0.0021,123
+"Interquartile Range of Dryer Temp SP [degC], 3_Cooldown",0.008706,0.0021,124
+"Sum of Z6, 2_Heat",0.008698,0.0021,125
+"Interquartile Range of Agitator Speed [rpm], 1_Deagglomerate",0.008578,0.0021,126
+"Max of Differential pressure [mmHg], 3_Cooldown",0.008575,0.0021,127
+"Max of Diff_Differential pressure [mmHg], 2_Heat",0.008568,0.0021,128
+"Sum of Y7, 1_Deagglomerate",0.008492,0.0021,129
+"Max of Z (Initial cake weight) [kg], 1_Deagglomerate",0.008475,0.0021,130
+"Mode of abs(Jacket Temp SP-PV)  [degC], 1_Deagglomerate",0.008435,0.0021,131
+"Interquartile Range of Diff_Tank level [%]-Mean[Tank level [%]], 2_Heat",0.008384,0.0020,132
+"Mean of Diff_abs(Dryer Temp SP-PV)  [degC], 2_Heat",0.008206,0.0020,133
+"Max of Diff_Tank level [%], 3_Cooldown",0.008194,0.0020,134
+"Median of Diff_Agitator Speed [rpm], 2_Heat",0.008178,0.0020,135
+"Max of Diff_Dryer Temp SP [degC], 3_Cooldown",0.008172,0.0020,136
+"Mean of Y3, 1_Deagglomerate",0.008097,0.0020,137
+"Min of Diff_Power [W], 3_Cooldown",0.008089,0.0020,138
+"Quantiles95 of Jacket Temp PV  [degC], 3_Cooldown",0.008034,0.0020,139
+"CV of Torque [Nm], 3_Cooldown",0.008013,0.0020,140
+"Quantiles5 of Agitator Speed [rpm], 1_Deagglomerate",0.007997,0.0019,141
+"Max of Diff_Mean[Tank level [%]], 1_Deagglomerate",0.007993,0.0019,142
+"Interquartile Range of Diff_Tank level [%], 1_Deagglomerate",0.007938,0.0019,143
+"CV of Jacket Temp PV  [degC], 1_Deagglomerate",0.007870,0.0019,144
+"Max of Y3, 2_Heat",0.007868,0.0019,145
+"Std Dev of Diff_Tank level [%], 1_Deagglomerate",0.007862,0.0019,146
+"CV of Random Normal, 3_Cooldown",0.007825,0.0019,147
+"Quantiles95 of Random Uniform, 1_Deagglomerate",0.007719,0.0019,148
+"Quantiles5 of Diff_Agitator Speed [rpm], 1_Deagglomerate",0.007686,0.0019,149
+"Min of Dryer Temp SP [degC], 3_Cooldown",0.007569,0.0018,150
+"Std Dev of Diff_Dryer Temp PV [degC], 2_Heat",0.007526,0.0018,151
+"Interquartile Range of Diff_Mean[Tank level [%]], 3_Cooldown",0.007461,0.0018,152
+"Quantiles95 of Diff_Agitator Speed [rpm], 1_Deagglomerate",0.007447,0.0018,153
+"Min of abs(Dryer Temp SP-PV)  [degC], 1_Deagglomerate",0.007340,0.0018,154
+"Min of Y11, 3_Cooldown",0.007263,0.0018,155
+"Std Dev of abs(Jacket Temp SP-PV)  [degC], 3_Cooldown",0.007223,0.0018,156
+"Mean of Z6, 2_Heat",0.007210,0.0018,157
+"Max of Diff_Power [W], 1_Deagglomerate",0.007206,0.0018,158
+"Max of Z9, 1_Deagglomerate",0.007088,0.0017,159
+"Range of Diff_Power [W], 3_Cooldown",0.007031,0.0017,160
+"Mean of Jacket Temp SP [degC], 3_Cooldown",0.006952,0.0017,161
+"Max of Z (Initial cake weight) [kg], 3_Cooldown",0.006901,0.0017,162
+"Mean of Y3, 3_Cooldown",0.006731,0.0016,163
+"Sum of Difference[Dryer Temp PV [degC]], 3_Cooldown",0.006587,0.0016,164
+"Mean of Diff_Jacket Temp SP [degC], 1_Deagglomerate",0.006587,0.0016,165
+"Interquartile Range of Diff_Dryer pressure [mmHg], 3_Cooldown",0.006412,0.0016,166
+"Max of Power [W], 3_Cooldown",0.006398,0.0016,167
+"Quantiles5 of Diff_Dryer Temp SP [degC], 1_Deagglomerate",0.006348,0.0015,168
+"Range of Torque [Nm], 1_Deagglomerate",0.006230,0.0015,169
+"Max of Torque [Nm], 3_Cooldown",0.006152,0.0015,170
+"Range of Random Uniform, 1_Deagglomerate",0.006125,0.0015,171
+"Std Dev of Diff_Mean[Tank level [%]], 3_Cooldown",0.006045,0.0015,172
+"Mode of Difference[Dryer Temp PV [degC]], 1_Deagglomerate",0.005972,0.0015,173
+"Max of Mean[Tank level [%]], 2_Heat",0.005911,0.0014,174
+"Min of Z2, 1_Deagglomerate",0.005874,0.0014,175
+"Min of abs(Jacket Temp SP-PV)  [degC], 2_Heat",0.005861,0.0014,176
+"Mean of Diff_Dryer Temp SP [degC], 3_Cooldown",0.005831,0.0014,177
+"Range of Agitator Speed [rpm], 2_Heat",0.005734,0.0014,178
+"Quantiles95 of Diff_Tank level [%]-Mean[Tank level [%]], 1_Deagglomerate",0.005671,0.0014,179
+"Quantiles5 of Jacket Temp SP [degC], 3_Cooldown",0.005543,0.0013,180
+"Quantiles95 of Diff_Tank level [%], 2_Heat",0.005538,0.0013,181
+"Min of Differential pressure [mmHg], 1_Deagglomerate",0.005456,0.0013,182
+"Quantiles5 of Y3, 1_Deagglomerate",0.005392,0.0013,183
+"Std Dev of abs(Jacket Temp SP-PV)  [degC], 1_Deagglomerate",0.005379,0.0013,184
+"Sum of Diff_Agitator Speed [rpm], 3_Cooldown",0.005314,0.0013,185
+"Mode of Agitator Speed [rpm], 1_Deagglomerate",0.005310,0.0013,186
+"Median of Diff_abs(Jacket Temp SP-PV)  [degC], 3_Cooldown",0.005286,0.0013,187
+"Range of Random Normal, 3_Cooldown",0.005222,0.0013,188
+"Quantiles5 of abs(Dryer Temp SP-PV)  [degC], 3_Cooldown",0.005218,0.0013,189
+"Max of Diff_Torque [Nm], 2_Heat",0.005211,0.0013,190
+"Quantiles95 of Diff_Differential pressure [mmHg], 1_Deagglomerate",0.005176,0.0013,191
+"Median of Y4, 3_Cooldown",0.005162,0.0013,192
+"CV of Diff_Difference[Dryer Temp PV [degC]], 2_Heat",0.005092,0.0012,193
+"Median of Diff_Dryer Temp SP [degC], 1_Deagglomerate",0.005078,0.0012,194
+"Mean of Diff_Torque [Nm], 3_Cooldown",0.005054,0.0012,195
+"CV of Diff_Mean[Tank level [%]], 3_Cooldown",0.004998,0.0012,196
+"Quantiles95 of Diff_Tank level [%]-Mean[Tank level [%]], 3_Cooldown",0.004961,0.0012,197
+"Min of Dryer Temp SP [degC], 1_Deagglomerate",0.004945,0.0012,198
+"Quantiles5 of Differential pressure [mmHg], 1_Deagglomerate",0.004941,0.0012,199
+"Mean of Mean[Tank level [%]], 1_Deagglomerate",0.004913,0.0012,200
+"Range of Diff_Difference[Dryer Temp PV [degC]], 1_Deagglomerate",0.004877,0.0012,201
+"Sum of Random Normal, 3_Cooldown",0.004876,0.0012,202
+"Min of Diff_abs(Jacket Temp SP-PV)  [degC], 1_Deagglomerate",0.004873,0.0012,203
+"Min of Diff_Jacket Temp PV  [degC], 3_Cooldown",0.004815,0.0012,204
+"Mean of Diff_Power [W], 3_Cooldown",0.004802,0.0012,205
+"Mean of Random Normal, 1_Deagglomerate",0.004782,0.0012,206
+"Min of Z9, 3_Cooldown",0.004764,0.0012,207
+"Max of Z9, 2_Heat",0.004745,0.0012,208
+"Quantiles5 of Torque [Nm], 3_Cooldown",0.004693,0.0011,209
+"Sum of abs(Dryer Temp SP-PV)  [degC], 3_Cooldown",0.004662,0.0011,210
+"Std Dev of Differential pressure [mmHg], 2_Heat",0.004632,0.0011,211
+"Std Dev of Diff_Difference[Dryer Temp PV [degC]], 1_Deagglomerate",0.004586,0.0011,212
+"Range of Diff_Mean[Tank level [%]], 3_Cooldown",0.004580,0.0011,213
+"Min of Y5, 3_Cooldown",0.004547,0.0011,214
+"Median of abs(Dryer Temp SP-PV)  [degC], 3_Cooldown",0.004539,0.0011,215
+"CV of Y5, 1_Deagglomerate",0.004519,0.0011,216
+"Min of Diff_Dryer Temp PV [degC], 2_Heat",0.004478,0.0011,217
+"Quantiles5 of Random Uniform, 3_Cooldown",0.004462,0.0011,218
+"Quantiles95 of Dryer Temp SP [degC], 1_Deagglomerate",0.004450,0.0011,219
+"Median of Z9, 3_Cooldown",0.004440,0.0011,220
+"Max of Y9, 1_Deagglomerate",0.004410,0.0011,221
+"Quantiles5 of Diff_Differential pressure [mmHg], 3_Cooldown",0.004361,0.0011,222
+"CV of Y3, 1_Deagglomerate",0.004354,0.0011,223
+"Mode of Z9, 3_Cooldown",0.004330,0.0011,224
+"Sum of Diff_Mean[Tank level [%]], 1_Deagglomerate",0.004319,0.0011,225
+"Mean of Z5, 3_Cooldown",0.004270,0.0010,226
+"Mean of Random Normal, 3_Cooldown",0.004263,0.0010,227
+"CV of Diff_abs(Jacket Temp SP-PV)  [degC], 2_Heat",0.004180,0.0010,228
+"Min of Diff_Mean[Tank level [%]], 3_Cooldown",0.004180,0.0010,229
+"Quantiles5 of Diff_Tank level [%]-Mean[Tank level [%]], 1_Deagglomerate",0.004175,0.0010,230
+"CV of Agitator Speed [rpm], 3_Cooldown",0.004155,0.0010,231
+"Mode of Diff_Dryer pressure [mmHg], 1_Deagglomerate",0.004064,0.0010,232
+"Min of Agitator Speed [rpm], 2_Heat",0.004055,0.0010,233
+"Interquartile Range of Diff_Agitator Speed [rpm], 1_Deagglomerate",0.004046,0.0010,234
+"CV of Dryer Temp PV [degC], 1_Deagglomerate",0.003985,0.0010,235
+"Median of Diff_Dryer Temp PV [degC], 1_Deagglomerate",0.003949,0.0010,236
+"Min of Dryer Temp PV [degC], 1_Deagglomerate",0.003934,0.0010,237
+"Interquartile Range of Random Normal, 1_Deagglomerate",0.003932,0.0010,238
+"Min of Diff_abs(Jacket Temp SP-PV)  [degC], 3_Cooldown",0.003929,0.0010,239
+"Mode of Jacket Temp SP [degC], 1_Deagglomerate",0.003903,0.0010,240
+"Quantiles95 of Y11, 2_Heat",0.003900,0.0009,241
+"Std Dev of Diff_Dryer pressure [mmHg], 2_Heat",0.003900,0.0009,242
+"Interquartile Range of Agitator Speed [rpm], 2_Heat",0.003894,0.0009,243
+"Interquartile Range of Diff_Mean[Tank level [%]], 2_Heat",0.003889,0.0009,244
+"Median of Random Normal, 3_Cooldown",0.003883,0.0009,245
+"Min of Z6, 3_Cooldown",0.003805,0.0009,246
+"Range of Diff_Torque [Nm], 3_Cooldown",0.003786,0.0009,247
+"Median of Difference[Dryer Temp PV [degC]], 1_Deagglomerate",0.003749,0.0009,248
+"Min of Z2, 3_Cooldown",0.003698,0.0009,249
+"Min of Y5, 1_Deagglomerate",0.003695,0.0009,250
+"Median of Diff_Tank level [%]-Mean[Tank level [%]], 3_Cooldown",0.003651,0.0009,251
+"Mode of Diff_abs(Dryer Temp SP-PV)  [degC], 1_Deagglomerate",0.003614,0.0009,252
+"Mean of Diff_abs(Jacket Temp SP-PV)  [degC], 3_Cooldown",0.003577,0.0009,253
+"Quantiles95 of Diff_Difference[Dryer Temp PV [degC]], 3_Cooldown",0.003505,0.0009,254
+"Interquartile Range of Difference[Dryer Temp PV [degC]], 3_Cooldown",0.003480,0.0008,255
+"Median of Diff_Differential pressure [mmHg], 2_Heat",0.003479,0.0008,256
+"Max of Random Normal, 1_Deagglomerate",0.003467,0.0008,257
+"Std Dev of Diff_Torque [Nm], 3_Cooldown",0.003460,0.0008,258
+"Mode of Mean[Tank level [%]], 3_Cooldown",0.003404,0.0008,259
+"Range of Diff_Agitator Speed [rpm], 3_Cooldown",0.003398,0.0008,260
+"Median of Z (Initial cake weight) [kg], 2_Heat",0.003345,0.0008,261
+"Max of abs(Jacket Temp SP-PV)  [degC], 3_Cooldown",0.003331,0.0008,262
+"Min of Y7, 1_Deagglomerate",0.003317,0.0008,263
+"Interquartile Range of Diff_Differential pressure [mmHg], 1_Deagglomerate",0.003287,0.0008,264
+"Mode of Diff_Tank level [%], 2_Heat",0.003281,0.0008,265
+"Max of Y2, 3_Cooldown",0.003256,0.0008,266
+"Min of Diff_Tank level [%], 3_Cooldown",0.003220,0.0008,267
+"Median of Tank level [%]-Mean[Tank level [%]], 3_Cooldown",0.003194,0.0008,268
+"Range of Diff_Jacket Temp SP [degC], 2_Heat",0.003190,0.0008,269
+"Min of Diff_Mean[Tank level [%]], 2_Heat",0.003178,0.0008,270
+"CV of Diff_Tank level [%], 3_Cooldown",0.003081,0.0008,271
+"Mean of Diff_Tank level [%], 2_Heat",0.003056,0.0007,272
+"Median of Diff_Dryer pressure [mmHg], 3_Cooldown",0.003042,0.0007,273
+"Sum of Y2, 2_Heat",0.002998,0.0007,274
+"Min of Diff_Jacket Temp PV  [degC], 2_Heat",0.002949,0.0007,275
+"Median of Diff_Power [W], 3_Cooldown",0.002944,0.0007,276
+"Min of Tank level [%], 3_Cooldown",0.002937,0.0007,277
+"Interquartile Range of Diff_Difference[Dryer Temp PV [degC]], 3_Cooldown",0.002914,0.0007,278
+"Mean of Diff_abs(Dryer Temp SP-PV)  [degC], 1_Deagglomerate",0.002912,0.0007,279
+"Mode of Diff_Dryer pressure [mmHg], 3_Cooldown",0.002885,0.0007,280
+"Mean of Z9, 1_Deagglomerate",0.002847,0.0007,281
+"Median of Diff_Difference[Dryer Temp PV [degC]], 2_Heat",0.002846,0.0007,282
+"Max of Diff_Tank level [%], 1_Deagglomerate",0.002841,0.0007,283
+"Quantiles95 of Diff_abs(Dryer Temp SP-PV)  [degC], 3_Cooldown",0.002832,0.0007,284
+"CV of Random Uniform, 2_Heat",0.002768,0.0007,285
+"Median of Diff_Tank level [%], 3_Cooldown",0.002756,0.0007,286
+"CV of Diff_Tank level [%]-Mean[Tank level [%]], 2_Heat",0.002720,0.0007,287
+"Quantiles5 of Y6, 2_Heat",0.002717,0.0007,288
+"CV of Differential pressure [mmHg], 2_Heat",0.002696,0.0007,289
+"Sum of Diff_Dryer Temp PV [degC], 3_Cooldown",0.002690,0.0007,290
+"Quantiles5 of Power [W], 3_Cooldown",0.002659,0.0006,291
+"Mode of Diff_abs(Jacket Temp SP-PV)  [degC], 3_Cooldown",0.002611,0.0006,292
+"Std Dev of Diff_Dryer Temp SP [degC], 1_Deagglomerate",0.002575,0.0006,293
+"Quantiles95 of Z5, 1_Deagglomerate",0.002562,0.0006,294
+"Interquartile Range of Diff_Difference[Dryer Temp PV [degC]], 2_Heat",0.002544,0.0006,295
+"Min of Jacket Temp PV  [degC], 3_Cooldown",0.002540,0.0006,296
+"Std Dev of Dryer Temp PV [degC], 3_Cooldown",0.002510,0.0006,297
+"Mean of Diff_Tank level [%]-Mean[Tank level [%]], 3_Cooldown",0.002454,0.0006,298
+"CV of abs(Dryer Temp SP-PV)  [degC], 1_Deagglomerate",0.002417,0.0006,299
+"Median of Diff_Difference[Dryer Temp PV [degC]], 3_Cooldown",0.002404,0.0006,300
+"Min of Agitator Speed [rpm], 1_Deagglomerate",0.002403,0.0006,301
+"Sum of Y4, 2_Heat",0.002400,0.0006,302
+"Mean of Y1, 1_Deagglomerate",0.002396,0.0006,303
+"Std Dev of Diff_Power [W], 2_Heat",0.002387,0.0006,304
+"Median of Diff_Power [W], 2_Heat",0.002376,0.0006,305
+"Quantiles95 of Z4, 1_Deagglomerate",0.002372,0.0006,306
+"Quantiles5 of Diff_Dryer pressure [mmHg], 1_Deagglomerate",0.002340,0.0006,307
+"Interquartile Range of Diff_Dryer Temp SP [degC], 2_Heat",0.002316,0.0006,308
+"Mean of Difference[Dryer Temp PV [degC]], 1_Deagglomerate",0.002315,0.0006,309
+"Sum of Agitator Speed [rpm], 3_Cooldown",0.002294,0.0006,310
+"Quantiles95 of Agitator Speed [rpm], 3_Cooldown",0.002275,0.0006,311
+"Min of Jacket Temp SP [degC], 3_Cooldown",0.002255,0.0005,312
+"CV of Random Normal, 2_Heat",0.002241,0.0005,313
+"Range of Diff_Torque [Nm], 2_Heat",0.002227,0.0005,314
+"Quantiles5 of Diff_Dryer pressure [mmHg], 3_Cooldown",0.002208,0.0005,315
+"Interquartile Range of Diff_Jacket Temp SP [degC], 2_Heat",0.002183,0.0005,316
+"Max of Agitator Speed [rpm], 2_Heat",0.002172,0.0005,317
+"Max of Diff_Difference[Dryer Temp PV [degC]], 3_Cooldown",0.002171,0.0005,318
+"CV of Dryer Temp PV [degC], 3_Cooldown",0.002170,0.0005,319
+"Max of Y2, 2_Heat",0.002153,0.0005,320
+"Interquartile Range of Diff_Jacket Temp SP [degC], 1_Deagglomerate",0.002143,0.0005,321
+"Sum of Z7, 1_Deagglomerate",0.002129,0.0005,322
+"Min of Diff_Jacket Temp SP [degC], 1_Deagglomerate",0.002113,0.0005,323
+"Median of Diff_abs(Jacket Temp SP-PV)  [degC], 2_Heat",0.002093,0.0005,324
+"Sum of Z9, 3_Cooldown",0.002070,0.0005,325
+"Min of Diff_Power [W], 2_Heat",0.002053,0.0005,326
+"Max of Temp2, 3_Cooldown",0.002017,0.0005,327
+"Range of Diff_Differential pressure [mmHg], 3_Cooldown",0.002009,0.0005,328
+"Mean of Z3, 1_Deagglomerate",0.002000,0.0005,329
+"Max of Temp1, 3_Cooldown",0.001980,0.0005,330
+"Mean of Diff_Jacket Temp SP [degC], 2_Heat",0.001975,0.0005,331
+"Interquartile Range of Diff_Tank level [%], 2_Heat",0.001968,0.0005,332
+"CV of Diff_Jacket Temp SP [degC], 2_Heat",0.001942,0.0005,333
+"Quantiles95 of Y2, 2_Heat",0.001937,0.0005,334
+"Interquartile Range of Jacket Temp SP [degC], 1_Deagglomerate",0.001932,0.0005,335
+"Interquartile Range of Diff_Jacket Temp PV  [degC], 3_Cooldown",0.001928,0.0005,336
+"Range of Power [W], 2_Heat",0.001916,0.0005,337
+"Mode of Diff_abs(Jacket Temp SP-PV)  [degC], 2_Heat",0.001916,0.0005,338
+"Quantiles5 of Z (Initial cake weight) [kg], 3_Cooldown",0.001894,0.0005,339
+"Quantiles95 of Z9, 2_Heat",0.001860,0.0005,340
+"Mode of Jacket Temp SP [degC], 2_Heat",0.001842,0.0004,341
+"Min of Differential pressure [mmHg], 3_Cooldown",0.001819,0.0004,342
+"Mode of Z9, 1_Deagglomerate",0.001816,0.0004,343
+"Std Dev of abs(Jacket Temp SP-PV)  [degC], 2_Heat",0.001805,0.0004,344
+"Mean of Dryer Temp PV [degC], 3_Cooldown",0.001797,0.0004,345
+"Quantiles95 of Diff_abs(Jacket Temp SP-PV)  [degC], 2_Heat",0.001790,0.0004,346
+"Sum of Z2, 3_Cooldown",0.001779,0.0004,347
+"Range of abs(Jacket Temp SP-PV)  [degC], 3_Cooldown",0.001750,0.0004,348
+"Min of Diff_Dryer Temp PV [degC], 1_Deagglomerate",0.001741,0.0004,349
+"Median of Tank level [%]-Mean[Tank level [%]], 1_Deagglomerate",0.001726,0.0004,350
+"Max of Y1, 1_Deagglomerate",0.001717,0.0004,351
+"Quantiles95 of Random Normal, 3_Cooldown",0.001703,0.0004,352
+"Quantiles95 of Differential pressure [mmHg], 1_Deagglomerate",0.001685,0.0004,353
+"Mean of Z4, 1_Deagglomerate",0.001664,0.0004,354
+"Max of Dryer Temp SP [degC], 1_Deagglomerate",0.001649,0.0004,355
+"Sum of Diff_Dryer Temp SP [degC], 3_Cooldown",0.001644,0.0004,356
+"Quantiles95 of Z3, 1_Deagglomerate",0.001628,0.0004,357
+"Sum of Z9, 1_Deagglomerate",0.001625,0.0004,358
+"Quantiles5 of Diff_Jacket Temp SP [degC], 3_Cooldown",0.001594,0.0004,359
+"Max of Jacket Temp SP [degC], 1_Deagglomerate",0.001584,0.0004,360
+"Range of Diff_Y2, 1_Deagglomerate",0.001574,0.0004,361
+"Std Dev of Diff_Dryer Temp SP [degC], 3_Cooldown",0.001540,0.0004,362
+"Median of Z8, 2_Heat",0.001526,0.0004,363
+"Mean of Z1, 2_Heat",0.001517,0.0004,364
+"Interquartile Range of Diff_Tank level [%], 3_Cooldown",0.001501,0.0004,365
+"Max of Diff_Mean[Tank level [%]], 2_Heat",0.001492,0.0004,366
+"Sum of Y4, 3_Cooldown",0.001486,0.0004,367
+"Std Dev of Mean[Tank level [%]], 2_Heat",0.001485,0.0004,368
+"Mode of Diff_Jacket Temp PV  [degC], 2_Heat",0.001484,0.0004,369
+"Quantiles95 of Mean[Tank level [%]], 1_Deagglomerate",0.001484,0.0004,370
+"Quantiles5 of Y11, 1_Deagglomerate",0.001480,0.0004,371
+"Range of Mean[Tank level [%]], 2_Heat",0.001472,0.0004,372
+"Std Dev of Difference[Dryer Temp PV [degC]], 3_Cooldown",0.001443,0.0004,373
+"Sum of Diff_Dryer pressure [mmHg], 1_Deagglomerate",0.001440,0.0004,374
+"Min of Z9, 1_Deagglomerate",0.001431,0.0003,375
+"Quantiles95 of Diff_Dryer Temp SP [degC], 3_Cooldown",0.001409,0.0003,376
+"Mode of Z9, 2_Heat",0.001396,0.0003,377
+"Interquartile Range of abs(Dryer Temp SP-PV)  [degC], 2_Heat",0.001389,0.0003,378
+"CV of Diff_Dryer Temp SP [degC], 1_Deagglomerate",0.001389,0.0003,379
+"Sum of Diff_Tank level [%]-Mean[Tank level [%]], 2_Heat",0.001378,0.0003,380
+"Mean of Diff_Differential pressure [mmHg], 3_Cooldown",0.001377,0.0003,381
+"Range of abs(Dryer Temp SP-PV)  [degC], 1_Deagglomerate",0.001376,0.0003,382
+"Mean of Z11, 2_Heat",0.001369,0.0003,383
+"Quantiles5 of Diff_Difference[Dryer Temp PV [degC]], 2_Heat",0.001364,0.0003,384
+"Mean of Z8, 1_Deagglomerate",0.001351,0.0003,385
+"Mean of Z8, 2_Heat",0.001346,0.0003,386
+"Sum of Z1, 1_Deagglomerate",0.001325,0.0003,387
+"Std Dev of Tank level [%]-Mean[Tank level [%]], 3_Cooldown",0.001321,0.0003,388
+"Sum of Y3, 2_Heat",0.001312,0.0003,389
+"CV of Z4, 1_Deagglomerate",0.001308,0.0003,390
+"Mean of Random Uniform, 3_Cooldown",0.001302,0.0003,391
+"Max of Z3, 2_Heat",0.001296,0.0003,392
+"Mode of Diff_Power [W], 3_Cooldown",0.001294,0.0003,393
+"Quantiles95 of Diff_Mean[Tank level [%]], 2_Heat",0.001288,0.0003,394
+"Sum of Z (Initial cake weight) [kg], 1_Deagglomerate",0.001271,0.0003,395
+"Max of Z6, 1_Deagglomerate",0.001254,0.0003,396
+"Interquartile Range of Mean[Tank level [%]], 1_Deagglomerate",0.001253,0.0003,397
+"Min of Mean[Tank level [%]], 3_Cooldown",0.001244,0.0003,398
+"Max of Diff_Torque [Nm], 3_Cooldown",0.001242,0.0003,399
+"Min of Torque [Nm], 3_Cooldown",0.001239,0.0003,400
+"Mode of Diff_Difference[Dryer Temp PV [degC]], 3_Cooldown",0.001238,0.0003,401
+"Sum of Z4, 1_Deagglomerate",0.001224,0.0003,402
+"Mean of Jacket Temp PV  [degC], 2_Heat",0.001224,0.0003,403
+"Std Dev of Random Uniform, 3_Cooldown",0.001214,0.0003,404
+"Quantiles5 of Y2, 1_Deagglomerate",0.001209,0.0003,405
+"Median of Diff_Jacket Temp PV  [degC], 2_Heat",0.001190,0.0003,406
+"Median of Random Normal, 1_Deagglomerate",0.001178,0.0003,407
+"Mean of Z5, 1_Deagglomerate",0.001173,0.0003,408
+"Max of Diff_abs(Dryer Temp SP-PV)  [degC], 3_Cooldown",0.001157,0.0003,409
+"Min of Y1, 1_Deagglomerate",0.001152,0.0003,410
+"Mode of Z1, 1_Deagglomerate",0.001138,0.0003,411
+"Median of Diff_abs(Dryer Temp SP-PV)  [degC], 3_Cooldown",0.001134,0.0003,412
+"Mode of Diff_Differential pressure [mmHg], 1_Deagglomerate",0.001122,0.0003,413
+"Min of Diff_Differential pressure [mmHg], 1_Deagglomerate",0.001109,0.0003,414
+"Mean of Y2, 1_Deagglomerate",0.001084,0.0003,415
+"Median of Diff_Dryer pressure [mmHg], 1_Deagglomerate",0.001055,0.0003,416
+"Quantiles5 of Diff_abs(Jacket Temp SP-PV)  [degC], 2_Heat",0.001053,0.0003,417
+"Mode of Diff_abs(Dryer Temp SP-PV)  [degC], 3_Cooldown",0.001053,0.0003,418
+"Mode of Diff_Agitator Speed [rpm], 1_Deagglomerate",0.001051,0.0003,419
+"Range of Diff_Tank level [%], 3_Cooldown",0.001047,0.0003,420
+"Std Dev of Diff_Power [W], 1_Deagglomerate",0.001044,0.0003,421
+"Range of Diff_Jacket Temp PV  [degC], 3_Cooldown",0.001041,0.0003,422
+"Std Dev of Diff_Tank level [%]-Mean[Tank level [%]], 3_Cooldown",0.001040,0.0003,423
+"Sum of Z5, 1_Deagglomerate",0.001037,0.0003,424
+"Max of Z7, 3_Cooldown",0.001020,0.0002,425
+"Std Dev of Diff_Jacket Temp PV  [degC], 2_Heat",0.001001,0.0002,426
+"Max of Diff_Agitator Speed [rpm], 3_Cooldown",0.001001,0.0002,427
+"Quantiles95 of Random Uniform, 2_Heat",0.000992,0.0002,428
+"Min of Y3, 1_Deagglomerate",0.000976,0.0002,429
+"Sum of Diff_Difference[Dryer Temp PV [degC]], 3_Cooldown",0.000956,0.0002,430
+"Min of Diff_Mean[Tank level [%]], 1_Deagglomerate",0.000935,0.0002,431
+"Interquartile Range of Diff_Mean[Tank level [%]], 1_Deagglomerate",0.000928,0.0002,432
+"Sum of Dryer Temp PV [degC], 3_Cooldown",0.000922,0.0002,433
+"Min of Random Normal, 1_Deagglomerate",0.000920,0.0002,434
+"Range of Agitator Speed [rpm], 3_Cooldown",0.000919,0.0002,435
+"Sum of Z3, 1_Deagglomerate",0.000917,0.0002,436
+"Interquartile Range of Diff_Tank level [%]-Mean[Tank level [%]], 1_Deagglomerate",0.000909,0.0002,437
+"Mode of Diff_Dryer Temp PV [degC], 2_Heat",0.000898,0.0002,438
+"Max of Difference[Dryer Temp PV [degC]], 2_Heat",0.000887,0.0002,439
+"Mode of Y2, 1_Deagglomerate",0.000882,0.0002,440
+"Sum of Y2, 1_Deagglomerate",0.000875,0.0002,441
+"Min of Diff_abs(Jacket Temp SP-PV)  [degC], 2_Heat",0.000874,0.0002,442
+"Interquartile Range of Dryer pressure [mmHg], 3_Cooldown",0.000849,0.0002,443
+"Quantiles95 of Mean[Tank level [%]], 2_Heat",0.000845,0.0002,444
+"Mode of Jacket Temp PV  [degC], 1_Deagglomerate",0.000841,0.0002,445
+"Quantiles95 of Diff_Differential pressure [mmHg], 2_Heat",0.000821,0.0002,446
+"Std Dev of Diff_Tank level [%]-Mean[Tank level [%]], 2_Heat",0.000810,0.0002,447
+"CV of Diff_Power [W], 2_Heat",0.000808,0.0002,448
+"Max of Diff_Difference[Dryer Temp PV [degC]], 1_Deagglomerate",0.000807,0.0002,449
+"Mean of Dryer Temp SP [degC], 1_Deagglomerate",0.000799,0.0002,450
+"Sum of Diff_Agitator Speed [rpm], 1_Deagglomerate",0.000798,0.0002,451
+"Median of Z2, 1_Deagglomerate",0.000793,0.0002,452
+"Sum of abs(Jacket Temp SP-PV)  [degC], 1_Deagglomerate",0.000782,0.0002,453
+"Mean of Z10, 2_Heat",0.000780,0.0002,454
+"Interquartile Range of Diff_Jacket Temp PV  [degC], 2_Heat",0.000773,0.0002,455
+"Mean of Agitator Speed [rpm], 1_Deagglomerate",0.000767,0.0002,456
+"Median of abs(Dryer Temp SP-PV)  [degC], 1_Deagglomerate",0.000760,0.0002,457
+"Sum of Z (Initial cake weight) [kg], 2_Heat",0.000748,0.0002,458
+"Sum of Z8, 1_Deagglomerate",0.000744,0.0002,459
+"Max of Dryer Temp PV [degC], 1_Deagglomerate",0.000744,0.0002,460
+"Min of Power [W], 3_Cooldown",0.000738,0.0002,461
+"Quantiles95 of Diff_Differential pressure [mmHg], 3_Cooldown",0.000732,0.0002,462
+"Max of Diff_Tank level [%]-Mean[Tank level [%]], 1_Deagglomerate",0.000729,0.0002,463
+"Interquartile Range of Dryer Temp PV [degC], 1_Deagglomerate",0.000723,0.0002,464
+"Interquartile Range of Mean[Tank level [%]], 3_Cooldown",0.000722,0.0002,465
+"Interquartile Range of Diff_Difference[Dryer Temp PV [degC]], 1_Deagglomerate",0.000722,0.0002,466
+"Mean of Jacket Temp PV  [degC], 1_Deagglomerate",0.000720,0.0002,467
+"CV of Torque [Nm], 1_Deagglomerate",0.000707,0.0002,468
+"Mean of Z4, 2_Heat",0.000701,0.0002,469
+"Sum of Z1, 2_Heat",0.000675,0.0002,470
+"CV of Dryer Temp SP [degC], 2_Heat",0.000670,0.0002,471
+"Min of Random Uniform, 2_Heat",0.000660,0.0002,472
+"Quantiles95 of Torque [Nm], 2_Heat",0.000641,0.0002,473
+"Median of Mean[Tank level [%]], 2_Heat",0.000633,0.0002,474
+"Quantiles95 of Differential pressure [mmHg], 2_Heat",0.000627,0.0002,475
+"Quantiles5 of Random Uniform, 1_Deagglomerate",0.000626,0.0002,476
+"Quantiles5 of Diff_Tank level [%]-Mean[Tank level [%]], 3_Cooldown",0.000624,0.0002,477
+"Mode of Agitator Speed [rpm], 3_Cooldown",0.000615,0.0001,478
+"Mode of Diff_Dryer Temp PV [degC], 3_Cooldown",0.000613,0.0001,479
+"Std Dev of Tank level [%], 3_Cooldown",0.000613,0.0001,480
+"Quantiles95 of Diff_Tank level [%], 3_Cooldown",0.000612,0.0001,481
+"Median of Z10, 1_Deagglomerate",0.000597,0.0001,482
+"Mode of abs(Jacket Temp SP-PV)  [degC], 3_Cooldown",0.000597,0.0001,483
+"Mode of Dryer pressure [mmHg], 3_Cooldown",0.000592,0.0001,484
+"Range of Diff_Jacket Temp PV  [degC], 2_Heat",0.000578,0.0001,485
+"Quantiles95 of Y1, 2_Heat",0.000577,0.0001,486
+"Std Dev of Torque [Nm], 3_Cooldown",0.000572,0.0001,487
+"Range of Tank level [%], 3_Cooldown",0.000566,0.0001,488
+"Median of Differential pressure [mmHg], 3_Cooldown",0.000562,0.0001,489
+"Sum of Diff_abs(Dryer Temp SP-PV)  [degC], 3_Cooldown",0.000551,0.0001,490
+"Median of Mean[Tank level [%]], 1_Deagglomerate",0.000550,0.0001,491
+"CV of Y7, 1_Deagglomerate",0.000534,0.0001,492
+"Min of Mean[Tank level [%]], 2_Heat",0.000532,0.0001,493
+"Min of Diff_Jacket Temp PV  [degC], 1_Deagglomerate",0.000528,0.0001,494
+"CV of Z7, 2_Heat",0.000527,0.0001,495
+"CV of Diff_Mean[Tank level [%]], 2_Heat",0.000523,0.0001,496
+"Sum of Random Normal, 2_Heat",0.000510,0.0001,497
+"CV of Dryer Temp SP [degC], 3_Cooldown",0.000510,0.0001,498
+"Mean of Diff_Dryer Temp SP [degC], 2_Heat",0.000510,0.0001,499
+"Mode of Diff_Agitator Speed [rpm], 3_Cooldown",0.000505,0.0001,500
+"CV of Y5, 3_Cooldown",0.000499,0.0001,501
+"Max of Z2, 2_Heat",0.000496,0.0001,502
+"Min of Tank level [%]-Mean[Tank level [%]], 2_Heat",0.000496,0.0001,503
+"Sum of Z4, 3_Cooldown",0.000490,0.0001,504
+"Median of Y2, 3_Cooldown",0.000489,0.0001,505
+"Interquartile Range of Diff_Power [W], 1_Deagglomerate",0.000487,0.0001,506
+"Mode of Dryer Temp SP [degC], 3_Cooldown",0.000475,0.0001,507
+"Std Dev of Diff_Dryer Temp PV [degC], 3_Cooldown",0.000474,0.0001,508
+"CV of Diff_Differential pressure [mmHg], 2_Heat",0.000464,0.0001,509
+"Median of Y9, 2_Heat",0.000460,0.0001,510
+"Quantiles95 of Diff_Mean[Tank level [%]], 1_Deagglomerate",0.000459,0.0001,511
+"Range of Difference[Dryer Temp PV [degC]], 2_Heat",0.000450,0.0001,512
+"Interquartile Range of Diff_Agitator Speed [rpm], 2_Heat",0.000437,0.0001,513
+"Mean of Random Uniform, 1_Deagglomerate",0.000430,0.0001,514
+"Quantiles95 of Jacket Temp SP [degC], 2_Heat",0.000426,0.0001,515
+"Std Dev of Diff_Y2, 3_Cooldown",0.000426,0.0001,516
+"Std Dev of Dryer Temp SP [degC], 3_Cooldown",0.000425,0.0001,517
+"Min of Y7, 2_Heat",0.000420,0.0001,518
+"Mean of Z1, 1_Deagglomerate",0.000418,0.0001,519
+"Min of Torque [Nm], 1_Deagglomerate",0.000405,0.0001,520
+"Range of Differential pressure [mmHg], 3_Cooldown",0.000396,0.0001,521
+"Min of Random Normal, 3_Cooldown",0.000395,0.0001,522
+"Interquartile Range of Y2, 1_Deagglomerate",0.000392,0.0001,523
+"Mean of Diff_Y2, 1_Deagglomerate",0.000378,0.0001,524
+"Sum of Difference[Dryer Temp PV [degC]], 1_Deagglomerate",0.000369,0.0001,525
+"Std Dev of Diff_Power [W], 3_Cooldown",0.000365,0.0001,526
+"Max of Diff_Dryer pressure [mmHg], 1_Deagglomerate",0.000361,0.0001,527
+"Mode of Tank level [%], 2_Heat",0.000361,0.0001,528
+"Interquartile Range of Diff_Y2, 1_Deagglomerate",0.000353,0.0001,529
+"Mean of Z3, 2_Heat",0.000353,0.0001,530
+"Max of Mean[Tank level [%]], 3_Cooldown",0.000352,0.0001,531
+"Min of Z5, 3_Cooldown",0.000347,0.0001,532
+"CV of Dryer Temp PV [degC], 2_Heat",0.000338,0.0001,533
+"Max of Z5, 1_Deagglomerate",0.000333,0.0001,534
+"Min of Y9, 1_Deagglomerate",0.000328,0.0001,535
+"Min of Z4, 1_Deagglomerate",0.000323,0.0001,536
+"Mode of Tank level [%], 1_Deagglomerate",0.000323,0.0001,537
+"Std Dev of Agitator Speed [rpm], 3_Cooldown",0.000316,0.0001,538
+"Min of Agitator Speed [rpm], 3_Cooldown",0.000315,0.0001,539
+"Quantiles5 of Mean[Tank level [%]], 2_Heat",0.000313,0.0001,540
+"Interquartile Range of Jacket Temp SP [degC], 2_Heat",0.000312,0.0001,541
+"Range of Mean[Tank level [%]], 3_Cooldown",0.000309,0.0001,542
+"Max of Diff_Dryer pressure [mmHg], 3_Cooldown",0.000304,0.0001,543
+"Median of Mean[Tank level [%]], 3_Cooldown",0.000298,0.0001,544
+"Sum of abs(Jacket Temp SP-PV)  [degC], 2_Heat",0.000296,0.0001,545
+"Std Dev of Diff_Y2, 2_Heat",0.000296,0.0001,546
+"Mode of Tank level [%]-Mean[Tank level [%]], 1_Deagglomerate",0.000295,0.0001,547
+"Mean of abs(Dryer Temp SP-PV)  [degC], 1_Deagglomerate",0.000291,0.0001,548
+"Mode of Agitator Speed [rpm], 2_Heat",0.000279,0.0001,549
+"Quantiles5 of Diff_Mean[Tank level [%]], 1_Deagglomerate",0.000271,0.0001,550
+"Mode of Power [W], 1_Deagglomerate",0.000270,0.0001,551
+"Std Dev of Differential pressure [mmHg], 1_Deagglomerate",0.000270,0.0001,552
+"Sum of Y10, 2_Heat",0.000269,0.0001,553
+"Interquartile Range of Diff_Dryer Temp SP [degC], 1_Deagglomerate",0.000265,0.0001,554
+"Quantiles95 of Z6, 1_Deagglomerate",0.000265,0.0001,555
+"Quantiles95 of Y3, 1_Deagglomerate",0.000264,0.0001,556
+"Max of Mean[Tank level [%]], 1_Deagglomerate",0.000258,0.0001,557
+"Max of Diff_Y2, 2_Heat",0.000257,0.0001,558
+"Std Dev of Diff_Mean[Tank level [%]], 2_Heat",0.000257,0.0001,559
+"CV of Z10, 2_Heat",0.000254,0.0001,560
+"Quantiles95 of Z1, 2_Heat",0.000252,0.0001,561
+"Quantiles5 of Diff_Differential pressure [mmHg], 2_Heat",0.000243,0.0001,562
+"Quantiles5 of Y10, 2_Heat",0.000241,0.0001,563
+"Std Dev of Diff_Z2, 1_Deagglomerate",0.000236,0.0001,564
+"Mode of abs(Jacket Temp SP-PV)  [degC], 2_Heat",0.000235,0.0001,565
+"CV of Diff_Torque [Nm], 3_Cooldown",0.000235,0.0001,566
+"Range of Y2, 1_Deagglomerate",0.000234,0.0001,567
+"Min of Y2, 3_Cooldown",0.000211,0.0001,568
+"Quantiles5 of Agitator Speed [rpm], 3_Cooldown",0.000210,0.0001,569
+"Max of Y5, 3_Cooldown",0.000208,0.0001,570
+"Std Dev of Diff_Y2, 1_Deagglomerate",0.000203,0.0000,571
+"Sum of Y2, 3_Cooldown",0.000201,0.0000,572
+"Min of Y9, 3_Cooldown",0.000195,0.0000,573
+"Interquartile Range of Diff_Differential pressure [mmHg], 2_Heat",0.000193,0.0000,574
+"Mean of Mean[Tank level [%]], 2_Heat",0.000192,0.0000,575
+"Max of Diff_Dryer Temp PV [degC], 2_Heat",0.000192,0.0000,576
+"Quantiles95 of Y10, 3_Cooldown",0.000189,0.0000,577
+"Mode of Tank level [%]-Mean[Tank level [%]], 2_Heat",0.000188,0.0000,578
+"Max of Diff_Mean[Tank level [%]], 3_Cooldown",0.000187,0.0000,579
+"Max of Z11, 1_Deagglomerate",0.000186,0.0000,580
+"Mode of Jacket Temp PV  [degC], 3_Cooldown",0.000180,0.0000,581
+"Mode of Y9, 1_Deagglomerate",0.000171,0.0000,582
+"Min of Diff_Z2, 1_Deagglomerate",0.000166,0.0000,583
+"Mean of Tank level [%], 1_Deagglomerate",0.000161,0.0000,584
+"Mean of Y9, 2_Heat",0.000159,0.0000,585
+"Interquartile Range of Mean[Tank level [%]], 2_Heat",0.000154,0.0000,586
+"Mode of Z10, 2_Heat",0.000154,0.0000,587
+"Mode of Dryer Temp SP [degC], 1_Deagglomerate",0.000146,0.0000,588
+"Mean of Diff_Mean[Tank level [%]], 3_Cooldown",0.000146,0.0000,589
+"CV of Diff_Differential pressure [mmHg], 3_Cooldown",0.000145,0.0000,590
+"Sum of Z6, 3_Cooldown",0.000145,0.0000,591
+"Mean of Diff_Z1, 2_Heat",0.000140,0.0000,592
+"Range of Mean[Tank level [%]], 1_Deagglomerate",0.000133,0.0000,593
+"Min of Mean[Tank level [%]], 1_Deagglomerate",0.000132,0.0000,594
+"Mode of Diff_Agitator Speed [rpm], 2_Heat",0.000131,0.0000,595
+"Quantiles95 of Mean[Tank level [%]], 3_Cooldown",0.000127,0.0000,596
+"CV of Y3, 2_Heat",0.000121,0.0000,597
+"Median of Power [W], 2_Heat",0.000121,0.0000,598
+"Mean of Y2, 2_Heat",0.000120,0.0000,599
+"CV of Z7, 1_Deagglomerate",0.000112,0.0000,600
+"Median of Diff_Agitator Speed [rpm], 1_Deagglomerate",0.000106,0.0000,601
+"Quantiles95 of Diff_Agitator Speed [rpm], 3_Cooldown",0.000105,0.0000,602
+"Median of Diff_Agitator Speed [rpm], 3_Cooldown",0.000103,0.0000,603
+"Interquartile Range of Diff_Differential pressure [mmHg], 3_Cooldown",0.000102,0.0000,604
+"Interquartile Range of Diff_Agitator Speed [rpm], 3_Cooldown",0.000096,0.0000,605
+"Range of Y2, 3_Cooldown",0.000085,0.0000,606
+"Mean of Jacket Temp SP [degC], 2_Heat",0.000077,0.0000,607
+"Median of Diff_Mean[Tank level [%]], 1_Deagglomerate",0.000074,0.0000,608
+"Mean of Differential pressure [mmHg], 1_Deagglomerate",0.000074,0.0000,609
+"Min of Jacket Temp PV  [degC], 1_Deagglomerate",0.000072,0.0000,610
+"Max of Y9, 3_Cooldown",0.000060,0.0000,611
+"Quantiles5 of Tank level [%]-Mean[Tank level [%]], 2_Heat",0.000059,0.0000,612
+"Sum of Mean[Tank level [%]], 1_Deagglomerate",0.000053,0.0000,613
+"CV of Mean[Tank level [%]], 3_Cooldown",0.000053,0.0000,614
+"Quantiles95 of Y10, 2_Heat",0.000051,0.0000,615
+"Median of Diff_Mean[Tank level [%]], 2_Heat",0.000049,0.0000,616
+"Mode of Diff_Power [W], 2_Heat",0.000048,0.0000,617
+"Quantiles95 of Random Normal, 2_Heat",0.000048,0.0000,618
+"CV of Y8, 2_Heat",0.000048,0.0000,619
+"Mean of Z8, 3_Cooldown",0.000041,0.0000,620
+"Mode of Differential pressure [mmHg], 2_Heat",0.000040,0.0000,621
+"Min of Diff_Differential pressure [mmHg], 2_Heat",0.000038,0.0000,622
+"Mean of Diff_Z1, 1_Deagglomerate",0.000036,0.0000,623
+"Mean of Z2, 1_Deagglomerate",0.000030,0.0000,624
+"Mode of Diff_Jacket Temp SP [degC], 3_Cooldown",0.000026,0.0000,625
+"CV of Diff_Jacket Temp SP [degC], 3_Cooldown",0.000025,0.0000,626
+"Mean of Diff_Z2, 3_Cooldown",0.000024,0.0000,627
+"Sum of Mean[Tank level [%]], 3_Cooldown",0.000019,0.0000,628
+"Max of Z7, 2_Heat",0.000017,0.0000,629
+"Mode of Diff_Differential pressure [mmHg], 2_Heat",0.000012,0.0000,630
+"Mode of Diff_Torque [Nm], 3_Cooldown",0.000011,0.0000,631
+"Quantiles95 of Diff_Dryer pressure [mmHg], 1_Deagglomerate",0.000010,0.0000,632
+"Mean of Y10, 3_Cooldown",0.000008,0.0000,633
+"CV of Z4, 2_Heat",0.000006,0.0000,634
+"Mean of Y9, 3_Cooldown",0.000006,0.0000,635
+"Mode of Y5, 1_Deagglomerate",0.000002,0.0000,636
+"Std Dev of Diff_Y8, 3_Cooldown",0.000000,0.0000,637
+"Std Dev of Diff_Y9, 1_Deagglomerate",0.000000,0.0000,638
+"Std Dev of Diff_Y9, 2_Heat",0.000000,0.0000,639
+"Std Dev of Diff_Y9, 3_Cooldown",0.000000,0.0000,640
+"Std Dev of Diff_Y10, 1_Deagglomerate",0.000000,0.0000,641
+"Std Dev of Diff_Y10, 2_Heat",0.000000,0.0000,642
+"Std Dev of Diff_Y10, 3_Cooldown",0.000000,0.0000,643
+"Std Dev of Diff_Y11, 1_Deagglomerate",0.000000,0.0000,644
+"Std Dev of Diff_Y11, 2_Heat",0.000000,0.0000,645
+"Std Dev of Diff_Y11, 3_Cooldown",0.000000,0.0000,646
+"Std Dev of Diff_Tank level [%], 2_Heat",0.000000,0.0000,647
+"Std Dev of Diff_Tank level [%], 3_Cooldown",0.000000,0.0000,648
+"Std Dev of Diff_Mean[Tank level [%]], 1_Deagglomerate",0.000000,0.0000,649
+"Std Dev of Diff_Tank level [%]-Mean[Tank level [%]], 1_Deagglomerate",0.000000,0.0000,650
+"Std Dev of Diff_Differential pressure [mmHg], 1_Deagglomerate",0.000000,0.0000,651
+"Std Dev of Diff_Differential pressure [mmHg], 3_Cooldown",0.000000,0.0000,652
+"Std Dev of Diff_Dryer pressure [mmHg], 3_Cooldown",0.000000,0.0000,653
+"Std Dev of Diff_Agitator Speed [rpm], 1_Deagglomerate",0.000000,0.0000,654
+"Std Dev of Diff_Agitator Speed [rpm], 2_Heat",0.000000,0.0000,655
+"Std Dev of Diff_Agitator Speed [rpm], 3_Cooldown",0.000000,0.0000,656
+"Std Dev of Diff_Torque [Nm], 2_Heat",0.000000,0.0000,657
+"Std Dev of Diff_Jacket Temp SP [degC], 1_Deagglomerate",0.000000,0.0000,658
+"Std Dev of Diff_Jacket Temp SP [degC], 2_Heat",0.000000,0.0000,659
+"Std Dev of Diff_Jacket Temp SP [degC], 3_Cooldown",0.000000,0.0000,660
+"Std Dev of Diff_Jacket Temp PV  [degC], 1_Deagglomerate",0.000000,0.0000,661
+"Std Dev of Diff_Jacket Temp PV  [degC], 3_Cooldown",0.000000,0.0000,662
+"Std Dev of Diff_abs(Jacket Temp SP-PV)  [degC], 1_Deagglomerate",0.000000,0.0000,663
+"Std Dev of Diff_abs(Jacket Temp SP-PV)  [degC], 2_Heat",0.000000,0.0000,664
+"Std Dev of Diff_abs(Jacket Temp SP-PV)  [degC], 3_Cooldown",0.000000,0.0000,665
+"Std Dev of Diff_Dryer Temp SP [degC], 2_Heat",0.000000,0.0000,666
+"Std Dev of Diff_Dryer Temp PV [degC], 1_Deagglomerate",0.000000,0.0000,667
+"Std Dev of Diff_Difference[Dryer Temp PV [degC]], 2_Heat",0.000000,0.0000,668
+"Std Dev of Diff_Difference[Dryer Temp PV [degC]], 3_Cooldown",0.000000,0.0000,669
+"Std Dev of Diff_abs(Dryer Temp SP-PV)  [degC], 1_Deagglomerate",0.000000,0.0000,670
+"Std Dev of Diff_abs(Dryer Temp SP-PV)  [degC], 2_Heat",0.000000,0.0000,671
+"Std Dev of Diff_abs(Dryer Temp SP-PV)  [degC], 3_Cooldown",0.000000,0.0000,672
+"Std Dev of Diff_Z1, 1_Deagglomerate",0.000000,0.0000,673
+"Std Dev of Diff_Z1, 2_Heat",0.000000,0.0000,674
+"Std Dev of Diff_Z1, 3_Cooldown",0.000000,0.0000,675
+"Std Dev of Diff_Z2, 2_Heat",0.000000,0.0000,676
+"Std Dev of Diff_Z2, 3_Cooldown",0.000000,0.0000,677
+"Std Dev of Diff_Z3, 1_Deagglomerate",0.000000,0.0000,678
+"Std Dev of Diff_Z3, 2_Heat",0.000000,0.0000,679
+"Std Dev of Diff_Z3, 3_Cooldown",0.000000,0.0000,680
+"Std Dev of Diff_Z4, 1_Deagglomerate",0.000000,0.0000,681
+"Std Dev of Diff_Z4, 2_Heat",0.000000,0.0000,682
+"Std Dev of Diff_Z4, 3_Cooldown",0.000000,0.0000,683
+"Std Dev of Diff_Z5, 1_Deagglomerate",0.000000,0.0000,684
+"Std Dev of Diff_Z5, 2_Heat",0.000000,0.0000,685
+"Std Dev of Diff_Z5, 3_Cooldown",0.000000,0.0000,686
+"Std Dev of Diff_Z6, 1_Deagglomerate",0.000000,0.0000,687
+"Std Dev of Diff_Z6, 2_Heat",0.000000,0.0000,688
+"Std Dev of Diff_Z6, 3_Cooldown",0.000000,0.0000,689
+"Std Dev of Diff_Z7, 1_Deagglomerate",0.000000,0.0000,690
+"Std Dev of Diff_Z7, 2_Heat",0.000000,0.0000,691
+"Std Dev of Diff_Z7, 3_Cooldown",0.000000,0.0000,692
+"Std Dev of Diff_Z8, 1_Deagglomerate",0.000000,0.0000,693
+"Std Dev of Diff_Z8, 2_Heat",0.000000,0.0000,694
+"Std Dev of Diff_Z8, 3_Cooldown",0.000000,0.0000,695
+"Std Dev of Diff_Z9, 1_Deagglomerate",0.000000,0.0000,696
+"Std Dev of Diff_Z9, 2_Heat",0.000000,0.0000,697
+"Std Dev of Diff_Z9, 3_Cooldown",0.000000,0.0000,698
+"Std Dev of Diff_Z10, 1_Deagglomerate",0.000000,0.0000,699
+"Std Dev of Diff_Z10, 2_Heat",0.000000,0.0000,700
+"Std Dev of Diff_Z10, 3_Cooldown",0.000000,0.0000,701
+"Std Dev of Diff_Z11, 1_Deagglomerate",0.000000,0.0000,702
+"Std Dev of Diff_Z11, 2_Heat",0.000000,0.0000,703
+"Std Dev of Diff_Z11, 3_Cooldown",0.000000,0.0000,704
+"Std Dev of Diff_Z (Initial cake weight) [kg], 1_Deagglomerate",0.000000,0.0000,705
+"Std Dev of Diff_Z (Initial cake weight) [kg], 2_Heat",0.000000,0.0000,706
+"Std Dev of Diff_Z (Initial cake weight) [kg], 3_Cooldown",0.000000,0.0000,707
+"Std Dev of Diff_Level1, 1_Deagglomerate",0.000000,0.0000,708
+"Std Dev of Diff_Level1, 2_Heat",0.000000,0.0000,709
+"Std Dev of Diff_Level1, 3_Cooldown",0.000000,0.0000,710
+"Std Dev of Diff_Temp1, 1_Deagglomerate",0.000000,0.0000,711
+"Std Dev of Diff_Temp1, 2_Heat",0.000000,0.0000,712
+"Std Dev of Diff_Temp1, 3_Cooldown",0.000000,0.0000,713
+"Std Dev of Diff_Temp2, 1_Deagglomerate",0.000000,0.0000,714
+"Std Dev of Diff_Temp2, 2_Heat",0.000000,0.0000,715
+"Std Dev of Diff_Temp2, 3_Cooldown",0.000000,0.0000,716
+"Std Dev of Random Normal, 1_Deagglomerate",0.000000,0.0000,717
+"Std Dev of Random Normal, 2_Heat",0.000000,0.0000,718
+"Std Dev of Random Normal, 3_Cooldown",0.000000,0.0000,719
+"Std Dev of Random Uniform, 1_Deagglomerate",0.000000,0.0000,720
+"Std Dev of Random Uniform, 2_Heat",0.000000,0.0000,721
+"Max of Y1, 2_Heat",0.000000,0.0000,722
+"Max of Y1, 3_Cooldown",0.000000,0.0000,723
+"Max of Y2, 1_Deagglomerate",0.000000,0.0000,724
+"Max of Y3, 1_Deagglomerate",0.000000,0.0000,725
+"Max of Y3, 3_Cooldown",0.000000,0.0000,726
+"Max of Y4, 1_Deagglomerate",0.000000,0.0000,727
+"Max of Y4, 2_Heat",0.000000,0.0000,728
+"Max of Y4, 3_Cooldown",0.000000,0.0000,729
+"Max of Y5, 1_Deagglomerate",0.000000,0.0000,730
+"Max of Y5, 2_Heat",0.000000,0.0000,731
+"Max of Y6, 1_Deagglomerate",0.000000,0.0000,732
+"Max of Y6, 2_Heat",0.000000,0.0000,733
+"Max of Y6, 3_Cooldown",0.000000,0.0000,734
+"Max of Y7, 1_Deagglomerate",0.000000,0.0000,735
+"Max of Y7, 3_Cooldown",0.000000,0.0000,736
+"Max of Y8, 1_Deagglomerate",0.000000,0.0000,737
+"Max of Y8, 2_Heat",0.000000,0.0000,738
+"Max of Y8, 3_Cooldown",0.000000,0.0000,739
+"Max of Y9, 2_Heat",0.000000,0.0000,740
+"Max of Y10, 1_Deagglomerate",0.000000,0.0000,741
+"Max of Y10, 2_Heat",0.000000,0.0000,742
+"Max of Y10, 3_Cooldown",0.000000,0.0000,743
+"Max of Y11, 1_Deagglomerate",0.000000,0.0000,744
+"Max of Y11, 2_Heat",0.000000,0.0000,745
+"Max of Tank level [%], 1_Deagglomerate",0.000000,0.0000,746
+"Max of Tank level [%], 2_Heat",0.000000,0.0000,747
+"Max of Tank level [%], 3_Cooldown",0.000000,0.0000,748
+"Max of Tank level [%]-Mean[Tank level [%]], 1_Deagglomerate",0.000000,0.0000,749
+"Max of Tank level [%]-Mean[Tank level [%]], 2_Heat",0.000000,0.0000,750
+"Max of Tank level [%]-Mean[Tank level [%]], 3_Cooldown",0.000000,0.0000,751
+"Max of Differential pressure [mmHg], 1_Deagglomerate",0.000000,0.0000,752
+"Max of Differential pressure [mmHg], 2_Heat",0.000000,0.0000,753
+"Max of Dryer pressure [mmHg], 1_Deagglomerate",0.000000,0.0000,754
+"Max of Dryer pressure [mmHg], 2_Heat",0.000000,0.0000,755
+"Max of Dryer pressure [mmHg], 3_Cooldown",0.000000,0.0000,756
+"Max of Power [W], 2_Heat",0.000000,0.0000,757
+"Max of Agitator Speed [rpm], 1_Deagglomerate",0.000000,0.0000,758
+"Max of Agitator Speed [rpm], 3_Cooldown",0.000000,0.0000,759
+"Max of Torque [Nm], 1_Deagglomerate",0.000000,0.0000,760
+"Max of Torque [Nm], 2_Heat",0.000000,0.0000,761
+"Max of Jacket Temp SP [degC], 2_Heat",0.000000,0.0000,762
+"Max of Jacket Temp SP [degC], 3_Cooldown",0.000000,0.0000,763
+"Max of Jacket Temp PV  [degC], 1_Deagglomerate",0.000000,0.0000,764
+"Max of Jacket Temp PV  [degC], 2_Heat",0.000000,0.0000,765
+"Max of abs(Jacket Temp SP-PV)  [degC], 1_Deagglomerate",0.000000,0.0000,766
+"Max of abs(Jacket Temp SP-PV)  [degC], 2_Heat",0.000000,0.0000,767
+"Max of Dryer Temp SP [degC], 2_Heat",0.000000,0.0000,768
+"Max of Dryer Temp SP [degC], 3_Cooldown",0.000000,0.0000,769
+"Max of Dryer Temp PV [degC], 2_Heat",0.000000,0.0000,770
+"Max of Dryer Temp PV [degC], 3_Cooldown",0.000000,0.0000,771
+"Max of Difference[Dryer Temp PV [degC]], 1_Deagglomerate",0.000000,0.0000,772
+"Max of Difference[Dryer Temp PV [degC]], 3_Cooldown",0.000000,0.0000,773
+"Max of abs(Dryer Temp SP-PV)  [degC], 2_Heat",0.000000,0.0000,774
+"Max of abs(Dryer Temp SP-PV)  [degC], 3_Cooldown",0.000000,0.0000,775
+"Max of Z1, 1_Deagglomerate",0.000000,0.0000,776
+"Max of Z1, 2_Heat",0.000000,0.0000,777
+"Max of Z1, 3_Cooldown",0.000000,0.0000,778
+"Max of Z2, 1_Deagglomerate",0.000000,0.0000,779
+"Max of Z2, 3_Cooldown",0.000000,0.0000,780
+"Max of Z3, 1_Deagglomerate",0.000000,0.0000,781
+"Max of Z3, 3_Cooldown",0.000000,0.0000,782
+"Max of Z4, 1_Deagglomerate",0.000000,0.0000,783
+"Max of Z4, 2_Heat",0.000000,0.0000,784
+"Max of Z4, 3_Cooldown",0.000000,0.0000,785
+"Max of Z5, 2_Heat",0.000000,0.0000,786
+"Max of Z5, 3_Cooldown",0.000000,0.0000,787
+"Max of Z6, 2_Heat",0.000000,0.0000,788
+"Max of Z6, 3_Cooldown",0.000000,0.0000,789
+"Max of Z7, 1_Deagglomerate",0.000000,0.0000,790
+"Max of Z8, 1_Deagglomerate",0.000000,0.0000,791
+"Max of Z8, 2_Heat",0.000000,0.0000,792
+"Max of Z8, 3_Cooldown",0.000000,0.0000,793
+"Max of Z9, 3_Cooldown",0.000000,0.0000,794
+"Max of Z10, 1_Deagglomerate",0.000000,0.0000,795
+"Max of Z10, 2_Heat",0.000000,0.0000,796
+"Max of Z10, 3_Cooldown",0.000000,0.0000,797
+"Max of Z11, 2_Heat",0.000000,0.0000,798
+"Max of Z11, 3_Cooldown",0.000000,0.0000,799
+"Max of Z (Initial cake weight) [kg], 2_Heat",0.000000,0.0000,800
+"Max of Level1, 1_Deagglomerate",0.000000,0.0000,801
+"Max of Level1, 2_Heat",0.000000,0.0000,802
+"Max of Level1, 3_Cooldown",0.000000,0.0000,803
+"Max of Temp1, 1_Deagglomerate",0.000000,0.0000,804
+"Max of Temp1, 2_Heat",0.000000,0.0000,805
+"Max of Temp2, 1_Deagglomerate",0.000000,0.0000,806
+"Max of Temp2, 2_Heat",0.000000,0.0000,807
+"Max of Diff_Y1, 1_Deagglomerate",0.000000,0.0000,808
+"Max of Diff_Y1, 2_Heat",0.000000,0.0000,809
+"Max of Diff_Y1, 3_Cooldown",0.000000,0.0000,810
+"Max of Diff_Y2, 1_Deagglomerate",0.000000,0.0000,811
+"Max of Diff_Y2, 3_Cooldown",0.000000,0.0000,812
+"Max of Diff_Y3, 1_Deagglomerate",0.000000,0.0000,813
+"Max of Diff_Y3, 2_Heat",0.000000,0.0000,814
+"Max of Diff_Y3, 3_Cooldown",0.000000,0.0000,815
+"Max of Diff_Y4, 1_Deagglomerate",0.000000,0.0000,816
+"Max of Diff_Y4, 2_Heat",0.000000,0.0000,817
+"Max of Diff_Y4, 3_Cooldown",0.000000,0.0000,818
+"Max of Diff_Y5, 1_Deagglomerate",0.000000,0.0000,819
+"Max of Diff_Y5, 2_Heat",0.000000,0.0000,820
+"Max of Diff_Y5, 3_Cooldown",0.000000,0.0000,821
+"Max of Diff_Y6, 1_Deagglomerate",0.000000,0.0000,822
+"Max of Diff_Y6, 2_Heat",0.000000,0.0000,823
+"Max of Diff_Y6, 3_Cooldown",0.000000,0.0000,824
+"Max of Diff_Y7, 1_Deagglomerate",0.000000,0.0000,825
+"Max of Diff_Y7, 2_Heat",0.000000,0.0000,826
+"Max of Diff_Y7, 3_Cooldown",0.000000,0.0000,827
+"Max of Diff_Y8, 1_Deagglomerate",0.000000,0.0000,828
+"Max of Diff_Y8, 2_Heat",0.000000,0.0000,829
+"Max of Diff_Y8, 3_Cooldown",0.000000,0.0000,830
+"Max of Diff_Y9, 1_Deagglomerate",0.000000,0.0000,831
+"Max of Diff_Y9, 2_Heat",0.000000,0.0000,832
+"Max of Diff_Y9, 3_Cooldown",0.000000,0.0000,833
+"Max of Diff_Y10, 1_Deagglomerate",0.000000,0.0000,834
+"Max of Diff_Y10, 2_Heat",0.000000,0.0000,835
+"Max of Diff_Y10, 3_Cooldown",0.000000,0.0000,836
+"Max of Diff_Y11, 1_Deagglomerate",0.000000,0.0000,837
+"Max of Diff_Y11, 2_Heat",0.000000,0.0000,838
+"Max of Diff_Y11, 3_Cooldown",0.000000,0.0000,839
+"Max of Diff_Tank level [%], 2_Heat",0.000000,0.0000,840
+"Max of Diff_Tank level [%]-Mean[Tank level [%]], 2_Heat",0.000000,0.0000,841
+"Max of Diff_Tank level [%]-Mean[Tank level [%]], 3_Cooldown",0.000000,0.0000,842
+"Max of Diff_Differential pressure [mmHg], 1_Deagglomerate",0.000000,0.0000,843
+"Max of Diff_Differential pressure [mmHg], 3_Cooldown",0.000000,0.0000,844
+"Max of Diff_Dryer pressure [mmHg], 2_Heat",0.000000,0.0000,845
+"Max of Diff_Power [W], 2_Heat",0.000000,0.0000,846
+"Max of Diff_Agitator Speed [rpm], 1_Deagglomerate",0.000000,0.0000,847
+"Max of Diff_Agitator Speed [rpm], 2_Heat",0.000000,0.0000,848
+"Max of Diff_Torque [Nm], 1_Deagglomerate",0.000000,0.0000,849
+"Max of Diff_Jacket Temp SP [degC], 1_Deagglomerate",0.000000,0.0000,850
+"Max of Diff_Jacket Temp SP [degC], 2_Heat",0.000000,0.0000,851
+"Max of Diff_Jacket Temp SP [degC], 3_Cooldown",0.000000,0.0000,852
+"Max of Diff_Jacket Temp PV  [degC], 1_Deagglomerate",0.000000,0.0000,853
+"Max of Diff_Jacket Temp PV  [degC], 2_Heat",0.000000,0.0000,854
+"Max of Diff_Jacket Temp PV  [degC], 3_Cooldown",0.000000,0.0000,855
+"Max of Diff_abs(Jacket Temp SP-PV)  [degC], 1_Deagglomerate",0.000000,0.0000,856
+"Max of Diff_abs(Jacket Temp SP-PV)  [degC], 3_Cooldown",0.000000,0.0000,857
+"Max of Diff_Dryer Temp SP [degC], 1_Deagglomerate",0.000000,0.0000,858
+"Max of Diff_Dryer Temp SP [degC], 2_Heat",0.000000,0.0000,859
+"Max of Diff_Dryer Temp PV [degC], 1_Deagglomerate",0.000000,0.0000,860
+"Max of Diff_Dryer Temp PV [degC], 3_Cooldown",0.000000,0.0000,861
+"Max of Diff_abs(Dryer Temp SP-PV)  [degC], 1_Deagglomerate",0.000000,0.0000,862
+"Max of Diff_abs(Dryer Temp SP-PV)  [degC], 2_Heat",0.000000,0.0000,863
+"Max of Diff_Z1, 1_Deagglomerate",0.000000,0.0000,864
+"Max of Diff_Z1, 2_Heat",0.000000,0.0000,865
+"Max of Diff_Z1, 3_Cooldown",0.000000,0.0000,866
+"Max of Diff_Z2, 1_Deagglomerate",0.000000,0.0000,867
+"Max of Diff_Z2, 2_Heat",0.000000,0.0000,868
+"Max of Diff_Z2, 3_Cooldown",0.000000,0.0000,869
+"Max of Diff_Z3, 1_Deagglomerate",0.000000,0.0000,870
+"Max of Diff_Z3, 2_Heat",0.000000,0.0000,871
+"Max of Diff_Z3, 3_Cooldown",0.000000,0.0000,872
+"Max of Diff_Z4, 1_Deagglomerate",0.000000,0.0000,873
+"Max of Diff_Z4, 2_Heat",0.000000,0.0000,874
+"Max of Diff_Z4, 3_Cooldown",0.000000,0.0000,875
+"Max of Diff_Z5, 1_Deagglomerate",0.000000,0.0000,876
+"Max of Diff_Z5, 2_Heat",0.000000,0.0000,877
+"Max of Diff_Z5, 3_Cooldown",0.000000,0.0000,878
+"Max of Diff_Z6, 1_Deagglomerate",0.000000,0.0000,879
+"Max of Diff_Z6, 2_Heat",0.000000,0.0000,880
+"Max of Diff_Z6, 3_Cooldown",0.000000,0.0000,881
+"Max of Diff_Z7, 1_Deagglomerate",0.000000,0.0000,882
+"Max of Diff_Z7, 2_Heat",0.000000,0.0000,883
+"Max of Diff_Z7, 3_Cooldown",0.000000,0.0000,884
+"Max of Diff_Z8, 1_Deagglomerate",0.000000,0.0000,885
+"Max of Diff_Z8, 2_Heat",0.000000,0.0000,886
+"Max of Diff_Z8, 3_Cooldown",0.000000,0.0000,887
+"Max of Diff_Z9, 1_Deagglomerate",0.000000,0.0000,888
+"Max of Diff_Z9, 2_Heat",0.000000,0.0000,889
+"Max of Diff_Z9, 3_Cooldown",0.000000,0.0000,890
+"Max of Diff_Z10, 1_Deagglomerate",0.000000,0.0000,891
+"Max of Diff_Z10, 2_Heat",0.000000,0.0000,892
+"Max of Diff_Z10, 3_Cooldown",0.000000,0.0000,893
+"Max of Diff_Z11, 1_Deagglomerate",0.000000,0.0000,894
+"Max of Diff_Z11, 2_Heat",0.000000,0.0000,895
+"Max of Diff_Z11, 3_Cooldown",0.000000,0.0000,896
+"Max of Diff_Z (Initial cake weight) [kg], 1_Deagglomerate",0.000000,0.0000,897
+"Max of Diff_Z (Initial cake weight) [kg], 2_Heat",0.000000,0.0000,898
+"Max of Diff_Z (Initial cake weight) [kg], 3_Cooldown",0.000000,0.0000,899
+"Max of Diff_Level1, 1_Deagglomerate",0.000000,0.0000,900
+"Max of Diff_Level1, 2_Heat",0.000000,0.0000,901
+"Max of Diff_Level1, 3_Cooldown",0.000000,0.0000,902
+"Max of Diff_Temp1, 1_Deagglomerate",0.000000,0.0000,903
+"Max of Diff_Temp1, 2_Heat",0.000000,0.0000,904
+"Max of Diff_Temp1, 3_Cooldown",0.000000,0.0000,905
+"Max of Diff_Temp2, 1_Deagglomerate",0.000000,0.0000,906
+"Max of Diff_Temp2, 2_Heat",0.000000,0.0000,907
+"Max of Diff_Temp2, 3_Cooldown",0.000000,0.0000,908
+"Max of Random Normal, 2_Heat",0.000000,0.0000,909
+"Max of Random Normal, 3_Cooldown",0.000000,0.0000,910
+"Max of Random Uniform, 1_Deagglomerate",0.000000,0.0000,911
+"Max of Random Uniform, 2_Heat",0.000000,0.0000,912
+"Max of Random Uniform, 3_Cooldown",0.000000,0.0000,913
+"Min of Y1, 2_Heat",0.000000,0.0000,914
+"Min of Y1, 3_Cooldown",0.000000,0.0000,915
+"Min of Y2, 1_Deagglomerate",0.000000,0.0000,916
+"Min of Y2, 2_Heat",0.000000,0.0000,917
+"Min of Y3, 2_Heat",0.000000,0.0000,918
+"Min of Y3, 3_Cooldown",0.000000,0.0000,919
+"Min of Y4, 1_Deagglomerate",0.000000,0.0000,920
+"Min of Y4, 2_Heat",0.000000,0.0000,921
+"Min of Y4, 3_Cooldown",0.000000,0.0000,922
+"Min of Y5, 2_Heat",0.000000,0.0000,923
+"Min of Y6, 1_Deagglomerate",0.000000,0.0000,924
+"Min of Y6, 2_Heat",0.000000,0.0000,925
+"Min of Y6, 3_Cooldown",0.000000,0.0000,926
+"Min of Y7, 3_Cooldown",0.000000,0.0000,927
+"Min of Y8, 1_Deagglomerate",0.000000,0.0000,928
+"Min of Y8, 2_Heat",0.000000,0.0000,929
+"Min of Y8, 3_Cooldown",0.000000,0.0000,930
+"Min of Y9, 2_Heat",0.000000,0.0000,931
+"Min of Y10, 1_Deagglomerate",0.000000,0.0000,932
+"Min of Y10, 2_Heat",0.000000,0.0000,933
+"Min of Y10, 3_Cooldown",0.000000,0.0000,934
+"Min of Y11, 1_Deagglomerate",0.000000,0.0000,935
+"Min of Y11, 2_Heat",0.000000,0.0000,936
+"Min of Tank level [%], 1_Deagglomerate",0.000000,0.0000,937
+"Min of Tank level [%], 2_Heat",0.000000,0.0000,938
+"Min of Tank level [%]-Mean[Tank level [%]], 1_Deagglomerate",0.000000,0.0000,939
+"Min of Tank level [%]-Mean[Tank level [%]], 3_Cooldown",0.000000,0.0000,940
+"Min of Differential pressure [mmHg], 2_Heat",0.000000,0.0000,941
+"Min of Dryer pressure [mmHg], 1_Deagglomerate",0.000000,0.0000,942
+"Min of Dryer pressure [mmHg], 2_Heat",0.000000,0.0000,943
+"Min of Power [W], 1_Deagglomerate",0.000000,0.0000,944
+"Min of Power [W], 2_Heat",0.000000,0.0000,945
+"Min of Torque [Nm], 2_Heat",0.000000,0.0000,946
+"Min of Jacket Temp SP [degC], 1_Deagglomerate",0.000000,0.0000,947
+"Min of Jacket Temp SP [degC], 2_Heat",0.000000,0.0000,948
+"Min of Jacket Temp PV  [degC], 2_Heat",0.000000,0.0000,949
+"Min of abs(Jacket Temp SP-PV)  [degC], 1_Deagglomerate",0.000000,0.0000,950
+"Min of abs(Jacket Temp SP-PV)  [degC], 3_Cooldown",0.000000,0.0000,951
+"Min of Dryer Temp SP [degC], 2_Heat",0.000000,0.0000,952
+"Min of Dryer Temp PV [degC], 2_Heat",0.000000,0.0000,953
+"Min of Dryer Temp PV [degC], 3_Cooldown",0.000000,0.0000,954
+"Min of Difference[Dryer Temp PV [degC]], 1_Deagglomerate",0.000000,0.0000,955
+"Min of Difference[Dryer Temp PV [degC]], 2_Heat",0.000000,0.0000,956
+"Min of Difference[Dryer Temp PV [degC]], 3_Cooldown",0.000000,0.0000,957
+"Min of abs(Dryer Temp SP-PV)  [degC], 2_Heat",0.000000,0.0000,958
+"Min of abs(Dryer Temp SP-PV)  [degC], 3_Cooldown",0.000000,0.0000,959
+"Min of Z1, 1_Deagglomerate",0.000000,0.0000,960
+"Min of Z1, 2_Heat",0.000000,0.0000,961
+"Min of Z1, 3_Cooldown",0.000000,0.0000,962
+"Min of Z2, 2_Heat",0.000000,0.0000,963
+"Min of Z3, 1_Deagglomerate",0.000000,0.0000,964
+"Min of Z3, 2_Heat",0.000000,0.0000,965
+"Min of Z3, 3_Cooldown",0.000000,0.0000,966
+"Min of Z4, 2_Heat",0.000000,0.0000,967
+"Min of Z4, 3_Cooldown",0.000000,0.0000,968
+"Min of Z5, 1_Deagglomerate",0.000000,0.0000,969
+"Min of Z5, 2_Heat",0.000000,0.0000,970
+"Min of Z6, 1_Deagglomerate",0.000000,0.0000,971
+"Min of Z6, 2_Heat",0.000000,0.0000,972
+"Min of Z7, 1_Deagglomerate",0.000000,0.0000,973
+"Min of Z7, 2_Heat",0.000000,0.0000,974
+"Min of Z7, 3_Cooldown",0.000000,0.0000,975
+"Min of Z8, 1_Deagglomerate",0.000000,0.0000,976
+"Min of Z8, 2_Heat",0.000000,0.0000,977
+"Min of Z8, 3_Cooldown",0.000000,0.0000,978
+"Min of Z9, 2_Heat",0.000000,0.0000,979
+"Min of Z10, 1_Deagglomerate",0.000000,0.0000,980
+"Min of Z10, 2_Heat",0.000000,0.0000,981
+"Min of Z10, 3_Cooldown",0.000000,0.0000,982
+"Min of Z11, 1_Deagglomerate",0.000000,0.0000,983
+"Min of Z11, 2_Heat",0.000000,0.0000,984
+"Min of Z11, 3_Cooldown",0.000000,0.0000,985
+"Min of Z (Initial cake weight) [kg], 1_Deagglomerate",0.000000,0.0000,986
+"Min of Z (Initial cake weight) [kg], 2_Heat",0.000000,0.0000,987
+"Min of Z (Initial cake weight) [kg], 3_Cooldown",0.000000,0.0000,988
+"Min of Level1, 1_Deagglomerate",0.000000,0.0000,989
+"Min of Level1, 2_Heat",0.000000,0.0000,990
+"Min of Level1, 3_Cooldown",0.000000,0.0000,991
+"Min of Temp1, 1_Deagglomerate",0.000000,0.0000,992
+"Min of Temp1, 2_Heat",0.000000,0.0000,993
+"Min of Temp1, 3_Cooldown",0.000000,0.0000,994
+"Min of Temp2, 1_Deagglomerate",0.000000,0.0000,995
+"Min of Temp2, 2_Heat",0.000000,0.0000,996
+"Min of Temp2, 3_Cooldown",0.000000,0.0000,997
+"Min of Diff_Y1, 1_Deagglomerate",0.000000,0.0000,998
+"Min of Diff_Y1, 2_Heat",0.000000,0.0000,999
+"Min of Diff_Y1, 3_Cooldown",0.000000,0.0000,1000
+"Min of Diff_Y2, 1_Deagglomerate",0.000000,0.0000,1001
+"Min of Diff_Y2, 2_Heat",0.000000,0.0000,1002
+"Min of Diff_Y2, 3_Cooldown",0.000000,0.0000,1003
+"Min of Diff_Y3, 1_Deagglomerate",0.000000,0.0000,1004
+"Min of Diff_Y3, 2_Heat",0.000000,0.0000,1005
+"Min of Diff_Y3, 3_Cooldown",0.000000,0.0000,1006
+"Min of Diff_Y4, 1_Deagglomerate",0.000000,0.0000,1007
+"Min of Diff_Y4, 2_Heat",0.000000,0.0000,1008
+"Min of Diff_Y4, 3_Cooldown",0.000000,0.0000,1009
+"Min of Diff_Y5, 1_Deagglomerate",0.000000,0.0000,1010
+"Min of Diff_Y5, 2_Heat",0.000000,0.0000,1011
+"Min of Diff_Y5, 3_Cooldown",0.000000,0.0000,1012
+"Min of Diff_Y6, 1_Deagglomerate",0.000000,0.0000,1013
+"Min of Diff_Y6, 2_Heat",0.000000,0.0000,1014
+"Min of Diff_Y6, 3_Cooldown",0.000000,0.0000,1015
+"Min of Diff_Y7, 1_Deagglomerate",0.000000,0.0000,1016
+"Min of Diff_Y7, 2_Heat",0.000000,0.0000,1017
+"Min of Diff_Y7, 3_Cooldown",0.000000,0.0000,1018
+"Min of Diff_Y8, 1_Deagglomerate",0.000000,0.0000,1019
+"Min of Diff_Y8, 2_Heat",0.000000,0.0000,1020
+"Min of Diff_Y8, 3_Cooldown",0.000000,0.0000,1021
+"Min of Diff_Y9, 1_Deagglomerate",0.000000,0.0000,1022
+"Min of Diff_Y9, 2_Heat",0.000000,0.0000,1023
+"Min of Diff_Y9, 3_Cooldown",0.000000,0.0000,1024
+"Min of Diff_Y10, 1_Deagglomerate",0.000000,0.0000,1025
+"Min of Diff_Y10, 2_Heat",0.000000,0.0000,1026
+"Min of Diff_Y10, 3_Cooldown",0.000000,0.0000,1027
+"Min of Diff_Y11, 1_Deagglomerate",0.000000,0.0000,1028
+"Min of Diff_Y11, 2_Heat",0.000000,0.0000,1029
+"Min of Diff_Y11, 3_Cooldown",0.000000,0.0000,1030
+"Min of Diff_Tank level [%], 1_Deagglomerate",0.000000,0.0000,1031
+"Min of Diff_Tank level [%], 2_Heat",0.000000,0.0000,1032
+"Min of Diff_Tank level [%]-Mean[Tank level [%]], 1_Deagglomerate",0.000000,0.0000,1033
+"Min of Diff_Tank level [%]-Mean[Tank level [%]], 2_Heat",0.000000,0.0000,1034
+"Min of Diff_Tank level [%]-Mean[Tank level [%]], 3_Cooldown",0.000000,0.0000,1035
+"Min of Diff_Differential pressure [mmHg], 3_Cooldown",0.000000,0.0000,1036
+"Min of Diff_Dryer pressure [mmHg], 1_Deagglomerate",0.000000,0.0000,1037
+"Min of Diff_Dryer pressure [mmHg], 2_Heat",0.000000,0.0000,1038
+"Min of Diff_Dryer pressure [mmHg], 3_Cooldown",0.000000,0.0000,1039
+"Min of Diff_Power [W], 1_Deagglomerate",0.000000,0.0000,1040
+"Min of Diff_Agitator Speed [rpm], 1_Deagglomerate",0.000000,0.0000,1041
+"Min of Diff_Agitator Speed [rpm], 2_Heat",0.000000,0.0000,1042
+"Min of Diff_Agitator Speed [rpm], 3_Cooldown",0.000000,0.0000,1043
+"Min of Diff_Torque [Nm], 1_Deagglomerate",0.000000,0.0000,1044
+"Min of Diff_Torque [Nm], 2_Heat",0.000000,0.0000,1045
+"Min of Diff_Torque [Nm], 3_Cooldown",0.000000,0.0000,1046
+"Min of Diff_Jacket Temp SP [degC], 2_Heat",0.000000,0.0000,1047
+"Min of Diff_Jacket Temp SP [degC], 3_Cooldown",0.000000,0.0000,1048
+"Min of Diff_Dryer Temp SP [degC], 1_Deagglomerate",0.000000,0.0000,1049
+"Min of Diff_Dryer Temp SP [degC], 2_Heat",0.000000,0.0000,1050
+"Min of Diff_Dryer Temp PV [degC], 3_Cooldown",0.000000,0.0000,1051
+"Min of Diff_Difference[Dryer Temp PV [degC]], 3_Cooldown",0.000000,0.0000,1052
+"Min of Diff_abs(Dryer Temp SP-PV)  [degC], 1_Deagglomerate",0.000000,0.0000,1053
+"Min of Diff_abs(Dryer Temp SP-PV)  [degC], 2_Heat",0.000000,0.0000,1054
+"Min of Diff_abs(Dryer Temp SP-PV)  [degC], 3_Cooldown",0.000000,0.0000,1055
+"Min of Diff_Z1, 1_Deagglomerate",0.000000,0.0000,1056
+"Min of Diff_Z1, 2_Heat",0.000000,0.0000,1057
+"Min of Diff_Z1, 3_Cooldown",0.000000,0.0000,1058
+"Min of Diff_Z2, 2_Heat",0.000000,0.0000,1059
+"Min of Diff_Z2, 3_Cooldown",0.000000,0.0000,1060
+"Min of Diff_Z3, 1_Deagglomerate",0.000000,0.0000,1061
+"Min of Diff_Z3, 2_Heat",0.000000,0.0000,1062
+"Min of Diff_Z3, 3_Cooldown",0.000000,0.0000,1063
+"Min of Diff_Z4, 1_Deagglomerate",0.000000,0.0000,1064
+"Min of Diff_Z4, 2_Heat",0.000000,0.0000,1065
+"Min of Diff_Z4, 3_Cooldown",0.000000,0.0000,1066
+"Min of Diff_Z5, 1_Deagglomerate",0.000000,0.0000,1067
+"Min of Diff_Z5, 2_Heat",0.000000,0.0000,1068
+"Min of Diff_Z5, 3_Cooldown",0.000000,0.0000,1069
+"Min of Diff_Z6, 1_Deagglomerate",0.000000,0.0000,1070
+"Min of Diff_Z6, 2_Heat",0.000000,0.0000,1071
+"Min of Diff_Z6, 3_Cooldown",0.000000,0.0000,1072
+"Min of Diff_Z7, 1_Deagglomerate",0.000000,0.0000,1073
+"Min of Diff_Z7, 2_Heat",0.000000,0.0000,1074
+"Min of Diff_Z7, 3_Cooldown",0.000000,0.0000,1075
+"Min of Diff_Z8, 1_Deagglomerate",0.000000,0.0000,1076
+"Min of Diff_Z8, 2_Heat",0.000000,0.0000,1077
+"Min of Diff_Z8, 3_Cooldown",0.000000,0.0000,1078
+"Min of Diff_Z9, 1_Deagglomerate",0.000000,0.0000,1079
+"Min of Diff_Z9, 2_Heat",0.000000,0.0000,1080
+"Min of Diff_Z9, 3_Cooldown",0.000000,0.0000,1081
+"Min of Diff_Z10, 1_Deagglomerate",0.000000,0.0000,1082
+"Min of Diff_Z10, 2_Heat",0.000000,0.0000,1083
+"Min of Diff_Z10, 3_Cooldown",0.000000,0.0000,1084
+"Min of Diff_Z11, 1_Deagglomerate",0.000000,0.0000,1085
+"Min of Diff_Z11, 2_Heat",0.000000,0.0000,1086
+"Min of Diff_Z11, 3_Cooldown",0.000000,0.0000,1087
+"Min of Diff_Z (Initial cake weight) [kg], 1_Deagglomerate",0.000000,0.0000,1088
+"Min of Diff_Z (Initial cake weight) [kg], 2_Heat",0.000000,0.0000,1089
+"Min of Diff_Z (Initial cake weight) [kg], 3_Cooldown",0.000000,0.0000,1090
+"Min of Diff_Level1, 1_Deagglomerate",0.000000,0.0000,1091
+"Min of Diff_Level1, 2_Heat",0.000000,0.0000,1092
+"Min of Diff_Level1, 3_Cooldown",0.000000,0.0000,1093
+"Min of Diff_Temp1, 1_Deagglomerate",0.000000,0.0000,1094
+"Min of Diff_Temp1, 2_Heat",0.000000,0.0000,1095
+"Min of Diff_Temp1, 3_Cooldown",0.000000,0.0000,1096
+"Min of Diff_Temp2, 1_Deagglomerate",0.000000,0.0000,1097
+"Min of Diff_Temp2, 2_Heat",0.000000,0.0000,1098
+"Min of Diff_Temp2, 3_Cooldown",0.000000,0.0000,1099
+"Min of Random Normal, 2_Heat",0.000000,0.0000,1100
+"Min of Random Uniform, 1_Deagglomerate",0.000000,0.0000,1101
+"Min of Random Uniform, 3_Cooldown",0.000000,0.0000,1102
+"Sum of Y1, 1_Deagglomerate",0.000000,0.0000,1103
+"Sum of Y1, 2_Heat",0.000000,0.0000,1104
+"Sum of Y1, 3_Cooldown",0.000000,0.0000,1105
+"Sum of Y3, 3_Cooldown",0.000000,0.0000,1106
+"Sum of Y4, 1_Deagglomerate",0.000000,0.0000,1107
+"Sum of Y5, 3_Cooldown",0.000000,0.0000,1108
+"Sum of Y6, 1_Deagglomerate",0.000000,0.0000,1109
+"Sum of Y6, 2_Heat",0.000000,0.0000,1110
+"Sum of Y6, 3_Cooldown",0.000000,0.0000,1111
+"Sum of Y7, 2_Heat",0.000000,0.0000,1112
+"Sum of Y8, 1_Deagglomerate",0.000000,0.0000,1113
+"Sum of Y8, 2_Heat",0.000000,0.0000,1114
+"Sum of Y8, 3_Cooldown",0.000000,0.0000,1115
+"Sum of Y9, 1_Deagglomerate",0.000000,0.0000,1116
+"Sum of Y9, 2_Heat",0.000000,0.0000,1117
+"Sum of Y9, 3_Cooldown",0.000000,0.0000,1118
+"Sum of Y10, 3_Cooldown",0.000000,0.0000,1119
+"Sum of Tank level [%], 1_Deagglomerate",0.000000,0.0000,1120
+"Sum of Tank level [%], 2_Heat",0.000000,0.0000,1121
+"Sum of Tank level [%], 3_Cooldown",0.000000,0.0000,1122
+"Sum of Mean[Tank level [%]], 2_Heat",0.000000,0.0000,1123
+"Sum of Tank level [%]-Mean[Tank level [%]], 1_Deagglomerate",0.000000,0.0000,1124
+"Sum of Tank level [%]-Mean[Tank level [%]], 2_Heat",0.000000,0.0000,1125
+"Sum of Tank level [%]-Mean[Tank level [%]], 3_Cooldown",0.000000,0.0000,1126
+"Sum of Differential pressure [mmHg], 1_Deagglomerate",0.000000,0.0000,1127
+"Sum of Differential pressure [mmHg], 2_Heat",0.000000,0.0000,1128
+"Sum of Differential pressure [mmHg], 3_Cooldown",0.000000,0.0000,1129
+"Sum of Dryer pressure [mmHg], 1_Deagglomerate",0.000000,0.0000,1130
+"Sum of Dryer pressure [mmHg], 2_Heat",0.000000,0.0000,1131
+"Sum of Dryer pressure [mmHg], 3_Cooldown",0.000000,0.0000,1132
+"Sum of Power [W], 1_Deagglomerate",0.000000,0.0000,1133
+"Sum of Power [W], 2_Heat",0.000000,0.0000,1134
+"Sum of Power [W], 3_Cooldown",0.000000,0.0000,1135
+"Sum of Agitator Speed [rpm], 1_Deagglomerate",0.000000,0.0000,1136
+"Sum of Agitator Speed [rpm], 2_Heat",0.000000,0.0000,1137
+"Sum of Torque [Nm], 1_Deagglomerate",0.000000,0.0000,1138
+"Sum of Torque [Nm], 2_Heat",0.000000,0.0000,1139
+"Sum of Jacket Temp SP [degC], 1_Deagglomerate",0.000000,0.0000,1140
+"Sum of Jacket Temp SP [degC], 2_Heat",0.000000,0.0000,1141
+"Sum of Jacket Temp SP [degC], 3_Cooldown",0.000000,0.0000,1142
+"Sum of Jacket Temp PV  [degC], 1_Deagglomerate",0.000000,0.0000,1143
+"Sum of Jacket Temp PV  [degC], 2_Heat",0.000000,0.0000,1144
+"Sum of Jacket Temp PV  [degC], 3_Cooldown",0.000000,0.0000,1145
+"Sum of abs(Jacket Temp SP-PV)  [degC], 3_Cooldown",0.000000,0.0000,1146
+"Sum of Dryer Temp SP [degC], 1_Deagglomerate",0.000000,0.0000,1147
+"Sum of Dryer Temp SP [degC], 2_Heat",0.000000,0.0000,1148
+"Sum of Dryer Temp PV [degC], 1_Deagglomerate",0.000000,0.0000,1149
+"Sum of Dryer Temp PV [degC], 2_Heat",0.000000,0.0000,1150
+"Sum of Difference[Dryer Temp PV [degC]], 2_Heat",0.000000,0.0000,1151
+"Sum of abs(Dryer Temp SP-PV)  [degC], 1_Deagglomerate",0.000000,0.0000,1152
+"Sum of abs(Dryer Temp SP-PV)  [degC], 2_Heat",0.000000,0.0000,1153
+"Sum of Z1, 3_Cooldown",0.000000,0.0000,1154
+"Sum of Z2, 2_Heat",0.000000,0.0000,1155
+"Sum of Z3, 2_Heat",0.000000,0.0000,1156
+"Sum of Z3, 3_Cooldown",0.000000,0.0000,1157
+"Sum of Z4, 2_Heat",0.000000,0.0000,1158
+"Sum of Z5, 2_Heat",0.000000,0.0000,1159
+"Sum of Z5, 3_Cooldown",0.000000,0.0000,1160
+"Sum of Z7, 2_Heat",0.000000,0.0000,1161
+"Sum of Z7, 3_Cooldown",0.000000,0.0000,1162
+"Sum of Z8, 2_Heat",0.000000,0.0000,1163
+"Sum of Z8, 3_Cooldown",0.000000,0.0000,1164
+"Sum of Z9, 2_Heat",0.000000,0.0000,1165
+"Sum of Z10, 1_Deagglomerate",0.000000,0.0000,1166
+"Sum of Z10, 2_Heat",0.000000,0.0000,1167
+"Sum of Z10, 3_Cooldown",0.000000,0.0000,1168
+"Sum of Z11, 3_Cooldown",0.000000,0.0000,1169
+"Sum of Z (Initial cake weight) [kg], 3_Cooldown",0.000000,0.0000,1170
+"Sum of Level1, 1_Deagglomerate",0.000000,0.0000,1171
+"Sum of Level1, 2_Heat",0.000000,0.0000,1172
+"Sum of Level1, 3_Cooldown",0.000000,0.0000,1173
+"Sum of Temp1, 1_Deagglomerate",0.000000,0.0000,1174
+"Sum of Temp1, 2_Heat",0.000000,0.0000,1175
+"Sum of Temp1, 3_Cooldown",0.000000,0.0000,1176
+"Sum of Temp2, 1_Deagglomerate",0.000000,0.0000,1177
+"Sum of Temp2, 2_Heat",0.000000,0.0000,1178
+"Sum of Temp2, 3_Cooldown",0.000000,0.0000,1179
+"Sum of Diff_Y1, 1_Deagglomerate",0.000000,0.0000,1180
+"Sum of Diff_Y1, 2_Heat",0.000000,0.0000,1181
+"Sum of Diff_Y1, 3_Cooldown",0.000000,0.0000,1182
+"Sum of Diff_Y2, 1_Deagglomerate",0.000000,0.0000,1183
+"Sum of Diff_Y2, 2_Heat",0.000000,0.0000,1184
+"Sum of Diff_Y2, 3_Cooldown",0.000000,0.0000,1185
+"Sum of Diff_Y3, 1_Deagglomerate",0.000000,0.0000,1186
+"Sum of Diff_Y3, 2_Heat",0.000000,0.0000,1187
+"Sum of Diff_Y3, 3_Cooldown",0.000000,0.0000,1188
+"Sum of Diff_Y4, 1_Deagglomerate",0.000000,0.0000,1189
+"Sum of Diff_Y4, 2_Heat",0.000000,0.0000,1190
+"Sum of Diff_Y4, 3_Cooldown",0.000000,0.0000,1191
+"Sum of Diff_Y5, 1_Deagglomerate",0.000000,0.0000,1192
+"Sum of Diff_Y5, 2_Heat",0.000000,0.0000,1193
+"Sum of Diff_Y5, 3_Cooldown",0.000000,0.0000,1194
+"Sum of Diff_Y6, 1_Deagglomerate",0.000000,0.0000,1195
+"Sum of Diff_Y6, 2_Heat",0.000000,0.0000,1196
+"Sum of Diff_Y6, 3_Cooldown",0.000000,0.0000,1197
+"Sum of Diff_Y7, 1_Deagglomerate",0.000000,0.0000,1198
+"Sum of Diff_Y7, 2_Heat",0.000000,0.0000,1199
+"Sum of Diff_Y7, 3_Cooldown",0.000000,0.0000,1200
+"Sum of Diff_Y8, 1_Deagglomerate",0.000000,0.0000,1201
+"Sum of Diff_Y8, 2_Heat",0.000000,0.0000,1202
+"Sum of Diff_Y8, 3_Cooldown",0.000000,0.0000,1203
+"Sum of Diff_Y9, 1_Deagglomerate",0.000000,0.0000,1204
+"Sum of Diff_Y9, 2_Heat",0.000000,0.0000,1205
+"Sum of Diff_Y9, 3_Cooldown",0.000000,0.0000,1206
+"Sum of Diff_Y10, 1_Deagglomerate",0.000000,0.0000,1207
+"Sum of Diff_Y10, 2_Heat",0.000000,0.0000,1208
+"Sum of Diff_Y10, 3_Cooldown",0.000000,0.0000,1209
+"Sum of Diff_Y11, 1_Deagglomerate",0.000000,0.0000,1210
+"Sum of Diff_Y11, 2_Heat",0.000000,0.0000,1211
+"Sum of Diff_Y11, 3_Cooldown",0.000000,0.0000,1212
+"Sum of Diff_Tank level [%], 1_Deagglomerate",0.000000,0.0000,1213
+"Sum of Diff_Tank level [%], 2_Heat",0.000000,0.0000,1214
+"Sum of Diff_Tank level [%], 3_Cooldown",0.000000,0.0000,1215
+"Sum of Diff_Mean[Tank level [%]], 2_Heat",0.000000,0.0000,1216
+"Sum of Diff_Mean[Tank level [%]], 3_Cooldown",0.000000,0.0000,1217
+"Sum of Diff_Tank level [%]-Mean[Tank level [%]], 1_Deagglomerate",0.000000,0.0000,1218
+"Sum of Diff_Tank level [%]-Mean[Tank level [%]], 3_Cooldown",0.000000,0.0000,1219
+"Sum of Diff_Differential pressure [mmHg], 1_Deagglomerate",0.000000,0.0000,1220
+"Sum of Diff_Differential pressure [mmHg], 3_Cooldown",0.000000,0.0000,1221
+"Sum of Diff_Dryer pressure [mmHg], 2_Heat",0.000000,0.0000,1222
+"Sum of Diff_Dryer pressure [mmHg], 3_Cooldown",0.000000,0.0000,1223
+"Sum of Diff_Power [W], 1_Deagglomerate",0.000000,0.0000,1224
+"Sum of Diff_Power [W], 2_Heat",0.000000,0.0000,1225
+"Sum of Diff_Power [W], 3_Cooldown",0.000000,0.0000,1226
+"Sum of Diff_Agitator Speed [rpm], 2_Heat",0.000000,0.0000,1227
+"Sum of Diff_Torque [Nm], 1_Deagglomerate",0.000000,0.0000,1228
+"Sum of Diff_Torque [Nm], 2_Heat",0.000000,0.0000,1229
+"Sum of Diff_Torque [Nm], 3_Cooldown",0.000000,0.0000,1230
+"Sum of Diff_Jacket Temp SP [degC], 1_Deagglomerate",0.000000,0.0000,1231
+"Sum of Diff_Jacket Temp SP [degC], 2_Heat",0.000000,0.0000,1232
+"Sum of Diff_Jacket Temp SP [degC], 3_Cooldown",0.000000,0.0000,1233
+"Sum of Diff_Jacket Temp PV  [degC], 1_Deagglomerate",0.000000,0.0000,1234
+"Sum of Diff_Jacket Temp PV  [degC], 2_Heat",0.000000,0.0000,1235
+"Sum of Diff_Jacket Temp PV  [degC], 3_Cooldown",0.000000,0.0000,1236
+"Sum of Diff_abs(Jacket Temp SP-PV)  [degC], 1_Deagglomerate",0.000000,0.0000,1237
+"Sum of Diff_abs(Jacket Temp SP-PV)  [degC], 2_Heat",0.000000,0.0000,1238
+"Sum of Diff_abs(Jacket Temp SP-PV)  [degC], 3_Cooldown",0.000000,0.0000,1239
+"Sum of Diff_Dryer Temp SP [degC], 1_Deagglomerate",0.000000,0.0000,1240
+"Sum of Diff_Dryer Temp SP [degC], 2_Heat",0.000000,0.0000,1241
+"Sum of Diff_Dryer Temp PV [degC], 1_Deagglomerate",0.000000,0.0000,1242
+"Sum of Diff_Dryer Temp PV [degC], 2_Heat",0.000000,0.0000,1243
+"Sum of Diff_Difference[Dryer Temp PV [degC]], 1_Deagglomerate",0.000000,0.0000,1244
+"Sum of Diff_Difference[Dryer Temp PV [degC]], 2_Heat",0.000000,0.0000,1245
+"Sum of Diff_abs(Dryer Temp SP-PV)  [degC], 2_Heat",0.000000,0.0000,1246
+"Sum of Diff_Z1, 1_Deagglomerate",0.000000,0.0000,1247
+"Sum of Diff_Z1, 2_Heat",0.000000,0.0000,1248
+"Sum of Diff_Z1, 3_Cooldown",0.000000,0.0000,1249
+"Sum of Diff_Z2, 1_Deagglomerate",0.000000,0.0000,1250
+"Sum of Diff_Z2, 2_Heat",0.000000,0.0000,1251
+"Sum of Diff_Z2, 3_Cooldown",0.000000,0.0000,1252
+"Sum of Diff_Z3, 1_Deagglomerate",0.000000,0.0000,1253
+"Sum of Diff_Z3, 2_Heat",0.000000,0.0000,1254
+"Sum of Diff_Z3, 3_Cooldown",0.000000,0.0000,1255
+"Sum of Diff_Z4, 1_Deagglomerate",0.000000,0.0000,1256
+"Sum of Diff_Z4, 2_Heat",0.000000,0.0000,1257
+"Sum of Diff_Z4, 3_Cooldown",0.000000,0.0000,1258
+"Sum of Diff_Z5, 1_Deagglomerate",0.000000,0.0000,1259
+"Sum of Diff_Z5, 2_Heat",0.000000,0.0000,1260
+"Sum of Diff_Z5, 3_Cooldown",0.000000,0.0000,1261
+"Sum of Diff_Z6, 1_Deagglomerate",0.000000,0.0000,1262
+"Sum of Diff_Z6, 2_Heat",0.000000,0.0000,1263
+"Sum of Diff_Z6, 3_Cooldown",0.000000,0.0000,1264
+"Sum of Diff_Z7, 1_Deagglomerate",0.000000,0.0000,1265
+"Sum of Diff_Z7, 2_Heat",0.000000,0.0000,1266
+"Sum of Diff_Z7, 3_Cooldown",0.000000,0.0000,1267
+"Sum of Diff_Z8, 1_Deagglomerate",0.000000,0.0000,1268
+"Sum of Diff_Z8, 2_Heat",0.000000,0.0000,1269
+"Sum of Diff_Z8, 3_Cooldown",0.000000,0.0000,1270
+"Sum of Diff_Z9, 1_Deagglomerate",0.000000,0.0000,1271
+"Sum of Diff_Z9, 2_Heat",0.000000,0.0000,1272
+"Sum of Diff_Z9, 3_Cooldown",0.000000,0.0000,1273
+"Sum of Diff_Z10, 1_Deagglomerate",0.000000,0.0000,1274
+"Sum of Diff_Z10, 2_Heat",0.000000,0.0000,1275
+"Sum of Diff_Z10, 3_Cooldown",0.000000,0.0000,1276
+"Sum of Diff_Z11, 1_Deagglomerate",0.000000,0.0000,1277
+"Sum of Diff_Z11, 2_Heat",0.000000,0.0000,1278
+"Sum of Diff_Z11, 3_Cooldown",0.000000,0.0000,1279
+"Sum of Diff_Z (Initial cake weight) [kg], 1_Deagglomerate",0.000000,0.0000,1280
+"Sum of Diff_Z (Initial cake weight) [kg], 2_Heat",0.000000,0.0000,1281
+"Sum of Diff_Z (Initial cake weight) [kg], 3_Cooldown",0.000000,0.0000,1282
+"Sum of Diff_Level1, 1_Deagglomerate",0.000000,0.0000,1283
+"Sum of Diff_Level1, 2_Heat",0.000000,0.0000,1284
+"Sum of Diff_Level1, 3_Cooldown",0.000000,0.0000,1285
+"Sum of Diff_Temp1, 1_Deagglomerate",0.000000,0.0000,1286
+"Sum of Diff_Temp1, 2_Heat",0.000000,0.0000,1287
+"Sum of Diff_Temp1, 3_Cooldown",0.000000,0.0000,1288
+"Sum of Diff_Temp2, 1_Deagglomerate",0.000000,0.0000,1289
+"Sum of Diff_Temp2, 2_Heat",0.000000,0.0000,1290
+"Sum of Diff_Temp2, 3_Cooldown",0.000000,0.0000,1291
+"Sum of Random Uniform, 1_Deagglomerate",0.000000,0.0000,1292
+"Sum of Random Uniform, 2_Heat",0.000000,0.0000,1293
+"Range of Y1, 1_Deagglomerate",0.000000,0.0000,1294
+"Range of Y1, 2_Heat",0.000000,0.0000,1295
+"Range of Y1, 3_Cooldown",0.000000,0.0000,1296
+"Range of Y2, 2_Heat",0.000000,0.0000,1297
+"Range of Y3, 1_Deagglomerate",0.000000,0.0000,1298
+"Range of Y3, 2_Heat",0.000000,0.0000,1299
+"Range of Y3, 3_Cooldown",0.000000,0.0000,1300
+"Range of Y4, 1_Deagglomerate",0.000000,0.0000,1301
+"Range of Y4, 2_Heat",0.000000,0.0000,1302
+"Range of Y4, 3_Cooldown",0.000000,0.0000,1303
+"Range of Y5, 1_Deagglomerate",0.000000,0.0000,1304
+"Range of Y5, 2_Heat",0.000000,0.0000,1305
+"Range of Y5, 3_Cooldown",0.000000,0.0000,1306
+"Range of Y6, 1_Deagglomerate",0.000000,0.0000,1307
+"Range of Y6, 2_Heat",0.000000,0.0000,1308
+"Range of Y6, 3_Cooldown",0.000000,0.0000,1309
+"Range of Y7, 1_Deagglomerate",0.000000,0.0000,1310
+"Range of Y7, 2_Heat",0.000000,0.0000,1311
+"Range of Y7, 3_Cooldown",0.000000,0.0000,1312
+"Range of Y8, 1_Deagglomerate",0.000000,0.0000,1313
+"Range of Y8, 2_Heat",0.000000,0.0000,1314
+"Range of Y8, 3_Cooldown",0.000000,0.0000,1315
+"Range of Y9, 1_Deagglomerate",0.000000,0.0000,1316
+"Range of Y9, 2_Heat",0.000000,0.0000,1317
+"Range of Y9, 3_Cooldown",0.000000,0.0000,1318
+"Range of Y10, 1_Deagglomerate",0.000000,0.0000,1319
+"Range of Y10, 2_Heat",0.000000,0.0000,1320
+"Range of Y10, 3_Cooldown",0.000000,0.0000,1321
+"Range of Y11, 1_Deagglomerate",0.000000,0.0000,1322
+"Range of Y11, 2_Heat",0.000000,0.0000,1323
+"Range of Y11, 3_Cooldown",0.000000,0.0000,1324
+"Range of Tank level [%], 1_Deagglomerate",0.000000,0.0000,1325
+"Range of Tank level [%], 2_Heat",0.000000,0.0000,1326
+"Range of Tank level [%]-Mean[Tank level [%]], 1_Deagglomerate",0.000000,0.0000,1327
+"Range of Tank level [%]-Mean[Tank level [%]], 2_Heat",0.000000,0.0000,1328
+"Range of Tank level [%]-Mean[Tank level [%]], 3_Cooldown",0.000000,0.0000,1329
+"Range of Differential pressure [mmHg], 1_Deagglomerate",0.000000,0.0000,1330
+"Range of Differential pressure [mmHg], 2_Heat",0.000000,0.0000,1331
+"Range of Dryer pressure [mmHg], 1_Deagglomerate",0.000000,0.0000,1332
+"Range of Dryer pressure [mmHg], 2_Heat",0.000000,0.0000,1333
+"Range of Dryer pressure [mmHg], 3_Cooldown",0.000000,0.0000,1334
+"Range of Power [W], 1_Deagglomerate",0.000000,0.0000,1335
+"Range of Power [W], 3_Cooldown",0.000000,0.0000,1336
+"Range of Agitator Speed [rpm], 1_Deagglomerate",0.000000,0.0000,1337
+"Range of Torque [Nm], 2_Heat",0.000000,0.0000,1338
+"Range of Torque [Nm], 3_Cooldown",0.000000,0.0000,1339
+"Range of Jacket Temp SP [degC], 1_Deagglomerate",0.000000,0.0000,1340
+"Range of Jacket Temp SP [degC], 2_Heat",0.000000,0.0000,1341
+"Range of Jacket Temp SP [degC], 3_Cooldown",0.000000,0.0000,1342
+"Range of Jacket Temp PV  [degC], 1_Deagglomerate",0.000000,0.0000,1343
+"Range of Jacket Temp PV  [degC], 2_Heat",0.000000,0.0000,1344
+"Range of Jacket Temp PV  [degC], 3_Cooldown",0.000000,0.0000,1345
+"Range of abs(Jacket Temp SP-PV)  [degC], 1_Deagglomerate",0.000000,0.0000,1346
+"Range of abs(Jacket Temp SP-PV)  [degC], 2_Heat",0.000000,0.0000,1347
+"Range of Dryer Temp SP [degC], 1_Deagglomerate",0.000000,0.0000,1348
+"Range of Dryer Temp SP [degC], 2_Heat",0.000000,0.0000,1349
+"Range of Dryer Temp SP [degC], 3_Cooldown",0.000000,0.0000,1350
+"Range of Dryer Temp PV [degC], 1_Deagglomerate",0.000000,0.0000,1351
+"Range of Dryer Temp PV [degC], 2_Heat",0.000000,0.0000,1352
+"Range of Dryer Temp PV [degC], 3_Cooldown",0.000000,0.0000,1353
+"Range of Difference[Dryer Temp PV [degC]], 3_Cooldown",0.000000,0.0000,1354
+"Range of abs(Dryer Temp SP-PV)  [degC], 2_Heat",0.000000,0.0000,1355
+"Range of abs(Dryer Temp SP-PV)  [degC], 3_Cooldown",0.000000,0.0000,1356
+"Range of Z1, 1_Deagglomerate",0.000000,0.0000,1357
+"Range of Z1, 2_Heat",0.000000,0.0000,1358
+"Range of Z1, 3_Cooldown",0.000000,0.0000,1359
+"Range of Z2, 1_Deagglomerate",0.000000,0.0000,1360
+"Range of Z2, 2_Heat",0.000000,0.0000,1361
+"Range of Z2, 3_Cooldown",0.000000,0.0000,1362
+"Range of Z3, 1_Deagglomerate",0.000000,0.0000,1363
+"Range of Z3, 2_Heat",0.000000,0.0000,1364
+"Range of Z3, 3_Cooldown",0.000000,0.0000,1365
+"Range of Z4, 1_Deagglomerate",0.000000,0.0000,1366
+"Range of Z4, 2_Heat",0.000000,0.0000,1367
+"Range of Z4, 3_Cooldown",0.000000,0.0000,1368
+"Range of Z5, 1_Deagglomerate",0.000000,0.0000,1369
+"Range of Z5, 2_Heat",0.000000,0.0000,1370
+"Range of Z5, 3_Cooldown",0.000000,0.0000,1371
+"Range of Z6, 1_Deagglomerate",0.000000,0.0000,1372
+"Range of Z6, 2_Heat",0.000000,0.0000,1373
+"Range of Z6, 3_Cooldown",0.000000,0.0000,1374
+"Range of Z7, 1_Deagglomerate",0.000000,0.0000,1375
+"Range of Z7, 2_Heat",0.000000,0.0000,1376
+"Range of Z7, 3_Cooldown",0.000000,0.0000,1377
+"Range of Z8, 1_Deagglomerate",0.000000,0.0000,1378
+"Range of Z8, 2_Heat",0.000000,0.0000,1379
+"Range of Z8, 3_Cooldown",0.000000,0.0000,1380
+"Range of Z9, 1_Deagglomerate",0.000000,0.0000,1381
+"Range of Z9, 2_Heat",0.000000,0.0000,1382
+"Range of Z9, 3_Cooldown",0.000000,0.0000,1383
+"Range of Z10, 1_Deagglomerate",0.000000,0.0000,1384
+"Range of Z10, 2_Heat",0.000000,0.0000,1385
+"Range of Z10, 3_Cooldown",0.000000,0.0000,1386
+"Range of Z11, 1_Deagglomerate",0.000000,0.0000,1387
+"Range of Z11, 2_Heat",0.000000,0.0000,1388
+"Range of Z11, 3_Cooldown",0.000000,0.0000,1389
+"Range of Z (Initial cake weight) [kg], 1_Deagglomerate",0.000000,0.0000,1390
+"Range of Z (Initial cake weight) [kg], 2_Heat",0.000000,0.0000,1391
+"Range of Z (Initial cake weight) [kg], 3_Cooldown",0.000000,0.0000,1392
+"Range of Level1, 1_Deagglomerate",0.000000,0.0000,1393
+"Range of Level1, 2_Heat",0.000000,0.0000,1394
+"Range of Level1, 3_Cooldown",0.000000,0.0000,1395
+"Range of Temp1, 1_Deagglomerate",0.000000,0.0000,1396
+"Range of Temp1, 2_Heat",0.000000,0.0000,1397
+"Range of Temp1, 3_Cooldown",0.000000,0.0000,1398
+"Range of Temp2, 1_Deagglomerate",0.000000,0.0000,1399
+"Range of Temp2, 2_Heat",0.000000,0.0000,1400
+"Range of Temp2, 3_Cooldown",0.000000,0.0000,1401
+"Range of Diff_Y1, 1_Deagglomerate",0.000000,0.0000,1402
+"Range of Diff_Y1, 2_Heat",0.000000,0.0000,1403
+"Range of Diff_Y1, 3_Cooldown",0.000000,0.0000,1404
+"Range of Diff_Y2, 2_Heat",0.000000,0.0000,1405
+"Range of Diff_Y2, 3_Cooldown",0.000000,0.0000,1406
+"Range of Diff_Y3, 1_Deagglomerate",0.000000,0.0000,1407
+"Range of Diff_Y3, 2_Heat",0.000000,0.0000,1408
+"Range of Diff_Y3, 3_Cooldown",0.000000,0.0000,1409
+"Range of Diff_Y4, 1_Deagglomerate",0.000000,0.0000,1410
+"Range of Diff_Y4, 2_Heat",0.000000,0.0000,1411
+"Range of Diff_Y4, 3_Cooldown",0.000000,0.0000,1412
+"Range of Diff_Y5, 1_Deagglomerate",0.000000,0.0000,1413
+"Range of Diff_Y5, 2_Heat",0.000000,0.0000,1414
+"Range of Diff_Y5, 3_Cooldown",0.000000,0.0000,1415
+"Range of Diff_Y6, 1_Deagglomerate",0.000000,0.0000,1416
+"Range of Diff_Y6, 2_Heat",0.000000,0.0000,1417
+"Range of Diff_Y6, 3_Cooldown",0.000000,0.0000,1418
+"Range of Diff_Y7, 1_Deagglomerate",0.000000,0.0000,1419
+"Range of Diff_Y7, 2_Heat",0.000000,0.0000,1420
+"Range of Diff_Y7, 3_Cooldown",0.000000,0.0000,1421
+"Range of Diff_Y8, 1_Deagglomerate",0.000000,0.0000,1422
+"Range of Diff_Y8, 2_Heat",0.000000,0.0000,1423
+"Range of Diff_Y8, 3_Cooldown",0.000000,0.0000,1424
+"Range of Diff_Y9, 1_Deagglomerate",0.000000,0.0000,1425
+"Range of Diff_Y9, 2_Heat",0.000000,0.0000,1426
+"Range of Diff_Y9, 3_Cooldown",0.000000,0.0000,1427
+"Range of Diff_Y10, 1_Deagglomerate",0.000000,0.0000,1428
+"Range of Diff_Y10, 2_Heat",0.000000,0.0000,1429
+"Range of Diff_Y10, 3_Cooldown",0.000000,0.0000,1430
+"Range of Diff_Y11, 1_Deagglomerate",0.000000,0.0000,1431
+"Range of Diff_Y11, 2_Heat",0.000000,0.0000,1432
+"Range of Diff_Y11, 3_Cooldown",0.000000,0.0000,1433
+"Range of Diff_Tank level [%], 1_Deagglomerate",0.000000,0.0000,1434
+"Range of Diff_Tank level [%], 2_Heat",0.000000,0.0000,1435
+"Range of Diff_Mean[Tank level [%]], 1_Deagglomerate",0.000000,0.0000,1436
+"Range of Diff_Mean[Tank level [%]], 2_Heat",0.000000,0.0000,1437
+"Range of Diff_Tank level [%]-Mean[Tank level [%]], 1_Deagglomerate",0.000000,0.0000,1438
+"Range of Diff_Tank level [%]-Mean[Tank level [%]], 2_Heat",0.000000,0.0000,1439
+"Range of Diff_Tank level [%]-Mean[Tank level [%]], 3_Cooldown",0.000000,0.0000,1440
+"Range of Diff_Differential pressure [mmHg], 1_Deagglomerate",0.000000,0.0000,1441
+"Range of Diff_Differential pressure [mmHg], 2_Heat",0.000000,0.0000,1442
+"Range of Diff_Dryer pressure [mmHg], 1_Deagglomerate",0.000000,0.0000,1443
+"Range of Diff_Dryer pressure [mmHg], 2_Heat",0.000000,0.0000,1444
+"Range of Diff_Dryer pressure [mmHg], 3_Cooldown",0.000000,0.0000,1445
+"Range of Diff_Power [W], 1_Deagglomerate",0.000000,0.0000,1446
+"Range of Diff_Power [W], 2_Heat",0.000000,0.0000,1447
+"Range of Diff_Agitator Speed [rpm], 1_Deagglomerate",0.000000,0.0000,1448
+"Range of Diff_Agitator Speed [rpm], 2_Heat",0.000000,0.0000,1449
+"Range of Diff_Torque [Nm], 1_Deagglomerate",0.000000,0.0000,1450
+"Range of Diff_Jacket Temp SP [degC], 1_Deagglomerate",0.000000,0.0000,1451
+"Range of Diff_Jacket Temp SP [degC], 3_Cooldown",0.000000,0.0000,1452
+"Range of Diff_Jacket Temp PV  [degC], 1_Deagglomerate",0.000000,0.0000,1453
+"Range of Diff_abs(Jacket Temp SP-PV)  [degC], 1_Deagglomerate",0.000000,0.0000,1454
+"Range of Diff_abs(Jacket Temp SP-PV)  [degC], 3_Cooldown",0.000000,0.0000,1455
+"Range of Diff_Dryer Temp SP [degC], 1_Deagglomerate",0.000000,0.0000,1456
+"Range of Diff_Dryer Temp SP [degC], 2_Heat",0.000000,0.0000,1457
+"Range of Diff_Dryer Temp PV [degC], 2_Heat",0.000000,0.0000,1458
+"Range of Diff_Dryer Temp PV [degC], 3_Cooldown",0.000000,0.0000,1459
+"Range of Diff_Difference[Dryer Temp PV [degC]], 2_Heat",0.000000,0.0000,1460
+"Range of Diff_Difference[Dryer Temp PV [degC]], 3_Cooldown",0.000000,0.0000,1461
+"Range of Diff_abs(Dryer Temp SP-PV)  [degC], 1_Deagglomerate",0.000000,0.0000,1462
+"Range of Diff_abs(Dryer Temp SP-PV)  [degC], 2_Heat",0.000000,0.0000,1463
+"Range of Diff_abs(Dryer Temp SP-PV)  [degC], 3_Cooldown",0.000000,0.0000,1464
+"Range of Diff_Z1, 1_Deagglomerate",0.000000,0.0000,1465
+"Range of Diff_Z1, 2_Heat",0.000000,0.0000,1466
+"Range of Diff_Z1, 3_Cooldown",0.000000,0.0000,1467
+"Range of Diff_Z2, 1_Deagglomerate",0.000000,0.0000,1468
+"Range of Diff_Z2, 2_Heat",0.000000,0.0000,1469
+"Range of Diff_Z2, 3_Cooldown",0.000000,0.0000,1470
+"Range of Diff_Z3, 1_Deagglomerate",0.000000,0.0000,1471
+"Range of Diff_Z3, 2_Heat",0.000000,0.0000,1472
+"Range of Diff_Z3, 3_Cooldown",0.000000,0.0000,1473
+"Range of Diff_Z4, 1_Deagglomerate",0.000000,0.0000,1474
+"Range of Diff_Z4, 2_Heat",0.000000,0.0000,1475
+"Range of Diff_Z4, 3_Cooldown",0.000000,0.0000,1476
+"Range of Diff_Z5, 1_Deagglomerate",0.000000,0.0000,1477
+"Range of Diff_Z5, 2_Heat",0.000000,0.0000,1478
+"Range of Diff_Z5, 3_Cooldown",0.000000,0.0000,1479
+"Range of Diff_Z6, 1_Deagglomerate",0.000000,0.0000,1480
+"Range of Diff_Z6, 2_Heat",0.000000,0.0000,1481
+"Range of Diff_Z6, 3_Cooldown",0.000000,0.0000,1482
+"Range of Diff_Z7, 1_Deagglomerate",0.000000,0.0000,1483
+"Range of Diff_Z7, 2_Heat",0.000000,0.0000,1484
+"Range of Diff_Z7, 3_Cooldown",0.000000,0.0000,1485
+"Range of Diff_Z8, 1_Deagglomerate",0.000000,0.0000,1486
+"Range of Diff_Z8, 2_Heat",0.000000,0.0000,1487
+"Range of Diff_Z8, 3_Cooldown",0.000000,0.0000,1488
+"Range of Diff_Z9, 1_Deagglomerate",0.000000,0.0000,1489
+"Range of Diff_Z9, 2_Heat",0.000000,0.0000,1490
+"Range of Diff_Z9, 3_Cooldown",0.000000,0.0000,1491
+"Range of Diff_Z10, 1_Deagglomerate",0.000000,0.0000,1492
+"Range of Diff_Z10, 2_Heat",0.000000,0.0000,1493
+"Range of Diff_Z10, 3_Cooldown",0.000000,0.0000,1494
+"Range of Diff_Z11, 1_Deagglomerate",0.000000,0.0000,1495
+"Range of Diff_Z11, 2_Heat",0.000000,0.0000,1496
+"Range of Diff_Z11, 3_Cooldown",0.000000,0.0000,1497
+"Range of Diff_Z (Initial cake weight) [kg], 1_Deagglomerate",0.000000,0.0000,1498
+"Range of Diff_Z (Initial cake weight) [kg], 2_Heat",0.000000,0.0000,1499
+"Range of Diff_Z (Initial cake weight) [kg], 3_Cooldown",0.000000,0.0000,1500
+"Range of Diff_Level1, 1_Deagglomerate",0.000000,0.0000,1501
+"Range of Diff_Level1, 2_Heat",0.000000,0.0000,1502
+"Range of Diff_Level1, 3_Cooldown",0.000000,0.0000,1503
+"Range of Diff_Temp1, 1_Deagglomerate",0.000000,0.0000,1504
+"Range of Diff_Temp1, 2_Heat",0.000000,0.0000,1505
+"Range of Diff_Temp1, 3_Cooldown",0.000000,0.0000,1506
+"Range of Diff_Temp2, 1_Deagglomerate",0.000000,0.0000,1507
+"Range of Diff_Temp2, 2_Heat",0.000000,0.0000,1508
+"Range of Diff_Temp2, 3_Cooldown",0.000000,0.0000,1509
+"Range of Random Normal, 1_Deagglomerate",0.000000,0.0000,1510
+"Range of Random Normal, 2_Heat",0.000000,0.0000,1511
+"Range of Random Uniform, 2_Heat",0.000000,0.0000,1512
+"Quantiles95 of Y1, 1_Deagglomerate",0.000000,0.0000,1513
+"Mean of Y1, 2_Heat",0.000000,0.0000,1514
+"Quantiles95 of Y1, 3_Cooldown",0.000000,0.0000,1515
+"Quantiles95 of Y2, 1_Deagglomerate",0.000000,0.0000,1516
+"Mean of Y1, 3_Cooldown",0.000000,0.0000,1517
+"Quantiles95 of Y2, 3_Cooldown",0.000000,0.0000,1518
+"Mean of Y2, 3_Cooldown",0.000000,0.0000,1519
+"Quantiles95 of Y3, 2_Heat",0.000000,0.0000,1520
+"Quantiles95 of Y3, 3_Cooldown",0.000000,0.0000,1521
+"Quantiles95 of Y4, 1_Deagglomerate",0.000000,0.0000,1522
+"Quantiles95 of Y4, 2_Heat",0.000000,0.0000,1523
+"Quantiles95 of Y4, 3_Cooldown",0.000000,0.0000,1524
+"Quantiles95 of Y5, 1_Deagglomerate",0.000000,0.0000,1525
+"Quantiles95 of Y5, 2_Heat",0.000000,0.0000,1526
+"Quantiles95 of Y5, 3_Cooldown",0.000000,0.0000,1527
+"Quantiles95 of Y6, 1_Deagglomerate",0.000000,0.0000,1528
+"Quantiles95 of Y6, 2_Heat",0.000000,0.0000,1529
+"Quantiles95 of Y6, 3_Cooldown",0.000000,0.0000,1530
+"Quantiles95 of Y7, 1_Deagglomerate",0.000000,0.0000,1531
+"Quantiles95 of Y7, 2_Heat",0.000000,0.0000,1532
+"Quantiles95 of Y7, 3_Cooldown",0.000000,0.0000,1533
+"Quantiles95 of Y8, 1_Deagglomerate",0.000000,0.0000,1534
+"Quantiles95 of Y8, 2_Heat",0.000000,0.0000,1535
+"Quantiles95 of Y8, 3_Cooldown",0.000000,0.0000,1536
+"Quantiles95 of Y9, 1_Deagglomerate",0.000000,0.0000,1537
+"Quantiles95 of Y9, 2_Heat",0.000000,0.0000,1538
+"Quantiles95 of Y9, 3_Cooldown",0.000000,0.0000,1539
+"Quantiles95 of Y10, 1_Deagglomerate",0.000000,0.0000,1540
+"Mean of Y3, 2_Heat",0.000000,0.0000,1541
+"Mean of Y4, 1_Deagglomerate",0.000000,0.0000,1542
+"Quantiles95 of Y11, 1_Deagglomerate",0.000000,0.0000,1543
+"Mean of Y4, 2_Heat",0.000000,0.0000,1544
+"Quantiles95 of Y11, 3_Cooldown",0.000000,0.0000,1545
+"Quantiles95 of Tank level [%], 1_Deagglomerate",0.000000,0.0000,1546
+"Quantiles95 of Tank level [%], 2_Heat",0.000000,0.0000,1547
+"Quantiles95 of Tank level [%], 3_Cooldown",0.000000,0.0000,1548
+"Mean of Y4, 3_Cooldown",0.000000,0.0000,1549
+"Mean of Y5, 1_Deagglomerate",0.000000,0.0000,1550
+"Mean of Y5, 2_Heat",0.000000,0.0000,1551
+"Quantiles95 of Tank level [%]-Mean[Tank level [%]], 1_Deagglomerate",0.000000,0.0000,1552
+"Mean of Y5, 3_Cooldown",0.000000,0.0000,1553
+"Quantiles95 of Tank level [%]-Mean[Tank level [%]], 3_Cooldown",0.000000,0.0000,1554
+"Mean of Y6, 1_Deagglomerate",0.000000,0.0000,1555
+"Mean of Y6, 2_Heat",0.000000,0.0000,1556
+"Quantiles95 of Differential pressure [mmHg], 3_Cooldown",0.000000,0.0000,1557
+"Quantiles95 of Dryer pressure [mmHg], 1_Deagglomerate",0.000000,0.0000,1558
+"Quantiles95 of Dryer pressure [mmHg], 2_Heat",0.000000,0.0000,1559
+"Quantiles95 of Dryer pressure [mmHg], 3_Cooldown",0.000000,0.0000,1560
+"Quantiles95 of Power [W], 1_Deagglomerate",0.000000,0.0000,1561
+"Quantiles95 of Power [W], 2_Heat",0.000000,0.0000,1562
+"Quantiles95 of Power [W], 3_Cooldown",0.000000,0.0000,1563
+"Quantiles95 of Agitator Speed [rpm], 1_Deagglomerate",0.000000,0.0000,1564
+"Quantiles95 of Agitator Speed [rpm], 2_Heat",0.000000,0.0000,1565
+"Mean of Y6, 3_Cooldown",0.000000,0.0000,1566
+"Quantiles95 of Torque [Nm], 1_Deagglomerate",0.000000,0.0000,1567
+"Mean of Y7, 1_Deagglomerate",0.000000,0.0000,1568
+"Quantiles95 of Torque [Nm], 3_Cooldown",0.000000,0.0000,1569
+"Quantiles95 of Jacket Temp SP [degC], 1_Deagglomerate",0.000000,0.0000,1570
+"Mean of Y7, 2_Heat",0.000000,0.0000,1571
+"Quantiles95 of Jacket Temp SP [degC], 3_Cooldown",0.000000,0.0000,1572
+"Quantiles95 of Jacket Temp PV  [degC], 1_Deagglomerate",0.000000,0.0000,1573
+"Quantiles95 of Jacket Temp PV  [degC], 2_Heat",0.000000,0.0000,1574
+"Mean of Y7, 3_Cooldown",0.000000,0.0000,1575
+"Quantiles95 of abs(Jacket Temp SP-PV)  [degC], 1_Deagglomerate",0.000000,0.0000,1576
+"Quantiles95 of abs(Jacket Temp SP-PV)  [degC], 2_Heat",0.000000,0.0000,1577
+"Quantiles95 of abs(Jacket Temp SP-PV)  [degC], 3_Cooldown",0.000000,0.0000,1578
+"Mean of Y8, 1_Deagglomerate",0.000000,0.0000,1579
+"Quantiles95 of Dryer Temp SP [degC], 2_Heat",0.000000,0.0000,1580
+"Quantiles95 of Dryer Temp SP [degC], 3_Cooldown",0.000000,0.0000,1581
+"Quantiles95 of Dryer Temp PV [degC], 1_Deagglomerate",0.000000,0.0000,1582
+"Quantiles95 of Dryer Temp PV [degC], 2_Heat",0.000000,0.0000,1583
+"Quantiles95 of Dryer Temp PV [degC], 3_Cooldown",0.000000,0.0000,1584
+"Quantiles95 of Difference[Dryer Temp PV [degC]], 1_Deagglomerate",0.000000,0.0000,1585
+"Quantiles95 of Difference[Dryer Temp PV [degC]], 2_Heat",0.000000,0.0000,1586
+"Quantiles95 of Difference[Dryer Temp PV [degC]], 3_Cooldown",0.000000,0.0000,1587
+"Mean of Y8, 2_Heat",0.000000,0.0000,1588
+"Quantiles95 of abs(Dryer Temp SP-PV)  [degC], 2_Heat",0.000000,0.0000,1589
+"Quantiles95 of abs(Dryer Temp SP-PV)  [degC], 3_Cooldown",0.000000,0.0000,1590
+"Quantiles95 of Z1, 1_Deagglomerate",0.000000,0.0000,1591
+"Mean of Y8, 3_Cooldown",0.000000,0.0000,1592
+"Quantiles95 of Z1, 3_Cooldown",0.000000,0.0000,1593
+"Quantiles95 of Z2, 1_Deagglomerate",0.000000,0.0000,1594
+"Quantiles95 of Z2, 2_Heat",0.000000,0.0000,1595
+"Quantiles95 of Z2, 3_Cooldown",0.000000,0.0000,1596
+"Mean of Y9, 1_Deagglomerate",0.000000,0.0000,1597
+"Quantiles95 of Z3, 2_Heat",0.000000,0.0000,1598
+"Quantiles95 of Z3, 3_Cooldown",0.000000,0.0000,1599
+"Mean of Y11, 1_Deagglomerate",0.000000,0.0000,1600
+"Quantiles95 of Z4, 2_Heat",0.000000,0.0000,1601
+"Quantiles95 of Z4, 3_Cooldown",0.000000,0.0000,1602
+"Mean of Y11, 2_Heat",0.000000,0.0000,1603
+"Quantiles95 of Z5, 2_Heat",0.000000,0.0000,1604
+"Quantiles95 of Z5, 3_Cooldown",0.000000,0.0000,1605
+"Mean of Y11, 3_Cooldown",0.000000,0.0000,1606
+"Quantiles95 of Z6, 2_Heat",0.000000,0.0000,1607
+"Mean of Tank level [%], 2_Heat",0.000000,0.0000,1608
+"Quantiles95 of Z7, 1_Deagglomerate",0.000000,0.0000,1609
+"Quantiles95 of Z7, 2_Heat",0.000000,0.0000,1610
+"Quantiles95 of Z7, 3_Cooldown",0.000000,0.0000,1611
+"Quantiles95 of Z8, 1_Deagglomerate",0.000000,0.0000,1612
+"Mean of Tank level [%], 3_Cooldown",0.000000,0.0000,1613
+"Quantiles95 of Z8, 3_Cooldown",0.000000,0.0000,1614
+"Quantiles95 of Z9, 1_Deagglomerate",0.000000,0.0000,1615
+"Mean of Mean[Tank level [%]], 3_Cooldown",0.000000,0.0000,1616
+"Quantiles95 of Z9, 3_Cooldown",0.000000,0.0000,1617
+"Quantiles95 of Z10, 1_Deagglomerate",0.000000,0.0000,1618
+"Quantiles95 of Z10, 2_Heat",0.000000,0.0000,1619
+"Quantiles95 of Z10, 3_Cooldown",0.000000,0.0000,1620
+"Quantiles95 of Z11, 1_Deagglomerate",0.000000,0.0000,1621
+"Quantiles95 of Z11, 2_Heat",0.000000,0.0000,1622
+"Quantiles95 of Z11, 3_Cooldown",0.000000,0.0000,1623
+"Quantiles95 of Z (Initial cake weight) [kg], 1_Deagglomerate",0.000000,0.0000,1624
+"Quantiles95 of Z (Initial cake weight) [kg], 2_Heat",0.000000,0.0000,1625
+"Quantiles95 of Z (Initial cake weight) [kg], 3_Cooldown",0.000000,0.0000,1626
+"Quantiles95 of Level1, 1_Deagglomerate",0.000000,0.0000,1627
+"Quantiles95 of Level1, 2_Heat",0.000000,0.0000,1628
+"Quantiles95 of Level1, 3_Cooldown",0.000000,0.0000,1629
+"Quantiles95 of Temp1, 1_Deagglomerate",0.000000,0.0000,1630
+"Quantiles95 of Temp1, 2_Heat",0.000000,0.0000,1631
+"Quantiles95 of Temp1, 3_Cooldown",0.000000,0.0000,1632
+"Quantiles95 of Temp2, 1_Deagglomerate",0.000000,0.0000,1633
+"Quantiles95 of Temp2, 2_Heat",0.000000,0.0000,1634
+"Quantiles95 of Temp2, 3_Cooldown",0.000000,0.0000,1635
+"Quantiles95 of Diff_Y1, 1_Deagglomerate",0.000000,0.0000,1636
+"Quantiles95 of Diff_Y1, 2_Heat",0.000000,0.0000,1637
+"Quantiles95 of Diff_Y1, 3_Cooldown",0.000000,0.0000,1638
+"Quantiles95 of Diff_Y2, 1_Deagglomerate",0.000000,0.0000,1639
+"Quantiles95 of Diff_Y2, 2_Heat",0.000000,0.0000,1640
+"Quantiles95 of Diff_Y2, 3_Cooldown",0.000000,0.0000,1641
+"Quantiles95 of Diff_Y3, 1_Deagglomerate",0.000000,0.0000,1642
+"Quantiles95 of Diff_Y3, 2_Heat",0.000000,0.0000,1643
+"Quantiles95 of Diff_Y3, 3_Cooldown",0.000000,0.0000,1644
+"Quantiles95 of Diff_Y4, 1_Deagglomerate",0.000000,0.0000,1645
+"Quantiles95 of Diff_Y4, 2_Heat",0.000000,0.0000,1646
+"Quantiles95 of Diff_Y4, 3_Cooldown",0.000000,0.0000,1647
+"Quantiles95 of Diff_Y5, 1_Deagglomerate",0.000000,0.0000,1648
+"Quantiles95 of Diff_Y5, 2_Heat",0.000000,0.0000,1649
+"Quantiles95 of Diff_Y5, 3_Cooldown",0.000000,0.0000,1650
+"Quantiles95 of Diff_Y6, 1_Deagglomerate",0.000000,0.0000,1651
+"Quantiles95 of Diff_Y6, 2_Heat",0.000000,0.0000,1652
+"Quantiles95 of Diff_Y6, 3_Cooldown",0.000000,0.0000,1653
+"Quantiles95 of Diff_Y7, 1_Deagglomerate",0.000000,0.0000,1654
+"Quantiles95 of Diff_Y7, 2_Heat",0.000000,0.0000,1655
+"Quantiles95 of Diff_Y7, 3_Cooldown",0.000000,0.0000,1656
+"Quantiles95 of Diff_Y8, 1_Deagglomerate",0.000000,0.0000,1657
+"Quantiles95 of Diff_Y8, 2_Heat",0.000000,0.0000,1658
+"Quantiles95 of Diff_Y8, 3_Cooldown",0.000000,0.0000,1659
+"Quantiles95 of Diff_Y9, 1_Deagglomerate",0.000000,0.0000,1660
+"Quantiles95 of Diff_Y9, 2_Heat",0.000000,0.0000,1661
+"Quantiles95 of Diff_Y9, 3_Cooldown",0.000000,0.0000,1662
+"Quantiles95 of Diff_Y10, 1_Deagglomerate",0.000000,0.0000,1663
+"Quantiles95 of Diff_Y10, 2_Heat",0.000000,0.0000,1664
+"Quantiles95 of Diff_Y10, 3_Cooldown",0.000000,0.0000,1665
+"Quantiles95 of Diff_Y11, 1_Deagglomerate",0.000000,0.0000,1666
+"Quantiles95 of Diff_Y11, 2_Heat",0.000000,0.0000,1667
+"Quantiles95 of Diff_Y11, 3_Cooldown",0.000000,0.0000,1668
+"Quantiles95 of Diff_Tank level [%], 1_Deagglomerate",0.000000,0.0000,1669
+"Mean of Tank level [%]-Mean[Tank level [%]], 1_Deagglomerate",0.000000,0.0000,1670
+"Mean of Tank level [%]-Mean[Tank level [%]], 2_Heat",0.000000,0.0000,1671
+"Mean of Tank level [%]-Mean[Tank level [%]], 3_Cooldown",0.000000,0.0000,1672
+"Mean of Differential pressure [mmHg], 2_Heat",0.000000,0.0000,1673
+"Quantiles95 of Diff_Mean[Tank level [%]], 3_Cooldown",0.000000,0.0000,1674
+"Mean of Differential pressure [mmHg], 3_Cooldown",0.000000,0.0000,1675
+"Quantiles95 of Diff_Tank level [%]-Mean[Tank level [%]], 2_Heat",0.000000,0.0000,1676
+"Mean of Dryer pressure [mmHg], 2_Heat",0.000000,0.0000,1677
+"Mean of Dryer pressure [mmHg], 3_Cooldown",0.000000,0.0000,1678
+"Mean of Power [W], 2_Heat",0.000000,0.0000,1679
+"Mean of Power [W], 3_Cooldown",0.000000,0.0000,1680
+"Mean of Agitator Speed [rpm], 2_Heat",0.000000,0.0000,1681
+"Quantiles95 of Diff_Dryer pressure [mmHg], 2_Heat",0.000000,0.0000,1682
+"Mean of Agitator Speed [rpm], 3_Cooldown",0.000000,0.0000,1683
+"Quantiles95 of Diff_Power [W], 1_Deagglomerate",0.000000,0.0000,1684
+"Quantiles95 of Diff_Power [W], 2_Heat",0.000000,0.0000,1685
+"Quantiles95 of Diff_Power [W], 3_Cooldown",0.000000,0.0000,1686
+"Mean of Torque [Nm], 2_Heat",0.000000,0.0000,1687
+"Quantiles95 of Diff_Agitator Speed [rpm], 2_Heat",0.000000,0.0000,1688
+"Mean of Jacket Temp SP [degC], 1_Deagglomerate",0.000000,0.0000,1689
+"Quantiles95 of Diff_Torque [Nm], 1_Deagglomerate",0.000000,0.0000,1690
+"Quantiles95 of Diff_Torque [Nm], 2_Heat",0.000000,0.0000,1691
+"Quantiles95 of Diff_Torque [Nm], 3_Cooldown",0.000000,0.0000,1692
+"Quantiles95 of Diff_Jacket Temp SP [degC], 1_Deagglomerate",0.000000,0.0000,1693
+"Quantiles95 of Diff_Jacket Temp SP [degC], 2_Heat",0.000000,0.0000,1694
+"Quantiles95 of Diff_Jacket Temp SP [degC], 3_Cooldown",0.000000,0.0000,1695
+"Quantiles95 of Diff_Jacket Temp PV  [degC], 1_Deagglomerate",0.000000,0.0000,1696
+"Quantiles95 of Diff_Jacket Temp PV  [degC], 2_Heat",0.000000,0.0000,1697
+"Quantiles95 of Diff_Jacket Temp PV  [degC], 3_Cooldown",0.000000,0.0000,1698
+"Quantiles95 of Diff_abs(Jacket Temp SP-PV)  [degC], 1_Deagglomerate",0.000000,0.0000,1699
+"Mean of Jacket Temp PV  [degC], 3_Cooldown",0.000000,0.0000,1700
+"Quantiles95 of Diff_abs(Jacket Temp SP-PV)  [degC], 3_Cooldown",0.000000,0.0000,1701
+"Quantiles95 of Diff_Dryer Temp SP [degC], 1_Deagglomerate",0.000000,0.0000,1702
+"Quantiles95 of Diff_Dryer Temp SP [degC], 2_Heat",0.000000,0.0000,1703
+"Mean of abs(Jacket Temp SP-PV)  [degC], 2_Heat",0.000000,0.0000,1704
+"Quantiles95 of Diff_Dryer Temp PV [degC], 1_Deagglomerate",0.000000,0.0000,1705
+"Quantiles95 of Diff_Dryer Temp PV [degC], 2_Heat",0.000000,0.0000,1706
+"Quantiles95 of Diff_Dryer Temp PV [degC], 3_Cooldown",0.000000,0.0000,1707
+"Quantiles95 of Diff_Difference[Dryer Temp PV [degC]], 1_Deagglomerate",0.000000,0.0000,1708
+"Mean of abs(Jacket Temp SP-PV)  [degC], 3_Cooldown",0.000000,0.0000,1709
+"Mean of Dryer Temp SP [degC], 2_Heat",0.000000,0.0000,1710
+"Quantiles95 of Diff_abs(Dryer Temp SP-PV)  [degC], 1_Deagglomerate",0.000000,0.0000,1711
+"Quantiles95 of Diff_abs(Dryer Temp SP-PV)  [degC], 2_Heat",0.000000,0.0000,1712
+"Mean of Dryer Temp SP [degC], 3_Cooldown",0.000000,0.0000,1713
+"Quantiles95 of Diff_Z1, 1_Deagglomerate",0.000000,0.0000,1714
+"Quantiles95 of Diff_Z1, 2_Heat",0.000000,0.0000,1715
+"Quantiles95 of Diff_Z1, 3_Cooldown",0.000000,0.0000,1716
+"Quantiles95 of Diff_Z2, 1_Deagglomerate",0.000000,0.0000,1717
+"Quantiles95 of Diff_Z2, 2_Heat",0.000000,0.0000,1718
+"Quantiles95 of Diff_Z2, 3_Cooldown",0.000000,0.0000,1719
+"Quantiles95 of Diff_Z3, 1_Deagglomerate",0.000000,0.0000,1720
+"Quantiles95 of Diff_Z3, 2_Heat",0.000000,0.0000,1721
+"Quantiles95 of Diff_Z3, 3_Cooldown",0.000000,0.0000,1722
+"Quantiles95 of Diff_Z4, 1_Deagglomerate",0.000000,0.0000,1723
+"Quantiles95 of Diff_Z4, 2_Heat",0.000000,0.0000,1724
+"Quantiles95 of Diff_Z4, 3_Cooldown",0.000000,0.0000,1725
+"Quantiles95 of Diff_Z5, 1_Deagglomerate",0.000000,0.0000,1726
+"Quantiles95 of Diff_Z5, 2_Heat",0.000000,0.0000,1727
+"Quantiles95 of Diff_Z5, 3_Cooldown",0.000000,0.0000,1728
+"Quantiles95 of Diff_Z6, 1_Deagglomerate",0.000000,0.0000,1729
+"Quantiles95 of Diff_Z6, 2_Heat",0.000000,0.0000,1730
+"Quantiles95 of Diff_Z6, 3_Cooldown",0.000000,0.0000,1731
+"Quantiles95 of Diff_Z7, 1_Deagglomerate",0.000000,0.0000,1732
+"Quantiles95 of Diff_Z7, 2_Heat",0.000000,0.0000,1733
+"Quantiles95 of Diff_Z7, 3_Cooldown",0.000000,0.0000,1734
+"Quantiles95 of Diff_Z8, 1_Deagglomerate",0.000000,0.0000,1735
+"Quantiles95 of Diff_Z8, 2_Heat",0.000000,0.0000,1736
+"Quantiles95 of Diff_Z8, 3_Cooldown",0.000000,0.0000,1737
+"Quantiles95 of Diff_Z9, 1_Deagglomerate",0.000000,0.0000,1738
+"Quantiles95 of Diff_Z9, 2_Heat",0.000000,0.0000,1739
+"Quantiles95 of Diff_Z9, 3_Cooldown",0.000000,0.0000,1740
+"Quantiles95 of Diff_Z10, 1_Deagglomerate",0.000000,0.0000,1741
+"Quantiles95 of Diff_Z10, 2_Heat",0.000000,0.0000,1742
+"Quantiles95 of Diff_Z10, 3_Cooldown",0.000000,0.0000,1743
+"Quantiles95 of Diff_Z11, 1_Deagglomerate",0.000000,0.0000,1744
+"Quantiles95 of Diff_Z11, 2_Heat",0.000000,0.0000,1745
+"Quantiles95 of Diff_Z11, 3_Cooldown",0.000000,0.0000,1746
+"Quantiles95 of Diff_Z (Initial cake weight) [kg], 1_Deagglomerate",0.000000,0.0000,1747
+"Quantiles95 of Diff_Z (Initial cake weight) [kg], 2_Heat",0.000000,0.0000,1748
+"Quantiles95 of Diff_Z (Initial cake weight) [kg], 3_Cooldown",0.000000,0.0000,1749
+"Quantiles95 of Diff_Level1, 1_Deagglomerate",0.000000,0.0000,1750
+"Quantiles95 of Diff_Level1, 2_Heat",0.000000,0.0000,1751
+"Quantiles95 of Diff_Level1, 3_Cooldown",0.000000,0.0000,1752
+"Quantiles95 of Diff_Temp1, 1_Deagglomerate",0.000000,0.0000,1753
+"Quantiles95 of Diff_Temp1, 2_Heat",0.000000,0.0000,1754
+"Quantiles95 of Diff_Temp1, 3_Cooldown",0.000000,0.0000,1755
+"Quantiles95 of Diff_Temp2, 1_Deagglomerate",0.000000,0.0000,1756
+"Quantiles95 of Diff_Temp2, 2_Heat",0.000000,0.0000,1757
+"Quantiles95 of Diff_Temp2, 3_Cooldown",0.000000,0.0000,1758
+"Quantiles95 of Random Normal, 1_Deagglomerate",0.000000,0.0000,1759
+"Mean of Dryer Temp PV [degC], 1_Deagglomerate",0.000000,0.0000,1760
+"Mean of Dryer Temp PV [degC], 2_Heat",0.000000,0.0000,1761
+"Mean of Difference[Dryer Temp PV [degC]], 2_Heat",0.000000,0.0000,1762
+"Mean of Difference[Dryer Temp PV [degC]], 3_Cooldown",0.000000,0.0000,1763
+"Quantiles95 of Random Uniform, 3_Cooldown",0.000000,0.0000,1764
+"Median of Y1, 1_Deagglomerate",0.000000,0.0000,1765
+"Median of Y1, 2_Heat",0.000000,0.0000,1766
+"Median of Y1, 3_Cooldown",0.000000,0.0000,1767
+"Median of Y2, 1_Deagglomerate",0.000000,0.0000,1768
+"Median of Y2, 2_Heat",0.000000,0.0000,1769
+"Mean of abs(Dryer Temp SP-PV)  [degC], 2_Heat",0.000000,0.0000,1770
+"Median of Y3, 1_Deagglomerate",0.000000,0.0000,1771
+"Median of Y3, 2_Heat",0.000000,0.0000,1772
+"Median of Y3, 3_Cooldown",0.000000,0.0000,1773
+"Median of Y4, 1_Deagglomerate",0.000000,0.0000,1774
+"Median of Y4, 2_Heat",0.000000,0.0000,1775
+"Mean of abs(Dryer Temp SP-PV)  [degC], 3_Cooldown",0.000000,0.0000,1776
+"Mean of Z1, 3_Cooldown",0.000000,0.0000,1777
+"Median of Y5, 2_Heat",0.000000,0.0000,1778
+"Median of Y5, 3_Cooldown",0.000000,0.0000,1779
+"Median of Y6, 1_Deagglomerate",0.000000,0.0000,1780
+"Median of Y6, 2_Heat",0.000000,0.0000,1781
+"Median of Y6, 3_Cooldown",0.000000,0.0000,1782
+"Median of Y7, 1_Deagglomerate",0.000000,0.0000,1783
+"Median of Y7, 2_Heat",0.000000,0.0000,1784
+"Median of Y7, 3_Cooldown",0.000000,0.0000,1785
+"Median of Y8, 1_Deagglomerate",0.000000,0.0000,1786
+"Median of Y8, 2_Heat",0.000000,0.0000,1787
+"Median of Y8, 3_Cooldown",0.000000,0.0000,1788
+"Median of Y9, 1_Deagglomerate",0.000000,0.0000,1789
+"Mean of Z2, 2_Heat",0.000000,0.0000,1790
+"Median of Y9, 3_Cooldown",0.000000,0.0000,1791
+"Median of Y10, 1_Deagglomerate",0.000000,0.0000,1792
+"Median of Y10, 2_Heat",0.000000,0.0000,1793
+"Median of Y10, 3_Cooldown",0.000000,0.0000,1794
+"Median of Y11, 1_Deagglomerate",0.000000,0.0000,1795
+"Median of Y11, 2_Heat",0.000000,0.0000,1796
+"Median of Y11, 3_Cooldown",0.000000,0.0000,1797
+"Median of Tank level [%], 1_Deagglomerate",0.000000,0.0000,1798
+"Median of Tank level [%], 2_Heat",0.000000,0.0000,1799
+"Median of Tank level [%], 3_Cooldown",0.000000,0.0000,1800
+"Mean of Z2, 3_Cooldown",0.000000,0.0000,1801
+"Mean of Z3, 3_Cooldown",0.000000,0.0000,1802
+"Mean of Z4, 3_Cooldown",0.000000,0.0000,1803
+"Mean of Z5, 2_Heat",0.000000,0.0000,1804
+"Median of Tank level [%]-Mean[Tank level [%]], 2_Heat",0.000000,0.0000,1805
+"Mean of Z6, 1_Deagglomerate",0.000000,0.0000,1806
+"Median of Differential pressure [mmHg], 1_Deagglomerate",0.000000,0.0000,1807
+"Median of Differential pressure [mmHg], 2_Heat",0.000000,0.0000,1808
+"Mean of Z6, 3_Cooldown",0.000000,0.0000,1809
+"Median of Dryer pressure [mmHg], 1_Deagglomerate",0.000000,0.0000,1810
+"Median of Dryer pressure [mmHg], 2_Heat",0.000000,0.0000,1811
+"Median of Dryer pressure [mmHg], 3_Cooldown",0.000000,0.0000,1812
+"Mean of Z7, 1_Deagglomerate",0.000000,0.0000,1813
+"Mean of Z7, 2_Heat",0.000000,0.0000,1814
+"Median of Power [W], 3_Cooldown",0.000000,0.0000,1815
+"Median of Agitator Speed [rpm], 1_Deagglomerate",0.000000,0.0000,1816
+"Median of Agitator Speed [rpm], 2_Heat",0.000000,0.0000,1817
+"Median of Agitator Speed [rpm], 3_Cooldown",0.000000,0.0000,1818
+"Mean of Z7, 3_Cooldown",0.000000,0.0000,1819
+"Median of Torque [Nm], 2_Heat",0.000000,0.0000,1820
+"Median of Torque [Nm], 3_Cooldown",0.000000,0.0000,1821
+"Median of Jacket Temp SP [degC], 1_Deagglomerate",0.000000,0.0000,1822
+"Median of Jacket Temp SP [degC], 2_Heat",0.000000,0.0000,1823
+"Median of Jacket Temp SP [degC], 3_Cooldown",0.000000,0.0000,1824
+"Mean of Z9, 2_Heat",0.000000,0.0000,1825
+"Median of Jacket Temp PV  [degC], 2_Heat",0.000000,0.0000,1826
+"Median of Jacket Temp PV  [degC], 3_Cooldown",0.000000,0.0000,1827
+"Median of abs(Jacket Temp SP-PV)  [degC], 1_Deagglomerate",0.000000,0.0000,1828
+"Median of abs(Jacket Temp SP-PV)  [degC], 2_Heat",0.000000,0.0000,1829
+"Median of abs(Jacket Temp SP-PV)  [degC], 3_Cooldown",0.000000,0.0000,1830
+"Median of Dryer Temp SP [degC], 1_Deagglomerate",0.000000,0.0000,1831
+"Median of Dryer Temp SP [degC], 2_Heat",0.000000,0.0000,1832
+"Median of Dryer Temp SP [degC], 3_Cooldown",0.000000,0.0000,1833
+"Mean of Z10, 1_Deagglomerate",0.000000,0.0000,1834
+"Median of Dryer Temp PV [degC], 2_Heat",0.000000,0.0000,1835
+"Median of Dryer Temp PV [degC], 3_Cooldown",0.000000,0.0000,1836
+"Mean of Z10, 3_Cooldown",0.000000,0.0000,1837
+"Median of Difference[Dryer Temp PV [degC]], 2_Heat",0.000000,0.0000,1838
+"Median of Difference[Dryer Temp PV [degC]], 3_Cooldown",0.000000,0.0000,1839
+"Mean of Z11, 1_Deagglomerate",0.000000,0.0000,1840
+"Median of abs(Dryer Temp SP-PV)  [degC], 2_Heat",0.000000,0.0000,1841
+"Mean of Z11, 3_Cooldown",0.000000,0.0000,1842
+"Median of Z1, 1_Deagglomerate",0.000000,0.0000,1843
+"Median of Z1, 2_Heat",0.000000,0.0000,1844
+"Median of Z1, 3_Cooldown",0.000000,0.0000,1845
+"Mean of Z (Initial cake weight) [kg], 2_Heat",0.000000,0.0000,1846
+"Median of Z2, 2_Heat",0.000000,0.0000,1847
+"Median of Z2, 3_Cooldown",0.000000,0.0000,1848
+"Median of Z3, 1_Deagglomerate",0.000000,0.0000,1849
+"Median of Z3, 2_Heat",0.000000,0.0000,1850
+"Median of Z3, 3_Cooldown",0.000000,0.0000,1851
+"Median of Z4, 1_Deagglomerate",0.000000,0.0000,1852
+"Median of Z4, 2_Heat",0.000000,0.0000,1853
+"Median of Z4, 3_Cooldown",0.000000,0.0000,1854
+"Median of Z5, 1_Deagglomerate",0.000000,0.0000,1855
+"Median of Z5, 2_Heat",0.000000,0.0000,1856
+"Median of Z5, 3_Cooldown",0.000000,0.0000,1857
+"Median of Z6, 1_Deagglomerate",0.000000,0.0000,1858
+"Median of Z6, 2_Heat",0.000000,0.0000,1859
+"Median of Z6, 3_Cooldown",0.000000,0.0000,1860
+"Median of Z7, 1_Deagglomerate",0.000000,0.0000,1861
+"Median of Z7, 2_Heat",0.000000,0.0000,1862
+"Median of Z7, 3_Cooldown",0.000000,0.0000,1863
+"Median of Z8, 1_Deagglomerate",0.000000,0.0000,1864
+"Mean of Z (Initial cake weight) [kg], 3_Cooldown",0.000000,0.0000,1865
+"Median of Z8, 3_Cooldown",0.000000,0.0000,1866
+"Median of Z9, 1_Deagglomerate",0.000000,0.0000,1867
+"Median of Z9, 2_Heat",0.000000,0.0000,1868
+"Mean of Level1, 1_Deagglomerate",0.000000,0.0000,1869
+"Mean of Level1, 2_Heat",0.000000,0.0000,1870
+"Median of Z10, 2_Heat",0.000000,0.0000,1871
+"Median of Z10, 3_Cooldown",0.000000,0.0000,1872
+"Median of Z11, 1_Deagglomerate",0.000000,0.0000,1873
+"Median of Z11, 2_Heat",0.000000,0.0000,1874
+"Median of Z11, 3_Cooldown",0.000000,0.0000,1875
+"Median of Z (Initial cake weight) [kg], 1_Deagglomerate",0.000000,0.0000,1876
+"Mean of Level1, 3_Cooldown",0.000000,0.0000,1877
+"Median of Z (Initial cake weight) [kg], 3_Cooldown",0.000000,0.0000,1878
+"Median of Level1, 1_Deagglomerate",0.000000,0.0000,1879
+"Median of Level1, 2_Heat",0.000000,0.0000,1880
+"Median of Level1, 3_Cooldown",0.000000,0.0000,1881
+"Median of Temp1, 1_Deagglomerate",0.000000,0.0000,1882
+"Median of Temp1, 2_Heat",0.000000,0.0000,1883
+"Median of Temp1, 3_Cooldown",0.000000,0.0000,1884
+"Median of Temp2, 1_Deagglomerate",0.000000,0.0000,1885
+"Median of Temp2, 2_Heat",0.000000,0.0000,1886
+"Median of Temp2, 3_Cooldown",0.000000,0.0000,1887
+"Median of Diff_Y1, 1_Deagglomerate",0.000000,0.0000,1888
+"Median of Diff_Y1, 2_Heat",0.000000,0.0000,1889
+"Median of Diff_Y1, 3_Cooldown",0.000000,0.0000,1890
+"Median of Diff_Y2, 1_Deagglomerate",0.000000,0.0000,1891
+"Median of Diff_Y2, 2_Heat",0.000000,0.0000,1892
+"Median of Diff_Y2, 3_Cooldown",0.000000,0.0000,1893
+"Median of Diff_Y3, 1_Deagglomerate",0.000000,0.0000,1894
+"Median of Diff_Y3, 2_Heat",0.000000,0.0000,1895
+"Median of Diff_Y3, 3_Cooldown",0.000000,0.0000,1896
+"Median of Diff_Y4, 1_Deagglomerate",0.000000,0.0000,1897
+"Median of Diff_Y4, 2_Heat",0.000000,0.0000,1898
+"Median of Diff_Y4, 3_Cooldown",0.000000,0.0000,1899
+"Median of Diff_Y5, 1_Deagglomerate",0.000000,0.0000,1900
+"Median of Diff_Y5, 2_Heat",0.000000,0.0000,1901
+"Median of Diff_Y5, 3_Cooldown",0.000000,0.0000,1902
+"Median of Diff_Y6, 1_Deagglomerate",0.000000,0.0000,1903
+"Median of Diff_Y6, 2_Heat",0.000000,0.0000,1904
+"Median of Diff_Y6, 3_Cooldown",0.000000,0.0000,1905
+"Median of Diff_Y7, 1_Deagglomerate",0.000000,0.0000,1906
+"Median of Diff_Y7, 2_Heat",0.000000,0.0000,1907
+"Median of Diff_Y7, 3_Cooldown",0.000000,0.0000,1908
+"Median of Diff_Y8, 1_Deagglomerate",0.000000,0.0000,1909
+"Median of Diff_Y8, 2_Heat",0.000000,0.0000,1910
+"Median of Diff_Y8, 3_Cooldown",0.000000,0.0000,1911
+"Median of Diff_Y9, 1_Deagglomerate",0.000000,0.0000,1912
+"Median of Diff_Y9, 2_Heat",0.000000,0.0000,1913
+"Median of Diff_Y9, 3_Cooldown",0.000000,0.0000,1914
+"Median of Diff_Y10, 1_Deagglomerate",0.000000,0.0000,1915
+"Median of Diff_Y10, 2_Heat",0.000000,0.0000,1916
+"Median of Diff_Y10, 3_Cooldown",0.000000,0.0000,1917
+"Median of Diff_Y11, 1_Deagglomerate",0.000000,0.0000,1918
+"Median of Diff_Y11, 2_Heat",0.000000,0.0000,1919
+"Median of Diff_Y11, 3_Cooldown",0.000000,0.0000,1920
+"Median of Diff_Tank level [%], 1_Deagglomerate",0.000000,0.0000,1921
+"Median of Diff_Tank level [%], 2_Heat",0.000000,0.0000,1922
+"Mean of Temp1, 1_Deagglomerate",0.000000,0.0000,1923
+"Mean of Temp1, 2_Heat",0.000000,0.0000,1924
+"Mean of Temp1, 3_Cooldown",0.000000,0.0000,1925
+"Mean of Temp2, 1_Deagglomerate",0.000000,0.0000,1926
+"Mean of Temp2, 2_Heat",0.000000,0.0000,1927
+"Median of Diff_Tank level [%]-Mean[Tank level [%]], 2_Heat",0.000000,0.0000,1928
+"Mean of Temp2, 3_Cooldown",0.000000,0.0000,1929
+"Median of Diff_Differential pressure [mmHg], 1_Deagglomerate",0.000000,0.0000,1930
+"Mean of Diff_Y1, 1_Deagglomerate",0.000000,0.0000,1931
+"Mean of Diff_Y1, 2_Heat",0.000000,0.0000,1932
+"Mean of Diff_Y1, 3_Cooldown",0.000000,0.0000,1933
+"Median of Diff_Dryer pressure [mmHg], 2_Heat",0.000000,0.0000,1934
+"Mean of Diff_Y2, 2_Heat",0.000000,0.0000,1935
+"Mean of Diff_Y2, 3_Cooldown",0.000000,0.0000,1936
+"Mean of Diff_Y3, 1_Deagglomerate",0.000000,0.0000,1937
+"Mean of Diff_Y3, 2_Heat",0.000000,0.0000,1938
+"Mean of Diff_Y3, 3_Cooldown",0.000000,0.0000,1939
+"Mean of Diff_Y4, 1_Deagglomerate",0.000000,0.0000,1940
+"Mean of Diff_Y4, 2_Heat",0.000000,0.0000,1941
+"Median of Diff_Torque [Nm], 1_Deagglomerate",0.000000,0.0000,1942
+"Median of Diff_Torque [Nm], 2_Heat",0.000000,0.0000,1943
+"Median of Diff_Torque [Nm], 3_Cooldown",0.000000,0.0000,1944
+"Mean of Diff_Y4, 3_Cooldown",0.000000,0.0000,1945
+"Median of Diff_Jacket Temp SP [degC], 2_Heat",0.000000,0.0000,1946
+"Median of Diff_Jacket Temp SP [degC], 3_Cooldown",0.000000,0.0000,1947
+"Median of Diff_Jacket Temp PV  [degC], 1_Deagglomerate",0.000000,0.0000,1948
+"Mean of Diff_Y5, 1_Deagglomerate",0.000000,0.0000,1949
+"Median of Diff_Jacket Temp PV  [degC], 3_Cooldown",0.000000,0.0000,1950
+"Mean of Diff_Y5, 2_Heat",0.000000,0.0000,1951
+"Mean of Diff_Y5, 3_Cooldown",0.000000,0.0000,1952
+"Mean of Diff_Y6, 1_Deagglomerate",0.000000,0.0000,1953
+"Mean of Diff_Y6, 2_Heat",0.000000,0.0000,1954
+"Median of Diff_Dryer Temp SP [degC], 2_Heat",0.000000,0.0000,1955
+"Median of Diff_Dryer Temp SP [degC], 3_Cooldown",0.000000,0.0000,1956
+"Mean of Diff_Y6, 3_Cooldown",0.000000,0.0000,1957
+"Median of Diff_Dryer Temp PV [degC], 2_Heat",0.000000,0.0000,1958
+"Median of Diff_Dryer Temp PV [degC], 3_Cooldown",0.000000,0.0000,1959
+"Median of Diff_Difference[Dryer Temp PV [degC]], 1_Deagglomerate",0.000000,0.0000,1960
+"Mean of Diff_Y7, 1_Deagglomerate",0.000000,0.0000,1961
+"Mean of Diff_Y7, 2_Heat",0.000000,0.0000,1962
+"Median of Diff_abs(Dryer Temp SP-PV)  [degC], 1_Deagglomerate",0.000000,0.0000,1963
+"Median of Diff_abs(Dryer Temp SP-PV)  [degC], 2_Heat",0.000000,0.0000,1964
+"Mean of Diff_Y7, 3_Cooldown",0.000000,0.0000,1965
+"Median of Diff_Z1, 1_Deagglomerate",0.000000,0.0000,1966
+"Median of Diff_Z1, 2_Heat",0.000000,0.0000,1967
+"Median of Diff_Z1, 3_Cooldown",0.000000,0.0000,1968
+"Mean of Diff_Y8, 1_Deagglomerate",0.000000,0.0000,1969
+"Median of Diff_Z2, 2_Heat",0.000000,0.0000,1970
+"Median of Diff_Z2, 3_Cooldown",0.000000,0.0000,1971
+"Median of Diff_Z3, 1_Deagglomerate",0.000000,0.0000,1972
+"Median of Diff_Z3, 2_Heat",0.000000,0.0000,1973
+"Median of Diff_Z3, 3_Cooldown",0.000000,0.0000,1974
+"Median of Diff_Z4, 1_Deagglomerate",0.000000,0.0000,1975
+"Median of Diff_Z4, 2_Heat",0.000000,0.0000,1976
+"Median of Diff_Z4, 3_Cooldown",0.000000,0.0000,1977
+"Median of Diff_Z5, 1_Deagglomerate",0.000000,0.0000,1978
+"Median of Diff_Z5, 2_Heat",0.000000,0.0000,1979
+"Median of Diff_Z5, 3_Cooldown",0.000000,0.0000,1980
+"Median of Diff_Z6, 1_Deagglomerate",0.000000,0.0000,1981
+"Median of Diff_Z6, 2_Heat",0.000000,0.0000,1982
+"Median of Diff_Z6, 3_Cooldown",0.000000,0.0000,1983
+"Median of Diff_Z7, 1_Deagglomerate",0.000000,0.0000,1984
+"Median of Diff_Z7, 2_Heat",0.000000,0.0000,1985
+"Median of Diff_Z7, 3_Cooldown",0.000000,0.0000,1986
+"Median of Diff_Z8, 1_Deagglomerate",0.000000,0.0000,1987
+"Median of Diff_Z8, 2_Heat",0.000000,0.0000,1988
+"Median of Diff_Z8, 3_Cooldown",0.000000,0.0000,1989
+"Median of Diff_Z9, 1_Deagglomerate",0.000000,0.0000,1990
+"Median of Diff_Z9, 2_Heat",0.000000,0.0000,1991
+"Median of Diff_Z9, 3_Cooldown",0.000000,0.0000,1992
+"Median of Diff_Z10, 1_Deagglomerate",0.000000,0.0000,1993
+"Median of Diff_Z10, 2_Heat",0.000000,0.0000,1994
+"Median of Diff_Z10, 3_Cooldown",0.000000,0.0000,1995
+"Median of Diff_Z11, 1_Deagglomerate",0.000000,0.0000,1996
+"Median of Diff_Z11, 2_Heat",0.000000,0.0000,1997
+"Median of Diff_Z11, 3_Cooldown",0.000000,0.0000,1998
+"Median of Diff_Z (Initial cake weight) [kg], 1_Deagglomerate",0.000000,0.0000,1999
+"Median of Diff_Z (Initial cake weight) [kg], 2_Heat",0.000000,0.0000,2000
+"Median of Diff_Z (Initial cake weight) [kg], 3_Cooldown",0.000000,0.0000,2001
+"Median of Diff_Level1, 1_Deagglomerate",0.000000,0.0000,2002
+"Median of Diff_Level1, 2_Heat",0.000000,0.0000,2003
+"Median of Diff_Level1, 3_Cooldown",0.000000,0.0000,2004
+"Median of Diff_Temp1, 1_Deagglomerate",0.000000,0.0000,2005
+"Median of Diff_Temp1, 2_Heat",0.000000,0.0000,2006
+"Median of Diff_Temp1, 3_Cooldown",0.000000,0.0000,2007
+"Median of Diff_Temp2, 1_Deagglomerate",0.000000,0.0000,2008
+"Median of Diff_Temp2, 2_Heat",0.000000,0.0000,2009
+"Median of Diff_Temp2, 3_Cooldown",0.000000,0.0000,2010
+"Mean of Diff_Y8, 2_Heat",0.000000,0.0000,2011
+"Median of Random Normal, 2_Heat",0.000000,0.0000,2012
+"Mean of Diff_Y8, 3_Cooldown",0.000000,0.0000,2013
+"Median of Random Uniform, 1_Deagglomerate",0.000000,0.0000,2014
+"Mean of Diff_Y9, 1_Deagglomerate",0.000000,0.0000,2015
+"Median of Random Uniform, 3_Cooldown",0.000000,0.0000,2016
+"Quantiles5 of Y1, 1_Deagglomerate",0.000000,0.0000,2017
+"Quantiles5 of Y1, 2_Heat",0.000000,0.0000,2018
+"Quantiles5 of Y1, 3_Cooldown",0.000000,0.0000,2019
+"Mean of Diff_Y9, 2_Heat",0.000000,0.0000,2020
+"Quantiles5 of Y2, 2_Heat",0.000000,0.0000,2021
+"Quantiles5 of Y2, 3_Cooldown",0.000000,0.0000,2022
+"Mean of Diff_Y9, 3_Cooldown",0.000000,0.0000,2023
+"Quantiles5 of Y3, 2_Heat",0.000000,0.0000,2024
+"Quantiles5 of Y3, 3_Cooldown",0.000000,0.0000,2025
+"Quantiles5 of Y4, 1_Deagglomerate",0.000000,0.0000,2026
+"Quantiles5 of Y4, 2_Heat",0.000000,0.0000,2027
+"Quantiles5 of Y4, 3_Cooldown",0.000000,0.0000,2028
+"Quantiles5 of Y5, 1_Deagglomerate",0.000000,0.0000,2029
+"Quantiles5 of Y5, 2_Heat",0.000000,0.0000,2030
+"Quantiles5 of Y5, 3_Cooldown",0.000000,0.0000,2031
+"Quantiles5 of Y6, 1_Deagglomerate",0.000000,0.0000,2032
+"Mean of Diff_Y10, 1_Deagglomerate",0.000000,0.0000,2033
+"Quantiles5 of Y6, 3_Cooldown",0.000000,0.0000,2034
+"Quantiles5 of Y7, 1_Deagglomerate",0.000000,0.0000,2035
+"Quantiles5 of Y7, 2_Heat",0.000000,0.0000,2036
+"Quantiles5 of Y7, 3_Cooldown",0.000000,0.0000,2037
+"Quantiles5 of Y8, 1_Deagglomerate",0.000000,0.0000,2038
+"Quantiles5 of Y8, 2_Heat",0.000000,0.0000,2039
+"Quantiles5 of Y8, 3_Cooldown",0.000000,0.0000,2040
+"Quantiles5 of Y9, 1_Deagglomerate",0.000000,0.0000,2041
+"Quantiles5 of Y9, 2_Heat",0.000000,0.0000,2042
+"Quantiles5 of Y9, 3_Cooldown",0.000000,0.0000,2043
+"Quantiles5 of Y10, 1_Deagglomerate",0.000000,0.0000,2044
+"Mean of Diff_Y10, 2_Heat",0.000000,0.0000,2045
+"Quantiles5 of Y10, 3_Cooldown",0.000000,0.0000,2046
+"Mean of Diff_Y10, 3_Cooldown",0.000000,0.0000,2047
+"Quantiles5 of Y11, 2_Heat",0.000000,0.0000,2048
+"Quantiles5 of Y11, 3_Cooldown",0.000000,0.0000,2049
+"Quantiles5 of Tank level [%], 1_Deagglomerate",0.000000,0.0000,2050
+"Quantiles5 of Tank level [%], 2_Heat",0.000000,0.0000,2051
+"Quantiles5 of Tank level [%], 3_Cooldown",0.000000,0.0000,2052
+"Quantiles5 of Mean[Tank level [%]], 1_Deagglomerate",0.000000,0.0000,2053
+"Mean of Diff_Y11, 1_Deagglomerate",0.000000,0.0000,2054
+"Quantiles5 of Mean[Tank level [%]], 3_Cooldown",0.000000,0.0000,2055
+"Quantiles5 of Tank level [%]-Mean[Tank level [%]], 1_Deagglomerate",0.000000,0.0000,2056
+"Mean of Diff_Y11, 2_Heat",0.000000,0.0000,2057
+"Quantiles5 of Tank level [%]-Mean[Tank level [%]], 3_Cooldown",0.000000,0.0000,2058
+"Mean of Diff_Y11, 3_Cooldown",0.000000,0.0000,2059
+"Quantiles5 of Differential pressure [mmHg], 2_Heat",0.000000,0.0000,2060
+"Quantiles5 of Differential pressure [mmHg], 3_Cooldown",0.000000,0.0000,2061
+"Quantiles5 of Dryer pressure [mmHg], 1_Deagglomerate",0.000000,0.0000,2062
+"Quantiles5 of Dryer pressure [mmHg], 2_Heat",0.000000,0.0000,2063
+"Quantiles5 of Dryer pressure [mmHg], 3_Cooldown",0.000000,0.0000,2064
+"Quantiles5 of Power [W], 1_Deagglomerate",0.000000,0.0000,2065
+"Quantiles5 of Power [W], 2_Heat",0.000000,0.0000,2066
+"Mean of Diff_Tank level [%], 1_Deagglomerate",0.000000,0.0000,2067
+"Mean of Diff_Tank level [%], 3_Cooldown",0.000000,0.0000,2068
+"Quantiles5 of Agitator Speed [rpm], 2_Heat",0.000000,0.0000,2069
+"Mean of Diff_Mean[Tank level [%]], 1_Deagglomerate",0.000000,0.0000,2070
+"Quantiles5 of Torque [Nm], 1_Deagglomerate",0.000000,0.0000,2071
+"Quantiles5 of Torque [Nm], 2_Heat",0.000000,0.0000,2072
+"Mean of Diff_Mean[Tank level [%]], 2_Heat",0.000000,0.0000,2073
+"Quantiles5 of Jacket Temp SP [degC], 1_Deagglomerate",0.000000,0.0000,2074
+"Quantiles5 of Jacket Temp SP [degC], 2_Heat",0.000000,0.0000,2075
+"Mean of Diff_Tank level [%]-Mean[Tank level [%]], 1_Deagglomerate",0.000000,0.0000,2076
+"Mean of Diff_Tank level [%]-Mean[Tank level [%]], 2_Heat",0.000000,0.0000,2077
+"Quantiles5 of Jacket Temp PV  [degC], 2_Heat",0.000000,0.0000,2078
+"Quantiles5 of Jacket Temp PV  [degC], 3_Cooldown",0.000000,0.0000,2079
+"Quantiles5 of abs(Jacket Temp SP-PV)  [degC], 1_Deagglomerate",0.000000,0.0000,2080
+"Quantiles5 of abs(Jacket Temp SP-PV)  [degC], 2_Heat",0.000000,0.0000,2081
+"Quantiles5 of abs(Jacket Temp SP-PV)  [degC], 3_Cooldown",0.000000,0.0000,2082
+"Quantiles5 of Dryer Temp SP [degC], 1_Deagglomerate",0.000000,0.0000,2083
+"Quantiles5 of Dryer Temp SP [degC], 2_Heat",0.000000,0.0000,2084
+"Quantiles5 of Dryer Temp SP [degC], 3_Cooldown",0.000000,0.0000,2085
+"Mean of Diff_Differential pressure [mmHg], 1_Deagglomerate",0.000000,0.0000,2086
+"Quantiles5 of Dryer Temp PV [degC], 2_Heat",0.000000,0.0000,2087
+"Quantiles5 of Dryer Temp PV [degC], 3_Cooldown",0.000000,0.0000,2088
+"Quantiles5 of Difference[Dryer Temp PV [degC]], 1_Deagglomerate",0.000000,0.0000,2089
+"Quantiles5 of Difference[Dryer Temp PV [degC]], 2_Heat",0.000000,0.0000,2090
+"Quantiles5 of Difference[Dryer Temp PV [degC]], 3_Cooldown",0.000000,0.0000,2091
+"Mean of Diff_Dryer pressure [mmHg], 1_Deagglomerate",0.000000,0.0000,2092
+"Mean of Diff_Dryer pressure [mmHg], 2_Heat",0.000000,0.0000,2093
+"Mean of Diff_Dryer pressure [mmHg], 3_Cooldown",0.000000,0.0000,2094
+"Quantiles5 of Z1, 1_Deagglomerate",0.000000,0.0000,2095
+"Quantiles5 of Z1, 2_Heat",0.000000,0.0000,2096
+"Quantiles5 of Z1, 3_Cooldown",0.000000,0.0000,2097
+"Quantiles5 of Z2, 1_Deagglomerate",0.000000,0.0000,2098
+"Quantiles5 of Z2, 2_Heat",0.000000,0.0000,2099
+"Quantiles5 of Z2, 3_Cooldown",0.000000,0.0000,2100
+"Quantiles5 of Z3, 1_Deagglomerate",0.000000,0.0000,2101
+"Quantiles5 of Z3, 2_Heat",0.000000,0.0000,2102
+"Quantiles5 of Z3, 3_Cooldown",0.000000,0.0000,2103
+"Quantiles5 of Z4, 1_Deagglomerate",0.000000,0.0000,2104
+"Quantiles5 of Z4, 2_Heat",0.000000,0.0000,2105
+"Quantiles5 of Z4, 3_Cooldown",0.000000,0.0000,2106
+"Quantiles5 of Z5, 1_Deagglomerate",0.000000,0.0000,2107
+"Quantiles5 of Z5, 2_Heat",0.000000,0.0000,2108
+"Quantiles5 of Z5, 3_Cooldown",0.000000,0.0000,2109
+"Quantiles5 of Z6, 1_Deagglomerate",0.000000,0.0000,2110
+"Quantiles5 of Z6, 2_Heat",0.000000,0.0000,2111
+"Quantiles5 of Z6, 3_Cooldown",0.000000,0.0000,2112
+"Quantiles5 of Z7, 1_Deagglomerate",0.000000,0.0000,2113
+"Quantiles5 of Z7, 2_Heat",0.000000,0.0000,2114
+"Quantiles5 of Z7, 3_Cooldown",0.000000,0.0000,2115
+"Quantiles5 of Z8, 1_Deagglomerate",0.000000,0.0000,2116
+"Quantiles5 of Z8, 2_Heat",0.000000,0.0000,2117
+"Quantiles5 of Z8, 3_Cooldown",0.000000,0.0000,2118
+"Quantiles5 of Z9, 1_Deagglomerate",0.000000,0.0000,2119
+"Quantiles5 of Z9, 2_Heat",0.000000,0.0000,2120
+"Quantiles5 of Z9, 3_Cooldown",0.000000,0.0000,2121
+"Quantiles5 of Z10, 1_Deagglomerate",0.000000,0.0000,2122
+"Quantiles5 of Z10, 2_Heat",0.000000,0.0000,2123
+"Quantiles5 of Z10, 3_Cooldown",0.000000,0.0000,2124
+"Quantiles5 of Z11, 1_Deagglomerate",0.000000,0.0000,2125
+"Quantiles5 of Z11, 2_Heat",0.000000,0.0000,2126
+"Quantiles5 of Z11, 3_Cooldown",0.000000,0.0000,2127
+"Quantiles5 of Z (Initial cake weight) [kg], 1_Deagglomerate",0.000000,0.0000,2128
+"Quantiles5 of Z (Initial cake weight) [kg], 2_Heat",0.000000,0.0000,2129
+"Mean of Diff_Power [W], 2_Heat",0.000000,0.0000,2130
+"Quantiles5 of Level1, 1_Deagglomerate",0.000000,0.0000,2131
+"Quantiles5 of Level1, 2_Heat",0.000000,0.0000,2132
+"Quantiles5 of Level1, 3_Cooldown",0.000000,0.0000,2133
+"Quantiles5 of Temp1, 1_Deagglomerate",0.000000,0.0000,2134
+"Quantiles5 of Temp1, 2_Heat",0.000000,0.0000,2135
+"Quantiles5 of Temp1, 3_Cooldown",0.000000,0.0000,2136
+"Quantiles5 of Temp2, 1_Deagglomerate",0.000000,0.0000,2137
+"Quantiles5 of Temp2, 2_Heat",0.000000,0.0000,2138
+"Quantiles5 of Temp2, 3_Cooldown",0.000000,0.0000,2139
+"Quantiles5 of Diff_Y1, 1_Deagglomerate",0.000000,0.0000,2140
+"Quantiles5 of Diff_Y1, 2_Heat",0.000000,0.0000,2141
+"Quantiles5 of Diff_Y1, 3_Cooldown",0.000000,0.0000,2142
+"Quantiles5 of Diff_Y2, 1_Deagglomerate",0.000000,0.0000,2143
+"Quantiles5 of Diff_Y2, 2_Heat",0.000000,0.0000,2144
+"Quantiles5 of Diff_Y2, 3_Cooldown",0.000000,0.0000,2145
+"Quantiles5 of Diff_Y3, 1_Deagglomerate",0.000000,0.0000,2146
+"Quantiles5 of Diff_Y3, 2_Heat",0.000000,0.0000,2147
+"Quantiles5 of Diff_Y3, 3_Cooldown",0.000000,0.0000,2148
+"Quantiles5 of Diff_Y4, 1_Deagglomerate",0.000000,0.0000,2149
+"Quantiles5 of Diff_Y4, 2_Heat",0.000000,0.0000,2150
+"Quantiles5 of Diff_Y4, 3_Cooldown",0.000000,0.0000,2151
+"Quantiles5 of Diff_Y5, 1_Deagglomerate",0.000000,0.0000,2152
+"Quantiles5 of Diff_Y5, 2_Heat",0.000000,0.0000,2153
+"Quantiles5 of Diff_Y5, 3_Cooldown",0.000000,0.0000,2154
+"Quantiles5 of Diff_Y6, 1_Deagglomerate",0.000000,0.0000,2155
+"Quantiles5 of Diff_Y6, 2_Heat",0.000000,0.0000,2156
+"Quantiles5 of Diff_Y6, 3_Cooldown",0.000000,0.0000,2157
+"Quantiles5 of Diff_Y7, 1_Deagglomerate",0.000000,0.0000,2158
+"Quantiles5 of Diff_Y7, 2_Heat",0.000000,0.0000,2159
+"Quantiles5 of Diff_Y7, 3_Cooldown",0.000000,0.0000,2160
+"Quantiles5 of Diff_Y8, 1_Deagglomerate",0.000000,0.0000,2161
+"Quantiles5 of Diff_Y8, 2_Heat",0.000000,0.0000,2162
+"Quantiles5 of Diff_Y8, 3_Cooldown",0.000000,0.0000,2163
+"Quantiles5 of Diff_Y9, 1_Deagglomerate",0.000000,0.0000,2164
+"Quantiles5 of Diff_Y9, 2_Heat",0.000000,0.0000,2165
+"Quantiles5 of Diff_Y9, 3_Cooldown",0.000000,0.0000,2166
+"Quantiles5 of Diff_Y10, 1_Deagglomerate",0.000000,0.0000,2167
+"Quantiles5 of Diff_Y10, 2_Heat",0.000000,0.0000,2168
+"Quantiles5 of Diff_Y10, 3_Cooldown",0.000000,0.0000,2169
+"Quantiles5 of Diff_Y11, 1_Deagglomerate",0.000000,0.0000,2170
+"Quantiles5 of Diff_Y11, 2_Heat",0.000000,0.0000,2171
+"Quantiles5 of Diff_Y11, 3_Cooldown",0.000000,0.0000,2172
+"Mean of Diff_Agitator Speed [rpm], 1_Deagglomerate",0.000000,0.0000,2173
+"Quantiles5 of Diff_Tank level [%], 2_Heat",0.000000,0.0000,2174
+"Quantiles5 of Diff_Tank level [%], 3_Cooldown",0.000000,0.0000,2175
+"Mean of Diff_Agitator Speed [rpm], 2_Heat",0.000000,0.0000,2176
+"Quantiles5 of Diff_Mean[Tank level [%]], 2_Heat",0.000000,0.0000,2177
+"Mean of Diff_Torque [Nm], 2_Heat",0.000000,0.0000,2178
+"Mean of Diff_Jacket Temp SP [degC], 3_Cooldown",0.000000,0.0000,2179
+"Quantiles5 of Diff_Tank level [%]-Mean[Tank level [%]], 2_Heat",0.000000,0.0000,2180
+"Mean of Diff_Jacket Temp PV  [degC], 1_Deagglomerate",0.000000,0.0000,2181
+"Quantiles5 of Diff_Differential pressure [mmHg], 1_Deagglomerate",0.000000,0.0000,2182
+"Mean of Diff_Jacket Temp PV  [degC], 2_Heat",0.000000,0.0000,2183
+"Mean of Diff_Jacket Temp PV  [degC], 3_Cooldown",0.000000,0.0000,2184
+"Mean of Diff_abs(Jacket Temp SP-PV)  [degC], 2_Heat",0.000000,0.0000,2185
+"Quantiles5 of Diff_Dryer pressure [mmHg], 2_Heat",0.000000,0.0000,2186
+"Mean of Diff_Dryer Temp SP [degC], 1_Deagglomerate",0.000000,0.0000,2187
+"Quantiles5 of Diff_Power [W], 1_Deagglomerate",0.000000,0.0000,2188
+"Mean of Diff_Dryer Temp PV [degC], 1_Deagglomerate",0.000000,0.0000,2189
+"Mean of Diff_Dryer Temp PV [degC], 2_Heat",0.000000,0.0000,2190
+"Mean of Diff_Dryer Temp PV [degC], 3_Cooldown",0.000000,0.0000,2191
+"Quantiles5 of Diff_Agitator Speed [rpm], 2_Heat",0.000000,0.0000,2192
+"Quantiles5 of Diff_Agitator Speed [rpm], 3_Cooldown",0.000000,0.0000,2193
+"Mean of Diff_Difference[Dryer Temp PV [degC]], 2_Heat",0.000000,0.0000,2194
+"Quantiles5 of Diff_Torque [Nm], 2_Heat",0.000000,0.0000,2195
+"Quantiles5 of Diff_Torque [Nm], 3_Cooldown",0.000000,0.0000,2196
+"Quantiles5 of Diff_Jacket Temp SP [degC], 1_Deagglomerate",0.000000,0.0000,2197
+"Quantiles5 of Diff_Jacket Temp SP [degC], 2_Heat",0.000000,0.0000,2198
+"Mean of Diff_abs(Dryer Temp SP-PV)  [degC], 3_Cooldown",0.000000,0.0000,2199
+"Mean of Diff_Z1, 3_Cooldown",0.000000,0.0000,2200
+"Quantiles5 of Diff_Jacket Temp PV  [degC], 2_Heat",0.000000,0.0000,2201
+"Quantiles5 of Diff_Jacket Temp PV  [degC], 3_Cooldown",0.000000,0.0000,2202
+"Quantiles5 of Diff_abs(Jacket Temp SP-PV)  [degC], 1_Deagglomerate",0.000000,0.0000,2203
+"Mean of Diff_Z2, 1_Deagglomerate",0.000000,0.0000,2204
+"Quantiles5 of Diff_abs(Jacket Temp SP-PV)  [degC], 3_Cooldown",0.000000,0.0000,2205
+"Mean of Diff_Z2, 2_Heat",0.000000,0.0000,2206
+"Quantiles5 of Diff_Dryer Temp SP [degC], 2_Heat",0.000000,0.0000,2207
+"Quantiles5 of Diff_Dryer Temp SP [degC], 3_Cooldown",0.000000,0.0000,2208
+"Quantiles5 of Diff_Dryer Temp PV [degC], 1_Deagglomerate",0.000000,0.0000,2209
+"Quantiles5 of Diff_Dryer Temp PV [degC], 2_Heat",0.000000,0.0000,2210
+"Mean of Diff_Z3, 1_Deagglomerate",0.000000,0.0000,2211
+"Mean of Diff_Z3, 2_Heat",0.000000,0.0000,2212
+"Mean of Diff_Z3, 3_Cooldown",0.000000,0.0000,2213
+"Quantiles5 of Diff_Difference[Dryer Temp PV [degC]], 3_Cooldown",0.000000,0.0000,2214
+"Quantiles5 of Diff_abs(Dryer Temp SP-PV)  [degC], 1_Deagglomerate",0.000000,0.0000,2215
+"Quantiles5 of Diff_abs(Dryer Temp SP-PV)  [degC], 2_Heat",0.000000,0.0000,2216
+"Mean of Diff_Z4, 1_Deagglomerate",0.000000,0.0000,2217
+"Quantiles5 of Diff_Z1, 1_Deagglomerate",0.000000,0.0000,2218
+"Quantiles5 of Diff_Z1, 2_Heat",0.000000,0.0000,2219
+"Quantiles5 of Diff_Z1, 3_Cooldown",0.000000,0.0000,2220
+"Quantiles5 of Diff_Z2, 1_Deagglomerate",0.000000,0.0000,2221
+"Quantiles5 of Diff_Z2, 2_Heat",0.000000,0.0000,2222
+"Quantiles5 of Diff_Z2, 3_Cooldown",0.000000,0.0000,2223
+"Quantiles5 of Diff_Z3, 1_Deagglomerate",0.000000,0.0000,2224
+"Quantiles5 of Diff_Z3, 2_Heat",0.000000,0.0000,2225
+"Quantiles5 of Diff_Z3, 3_Cooldown",0.000000,0.0000,2226
+"Quantiles5 of Diff_Z4, 1_Deagglomerate",0.000000,0.0000,2227
+"Quantiles5 of Diff_Z4, 2_Heat",0.000000,0.0000,2228
+"Quantiles5 of Diff_Z4, 3_Cooldown",0.000000,0.0000,2229
+"Quantiles5 of Diff_Z5, 1_Deagglomerate",0.000000,0.0000,2230
+"Quantiles5 of Diff_Z5, 2_Heat",0.000000,0.0000,2231
+"Quantiles5 of Diff_Z5, 3_Cooldown",0.000000,0.0000,2232
+"Quantiles5 of Diff_Z6, 1_Deagglomerate",0.000000,0.0000,2233
+"Quantiles5 of Diff_Z6, 2_Heat",0.000000,0.0000,2234
+"Quantiles5 of Diff_Z6, 3_Cooldown",0.000000,0.0000,2235
+"Quantiles5 of Diff_Z7, 1_Deagglomerate",0.000000,0.0000,2236
+"Quantiles5 of Diff_Z7, 2_Heat",0.000000,0.0000,2237
+"Quantiles5 of Diff_Z7, 3_Cooldown",0.000000,0.0000,2238
+"Quantiles5 of Diff_Z8, 1_Deagglomerate",0.000000,0.0000,2239
+"Quantiles5 of Diff_Z8, 2_Heat",0.000000,0.0000,2240
+"Quantiles5 of Diff_Z8, 3_Cooldown",0.000000,0.0000,2241
+"Quantiles5 of Diff_Z9, 1_Deagglomerate",0.000000,0.0000,2242
+"Quantiles5 of Diff_Z9, 2_Heat",0.000000,0.0000,2243
+"Quantiles5 of Diff_Z9, 3_Cooldown",0.000000,0.0000,2244
+"Quantiles5 of Diff_Z10, 1_Deagglomerate",0.000000,0.0000,2245
+"Quantiles5 of Diff_Z10, 2_Heat",0.000000,0.0000,2246
+"Quantiles5 of Diff_Z10, 3_Cooldown",0.000000,0.0000,2247
+"Quantiles5 of Diff_Z11, 1_Deagglomerate",0.000000,0.0000,2248
+"Quantiles5 of Diff_Z11, 2_Heat",0.000000,0.0000,2249
+"Quantiles5 of Diff_Z11, 3_Cooldown",0.000000,0.0000,2250
+"Quantiles5 of Diff_Z (Initial cake weight) [kg], 1_Deagglomerate",0.000000,0.0000,2251
+"Quantiles5 of Diff_Z (Initial cake weight) [kg], 2_Heat",0.000000,0.0000,2252
+"Quantiles5 of Diff_Z (Initial cake weight) [kg], 3_Cooldown",0.000000,0.0000,2253
+"Quantiles5 of Diff_Level1, 1_Deagglomerate",0.000000,0.0000,2254
+"Quantiles5 of Diff_Level1, 2_Heat",0.000000,0.0000,2255
+"Quantiles5 of Diff_Level1, 3_Cooldown",0.000000,0.0000,2256
+"Quantiles5 of Diff_Temp1, 1_Deagglomerate",0.000000,0.0000,2257
+"Quantiles5 of Diff_Temp1, 2_Heat",0.000000,0.0000,2258
+"Quantiles5 of Diff_Temp1, 3_Cooldown",0.000000,0.0000,2259
+"Quantiles5 of Diff_Temp2, 1_Deagglomerate",0.000000,0.0000,2260
+"Quantiles5 of Diff_Temp2, 2_Heat",0.000000,0.0000,2261
+"Quantiles5 of Diff_Temp2, 3_Cooldown",0.000000,0.0000,2262
+"Quantiles5 of Random Normal, 1_Deagglomerate",0.000000,0.0000,2263
+"Quantiles5 of Random Normal, 2_Heat",0.000000,0.0000,2264
+"Quantiles5 of Random Normal, 3_Cooldown",0.000000,0.0000,2265
+"Mean of Diff_Z4, 2_Heat",0.000000,0.0000,2266
+"Quantiles5 of Random Uniform, 2_Heat",0.000000,0.0000,2267
+"Mean of Diff_Z4, 3_Cooldown",0.000000,0.0000,2268
+"Interquartile Range of Y1, 1_Deagglomerate",0.000000,0.0000,2269
+"Interquartile Range of Y1, 2_Heat",0.000000,0.0000,2270
+"Interquartile Range of Y1, 3_Cooldown",0.000000,0.0000,2271
+"Mean of Diff_Z5, 1_Deagglomerate",0.000000,0.0000,2272
+"Interquartile Range of Y2, 2_Heat",0.000000,0.0000,2273
+"Interquartile Range of Y2, 3_Cooldown",0.000000,0.0000,2274
+"Interquartile Range of Y3, 1_Deagglomerate",0.000000,0.0000,2275
+"Interquartile Range of Y3, 2_Heat",0.000000,0.0000,2276
+"Interquartile Range of Y3, 3_Cooldown",0.000000,0.0000,2277
+"Interquartile Range of Y4, 1_Deagglomerate",0.000000,0.0000,2278
+"Interquartile Range of Y4, 2_Heat",0.000000,0.0000,2279
+"Interquartile Range of Y4, 3_Cooldown",0.000000,0.0000,2280
+"Interquartile Range of Y5, 1_Deagglomerate",0.000000,0.0000,2281
+"Interquartile Range of Y5, 2_Heat",0.000000,0.0000,2282
+"Interquartile Range of Y5, 3_Cooldown",0.000000,0.0000,2283
+"Interquartile Range of Y6, 1_Deagglomerate",0.000000,0.0000,2284
+"Interquartile Range of Y6, 2_Heat",0.000000,0.0000,2285
+"Interquartile Range of Y6, 3_Cooldown",0.000000,0.0000,2286
+"Interquartile Range of Y7, 1_Deagglomerate",0.000000,0.0000,2287
+"Interquartile Range of Y7, 2_Heat",0.000000,0.0000,2288
+"Interquartile Range of Y7, 3_Cooldown",0.000000,0.0000,2289
+"Interquartile Range of Y8, 1_Deagglomerate",0.000000,0.0000,2290
+"Interquartile Range of Y8, 2_Heat",0.000000,0.0000,2291
+"Interquartile Range of Y8, 3_Cooldown",0.000000,0.0000,2292
+"Interquartile Range of Y9, 1_Deagglomerate",0.000000,0.0000,2293
+"Interquartile Range of Y9, 2_Heat",0.000000,0.0000,2294
+"Interquartile Range of Y9, 3_Cooldown",0.000000,0.0000,2295
+"Interquartile Range of Y10, 1_Deagglomerate",0.000000,0.0000,2296
+"Interquartile Range of Y10, 2_Heat",0.000000,0.0000,2297
+"Interquartile Range of Y10, 3_Cooldown",0.000000,0.0000,2298
+"Interquartile Range of Y11, 1_Deagglomerate",0.000000,0.0000,2299
+"Interquartile Range of Y11, 2_Heat",0.000000,0.0000,2300
+"Interquartile Range of Y11, 3_Cooldown",0.000000,0.0000,2301
+"Interquartile Range of Tank level [%], 1_Deagglomerate",0.000000,0.0000,2302
+"Interquartile Range of Tank level [%], 2_Heat",0.000000,0.0000,2303
+"Interquartile Range of Tank level [%], 3_Cooldown",0.000000,0.0000,2304
+"Mean of Diff_Z5, 2_Heat",0.000000,0.0000,2305
+"Mean of Diff_Z5, 3_Cooldown",0.000000,0.0000,2306
+"Mean of Diff_Z6, 1_Deagglomerate",0.000000,0.0000,2307
+"Interquartile Range of Tank level [%]-Mean[Tank level [%]], 1_Deagglomerate",0.000000,0.0000,2308
+"Interquartile Range of Tank level [%]-Mean[Tank level [%]], 2_Heat",0.000000,0.0000,2309
+"Mean of Diff_Z6, 2_Heat",0.000000,0.0000,2310
+"Interquartile Range of Differential pressure [mmHg], 1_Deagglomerate",0.000000,0.0000,2311
+"Interquartile Range of Differential pressure [mmHg], 2_Heat",0.000000,0.0000,2312
+"Mean of Diff_Z6, 3_Cooldown",0.000000,0.0000,2313
+"Interquartile Range of Dryer pressure [mmHg], 1_Deagglomerate",0.000000,0.0000,2314
+"Interquartile Range of Dryer pressure [mmHg], 2_Heat",0.000000,0.0000,2315
+"Mean of Diff_Z7, 1_Deagglomerate",0.000000,0.0000,2316
+"Interquartile Range of Power [W], 1_Deagglomerate",0.000000,0.0000,2317
+"Mean of Diff_Z7, 2_Heat",0.000000,0.0000,2318
+"Interquartile Range of Power [W], 3_Cooldown",0.000000,0.0000,2319
+"Mean of Diff_Z7, 3_Cooldown",0.000000,0.0000,2320
+"Mean of Diff_Z8, 1_Deagglomerate",0.000000,0.0000,2321
+"Interquartile Range of Agitator Speed [rpm], 3_Cooldown",0.000000,0.0000,2322
+"Interquartile Range of Torque [Nm], 1_Deagglomerate",0.000000,0.0000,2323
+"Mean of Diff_Z8, 2_Heat",0.000000,0.0000,2324
+"Mean of Diff_Z8, 3_Cooldown",0.000000,0.0000,2325
+"Mean of Diff_Z9, 1_Deagglomerate",0.000000,0.0000,2326
+"Mean of Diff_Z9, 2_Heat",0.000000,0.0000,2327
+"Interquartile Range of Jacket Temp SP [degC], 3_Cooldown",0.000000,0.0000,2328
+"Interquartile Range of Jacket Temp PV  [degC], 1_Deagglomerate",0.000000,0.0000,2329
+"Interquartile Range of Jacket Temp PV  [degC], 2_Heat",0.000000,0.0000,2330
+"Interquartile Range of Jacket Temp PV  [degC], 3_Cooldown",0.000000,0.0000,2331
+"Interquartile Range of abs(Jacket Temp SP-PV)  [degC], 1_Deagglomerate",0.000000,0.0000,2332
+"Interquartile Range of abs(Jacket Temp SP-PV)  [degC], 2_Heat",0.000000,0.0000,2333
+"Interquartile Range of abs(Jacket Temp SP-PV)  [degC], 3_Cooldown",0.000000,0.0000,2334
+"Interquartile Range of Dryer Temp SP [degC], 1_Deagglomerate",0.000000,0.0000,2335
+"Interquartile Range of Dryer Temp SP [degC], 2_Heat",0.000000,0.0000,2336
+"Mean of Diff_Z9, 3_Cooldown",0.000000,0.0000,2337
+"Mean of Diff_Z10, 1_Deagglomerate",0.000000,0.0000,2338
+"Interquartile Range of Dryer Temp PV [degC], 2_Heat",0.000000,0.0000,2339
+"Interquartile Range of Dryer Temp PV [degC], 3_Cooldown",0.000000,0.0000,2340
+"Interquartile Range of Difference[Dryer Temp PV [degC]], 1_Deagglomerate",0.000000,0.0000,2341
+"Interquartile Range of Difference[Dryer Temp PV [degC]], 2_Heat",0.000000,0.0000,2342
+"Mean of Diff_Z10, 2_Heat",0.000000,0.0000,2343
+"Mean of Diff_Z10, 3_Cooldown",0.000000,0.0000,2344
+"Mean of Diff_Z11, 1_Deagglomerate",0.000000,0.0000,2345
+"Interquartile Range of abs(Dryer Temp SP-PV)  [degC], 3_Cooldown",0.000000,0.0000,2346
+"Interquartile Range of Z1, 1_Deagglomerate",0.000000,0.0000,2347
+"Interquartile Range of Z1, 2_Heat",0.000000,0.0000,2348
+"Interquartile Range of Z1, 3_Cooldown",0.000000,0.0000,2349
+"Interquartile Range of Z2, 1_Deagglomerate",0.000000,0.0000,2350
+"Interquartile Range of Z2, 2_Heat",0.000000,0.0000,2351
+"Interquartile Range of Z2, 3_Cooldown",0.000000,0.0000,2352
+"Interquartile Range of Z3, 1_Deagglomerate",0.000000,0.0000,2353
+"Interquartile Range of Z3, 2_Heat",0.000000,0.0000,2354
+"Interquartile Range of Z3, 3_Cooldown",0.000000,0.0000,2355
+"Interquartile Range of Z4, 1_Deagglomerate",0.000000,0.0000,2356
+"Interquartile Range of Z4, 2_Heat",0.000000,0.0000,2357
+"Interquartile Range of Z4, 3_Cooldown",0.000000,0.0000,2358
+"Interquartile Range of Z5, 1_Deagglomerate",0.000000,0.0000,2359
+"Interquartile Range of Z5, 2_Heat",0.000000,0.0000,2360
+"Interquartile Range of Z5, 3_Cooldown",0.000000,0.0000,2361
+"Interquartile Range of Z6, 1_Deagglomerate",0.000000,0.0000,2362
+"Interquartile Range of Z6, 2_Heat",0.000000,0.0000,2363
+"Interquartile Range of Z6, 3_Cooldown",0.000000,0.0000,2364
+"Interquartile Range of Z7, 1_Deagglomerate",0.000000,0.0000,2365
+"Interquartile Range of Z7, 2_Heat",0.000000,0.0000,2366
+"Interquartile Range of Z7, 3_Cooldown",0.000000,0.0000,2367
+"Interquartile Range of Z8, 1_Deagglomerate",0.000000,0.0000,2368
+"Interquartile Range of Z8, 2_Heat",0.000000,0.0000,2369
+"Interquartile Range of Z8, 3_Cooldown",0.000000,0.0000,2370
+"Interquartile Range of Z9, 1_Deagglomerate",0.000000,0.0000,2371
+"Interquartile Range of Z9, 2_Heat",0.000000,0.0000,2372
+"Interquartile Range of Z9, 3_Cooldown",0.000000,0.0000,2373
+"Interquartile Range of Z10, 1_Deagglomerate",0.000000,0.0000,2374
+"Interquartile Range of Z10, 2_Heat",0.000000,0.0000,2375
+"Interquartile Range of Z10, 3_Cooldown",0.000000,0.0000,2376
+"Interquartile Range of Z11, 1_Deagglomerate",0.000000,0.0000,2377
+"Interquartile Range of Z11, 2_Heat",0.000000,0.0000,2378
+"Interquartile Range of Z11, 3_Cooldown",0.000000,0.0000,2379
+"Interquartile Range of Z (Initial cake weight) [kg], 1_Deagglomerate",0.000000,0.0000,2380
+"Interquartile Range of Z (Initial cake weight) [kg], 2_Heat",0.000000,0.0000,2381
+"Interquartile Range of Z (Initial cake weight) [kg], 3_Cooldown",0.000000,0.0000,2382
+"Interquartile Range of Level1, 1_Deagglomerate",0.000000,0.0000,2383
+"Interquartile Range of Level1, 2_Heat",0.000000,0.0000,2384
+"Interquartile Range of Level1, 3_Cooldown",0.000000,0.0000,2385
+"Interquartile Range of Temp1, 1_Deagglomerate",0.000000,0.0000,2386
+"Interquartile Range of Temp1, 2_Heat",0.000000,0.0000,2387
+"Interquartile Range of Temp1, 3_Cooldown",0.000000,0.0000,2388
+"Interquartile Range of Temp2, 1_Deagglomerate",0.000000,0.0000,2389
+"Interquartile Range of Temp2, 2_Heat",0.000000,0.0000,2390
+"Interquartile Range of Temp2, 3_Cooldown",0.000000,0.0000,2391
+"Interquartile Range of Diff_Y1, 1_Deagglomerate",0.000000,0.0000,2392
+"Interquartile Range of Diff_Y1, 2_Heat",0.000000,0.0000,2393
+"Interquartile Range of Diff_Y1, 3_Cooldown",0.000000,0.0000,2394
+"Mean of Diff_Z11, 2_Heat",0.000000,0.0000,2395
+"Interquartile Range of Diff_Y2, 2_Heat",0.000000,0.0000,2396
+"Interquartile Range of Diff_Y2, 3_Cooldown",0.000000,0.0000,2397
+"Interquartile Range of Diff_Y3, 1_Deagglomerate",0.000000,0.0000,2398
+"Interquartile Range of Diff_Y3, 2_Heat",0.000000,0.0000,2399
+"Interquartile Range of Diff_Y3, 3_Cooldown",0.000000,0.0000,2400
+"Interquartile Range of Diff_Y4, 1_Deagglomerate",0.000000,0.0000,2401
+"Interquartile Range of Diff_Y4, 2_Heat",0.000000,0.0000,2402
+"Interquartile Range of Diff_Y4, 3_Cooldown",0.000000,0.0000,2403
+"Interquartile Range of Diff_Y5, 1_Deagglomerate",0.000000,0.0000,2404
+"Interquartile Range of Diff_Y5, 2_Heat",0.000000,0.0000,2405
+"Interquartile Range of Diff_Y5, 3_Cooldown",0.000000,0.0000,2406
+"Interquartile Range of Diff_Y6, 1_Deagglomerate",0.000000,0.0000,2407
+"Interquartile Range of Diff_Y6, 2_Heat",0.000000,0.0000,2408
+"Interquartile Range of Diff_Y6, 3_Cooldown",0.000000,0.0000,2409
+"Interquartile Range of Diff_Y7, 1_Deagglomerate",0.000000,0.0000,2410
+"Interquartile Range of Diff_Y7, 2_Heat",0.000000,0.0000,2411
+"Interquartile Range of Diff_Y7, 3_Cooldown",0.000000,0.0000,2412
+"Interquartile Range of Diff_Y8, 1_Deagglomerate",0.000000,0.0000,2413
+"Interquartile Range of Diff_Y8, 2_Heat",0.000000,0.0000,2414
+"Interquartile Range of Diff_Y8, 3_Cooldown",0.000000,0.0000,2415
+"Interquartile Range of Diff_Y9, 1_Deagglomerate",0.000000,0.0000,2416
+"Interquartile Range of Diff_Y9, 2_Heat",0.000000,0.0000,2417
+"Interquartile Range of Diff_Y9, 3_Cooldown",0.000000,0.0000,2418
+"Interquartile Range of Diff_Y10, 1_Deagglomerate",0.000000,0.0000,2419
+"Interquartile Range of Diff_Y10, 2_Heat",0.000000,0.0000,2420
+"Interquartile Range of Diff_Y10, 3_Cooldown",0.000000,0.0000,2421
+"Interquartile Range of Diff_Y11, 1_Deagglomerate",0.000000,0.0000,2422
+"Interquartile Range of Diff_Y11, 2_Heat",0.000000,0.0000,2423
+"Interquartile Range of Diff_Y11, 3_Cooldown",0.000000,0.0000,2424
+"Mean of Diff_Z11, 3_Cooldown",0.000000,0.0000,2425
+"Mean of Diff_Z (Initial cake weight) [kg], 1_Deagglomerate",0.000000,0.0000,2426
+"Mean of Diff_Z (Initial cake weight) [kg], 2_Heat",0.000000,0.0000,2427
+"Mean of Diff_Z (Initial cake weight) [kg], 3_Cooldown",0.000000,0.0000,2428
+"Mean of Diff_Level1, 1_Deagglomerate",0.000000,0.0000,2429
+"Mean of Diff_Level1, 2_Heat",0.000000,0.0000,2430
+"Mean of Diff_Level1, 3_Cooldown",0.000000,0.0000,2431
+"Mean of Diff_Temp1, 1_Deagglomerate",0.000000,0.0000,2432
+"Interquartile Range of Diff_Tank level [%]-Mean[Tank level [%]], 3_Cooldown",0.000000,0.0000,2433
+"Mean of Diff_Temp1, 2_Heat",0.000000,0.0000,2434
+"Mean of Diff_Temp1, 3_Cooldown",0.000000,0.0000,2435
+"Mean of Diff_Temp2, 1_Deagglomerate",0.000000,0.0000,2436
+"Interquartile Range of Diff_Dryer pressure [mmHg], 1_Deagglomerate",0.000000,0.0000,2437
+"Interquartile Range of Diff_Dryer pressure [mmHg], 2_Heat",0.000000,0.0000,2438
+"Mean of Diff_Temp2, 2_Heat",0.000000,0.0000,2439
+"Mean of Diff_Temp2, 3_Cooldown",0.000000,0.0000,2440
+"Interquartile Range of Diff_Power [W], 2_Heat",0.000000,0.0000,2441
+"Interquartile Range of Diff_Power [W], 3_Cooldown",0.000000,0.0000,2442
+"Mean of Random Normal, 2_Heat",0.000000,0.0000,2443
+"Std Dev of Y1, 1_Deagglomerate",0.000000,0.0000,2444
+"Std Dev of Y1, 2_Heat",0.000000,0.0000,2445
+"Std Dev of Y1, 3_Cooldown",0.000000,0.0000,2446
+"Interquartile Range of Diff_Torque [Nm], 2_Heat",0.000000,0.0000,2447
+"Std Dev of Y2, 1_Deagglomerate",0.000000,0.0000,2448
+"Std Dev of Y2, 2_Heat",0.000000,0.0000,2449
+"Std Dev of Y2, 3_Cooldown",0.000000,0.0000,2450
+"Interquartile Range of Diff_Jacket Temp SP [degC], 3_Cooldown",0.000000,0.0000,2451
+"Interquartile Range of Diff_Jacket Temp PV  [degC], 1_Deagglomerate",0.000000,0.0000,2452
+"Std Dev of Y3, 1_Deagglomerate",0.000000,0.0000,2453
+"Std Dev of Y3, 2_Heat",0.000000,0.0000,2454
+"Interquartile Range of Diff_abs(Jacket Temp SP-PV)  [degC], 1_Deagglomerate",0.000000,0.0000,2455
+"Interquartile Range of Diff_abs(Jacket Temp SP-PV)  [degC], 2_Heat",0.000000,0.0000,2456
+"Interquartile Range of Diff_abs(Jacket Temp SP-PV)  [degC], 3_Cooldown",0.000000,0.0000,2457
+"Std Dev of Y3, 3_Cooldown",0.000000,0.0000,2458
+"Std Dev of Y4, 1_Deagglomerate",0.000000,0.0000,2459
+"Std Dev of Y4, 2_Heat",0.000000,0.0000,2460
+"Interquartile Range of Diff_Dryer Temp PV [degC], 1_Deagglomerate",0.000000,0.0000,2461
+"Interquartile Range of Diff_Dryer Temp PV [degC], 2_Heat",0.000000,0.0000,2462
+"Interquartile Range of Diff_Dryer Temp PV [degC], 3_Cooldown",0.000000,0.0000,2463
+"Std Dev of Y4, 3_Cooldown",0.000000,0.0000,2464
+"Std Dev of Y5, 1_Deagglomerate",0.000000,0.0000,2465
+"Std Dev of Y5, 2_Heat",0.000000,0.0000,2466
+"Interquartile Range of Diff_abs(Dryer Temp SP-PV)  [degC], 1_Deagglomerate",0.000000,0.0000,2467
+"Interquartile Range of Diff_abs(Dryer Temp SP-PV)  [degC], 2_Heat",0.000000,0.0000,2468
+"Interquartile Range of Diff_abs(Dryer Temp SP-PV)  [degC], 3_Cooldown",0.000000,0.0000,2469
+"Interquartile Range of Diff_Z1, 1_Deagglomerate",0.000000,0.0000,2470
+"Interquartile Range of Diff_Z1, 2_Heat",0.000000,0.0000,2471
+"Interquartile Range of Diff_Z1, 3_Cooldown",0.000000,0.0000,2472
+"Interquartile Range of Diff_Z2, 1_Deagglomerate",0.000000,0.0000,2473
+"Interquartile Range of Diff_Z2, 2_Heat",0.000000,0.0000,2474
+"Interquartile Range of Diff_Z2, 3_Cooldown",0.000000,0.0000,2475
+"Interquartile Range of Diff_Z3, 1_Deagglomerate",0.000000,0.0000,2476
+"Interquartile Range of Diff_Z3, 2_Heat",0.000000,0.0000,2477
+"Interquartile Range of Diff_Z3, 3_Cooldown",0.000000,0.0000,2478
+"Interquartile Range of Diff_Z4, 1_Deagglomerate",0.000000,0.0000,2479
+"Interquartile Range of Diff_Z4, 2_Heat",0.000000,0.0000,2480
+"Interquartile Range of Diff_Z4, 3_Cooldown",0.000000,0.0000,2481
+"Interquartile Range of Diff_Z5, 1_Deagglomerate",0.000000,0.0000,2482
+"Interquartile Range of Diff_Z5, 2_Heat",0.000000,0.0000,2483
+"Interquartile Range of Diff_Z5, 3_Cooldown",0.000000,0.0000,2484
+"Interquartile Range of Diff_Z6, 1_Deagglomerate",0.000000,0.0000,2485
+"Interquartile Range of Diff_Z6, 2_Heat",0.000000,0.0000,2486
+"Interquartile Range of Diff_Z6, 3_Cooldown",0.000000,0.0000,2487
+"Interquartile Range of Diff_Z7, 1_Deagglomerate",0.000000,0.0000,2488
+"Interquartile Range of Diff_Z7, 2_Heat",0.000000,0.0000,2489
+"Interquartile Range of Diff_Z7, 3_Cooldown",0.000000,0.0000,2490
+"Interquartile Range of Diff_Z8, 1_Deagglomerate",0.000000,0.0000,2491
+"Interquartile Range of Diff_Z8, 2_Heat",0.000000,0.0000,2492
+"Interquartile Range of Diff_Z8, 3_Cooldown",0.000000,0.0000,2493
+"Interquartile Range of Diff_Z9, 1_Deagglomerate",0.000000,0.0000,2494
+"Interquartile Range of Diff_Z9, 2_Heat",0.000000,0.0000,2495
+"Interquartile Range of Diff_Z9, 3_Cooldown",0.000000,0.0000,2496
+"Interquartile Range of Diff_Z10, 1_Deagglomerate",0.000000,0.0000,2497
+"Interquartile Range of Diff_Z10, 2_Heat",0.000000,0.0000,2498
+"Interquartile Range of Diff_Z10, 3_Cooldown",0.000000,0.0000,2499
+"Interquartile Range of Diff_Z11, 1_Deagglomerate",0.000000,0.0000,2500
+"Interquartile Range of Diff_Z11, 2_Heat",0.000000,0.0000,2501
+"Interquartile Range of Diff_Z11, 3_Cooldown",0.000000,0.0000,2502
+"Interquartile Range of Diff_Z (Initial cake weight) [kg], 1_Deagglomerate",0.000000,0.0000,2503
+"Interquartile Range of Diff_Z (Initial cake weight) [kg], 2_Heat",0.000000,0.0000,2504
+"Interquartile Range of Diff_Z (Initial cake weight) [kg], 3_Cooldown",0.000000,0.0000,2505
+"Interquartile Range of Diff_Level1, 1_Deagglomerate",0.000000,0.0000,2506
+"Interquartile Range of Diff_Level1, 2_Heat",0.000000,0.0000,2507
+"Interquartile Range of Diff_Level1, 3_Cooldown",0.000000,0.0000,2508
+"Interquartile Range of Diff_Temp1, 1_Deagglomerate",0.000000,0.0000,2509
+"Interquartile Range of Diff_Temp1, 2_Heat",0.000000,0.0000,2510
+"Interquartile Range of Diff_Temp1, 3_Cooldown",0.000000,0.0000,2511
+"Interquartile Range of Diff_Temp2, 1_Deagglomerate",0.000000,0.0000,2512
+"Interquartile Range of Diff_Temp2, 2_Heat",0.000000,0.0000,2513
+"Interquartile Range of Diff_Temp2, 3_Cooldown",0.000000,0.0000,2514
+"Std Dev of Y5, 3_Cooldown",0.000000,0.0000,2515
+"Interquartile Range of Random Normal, 2_Heat",0.000000,0.0000,2516
+"Interquartile Range of Random Normal, 3_Cooldown",0.000000,0.0000,2517
+"Interquartile Range of Random Uniform, 1_Deagglomerate",0.000000,0.0000,2518
+"Std Dev of Y6, 1_Deagglomerate",0.000000,0.0000,2519
+"Interquartile Range of Random Uniform, 3_Cooldown",0.000000,0.0000,2520
+"Mode of Y1, 1_Deagglomerate",0.000000,0.0000,2521
+"Mode of Y1, 2_Heat",0.000000,0.0000,2522
+"Mode of Y1, 3_Cooldown",0.000000,0.0000,2523
+"Std Dev of Y6, 2_Heat",0.000000,0.0000,2524
+"Mode of Y2, 2_Heat",0.000000,0.0000,2525
+"Mode of Y2, 3_Cooldown",0.000000,0.0000,2526
+"Mode of Y3, 1_Deagglomerate",0.000000,0.0000,2527
+"Mode of Y3, 2_Heat",0.000000,0.0000,2528
+"Mode of Y3, 3_Cooldown",0.000000,0.0000,2529
+"Mode of Y4, 1_Deagglomerate",0.000000,0.0000,2530
+"Mode of Y4, 2_Heat",0.000000,0.0000,2531
+"Mode of Y4, 3_Cooldown",0.000000,0.0000,2532
+"Std Dev of Y6, 3_Cooldown",0.000000,0.0000,2533
+"Mode of Y5, 2_Heat",0.000000,0.0000,2534
+"Mode of Y5, 3_Cooldown",0.000000,0.0000,2535
+"Mode of Y6, 1_Deagglomerate",0.000000,0.0000,2536
+"Mode of Y6, 2_Heat",0.000000,0.0000,2537
+"Mode of Y6, 3_Cooldown",0.000000,0.0000,2538
+"Mode of Y7, 1_Deagglomerate",0.000000,0.0000,2539
+"Mode of Y7, 2_Heat",0.000000,0.0000,2540
+"Mode of Y7, 3_Cooldown",0.000000,0.0000,2541
+"Mode of Y8, 1_Deagglomerate",0.000000,0.0000,2542
+"Mode of Y8, 2_Heat",0.000000,0.0000,2543
+"Mode of Y8, 3_Cooldown",0.000000,0.0000,2544
+"Std Dev of Y7, 1_Deagglomerate",0.000000,0.0000,2545
+"Mode of Y9, 2_Heat",0.000000,0.0000,2546
+"Mode of Y9, 3_Cooldown",0.000000,0.0000,2547
+"Mode of Y10, 1_Deagglomerate",0.000000,0.0000,2548
+"Mode of Y10, 2_Heat",0.000000,0.0000,2549
+"Mode of Y10, 3_Cooldown",0.000000,0.0000,2550
+"Mode of Y11, 1_Deagglomerate",0.000000,0.0000,2551
+"Std Dev of Y7, 2_Heat",0.000000,0.0000,2552
+"Mode of Y11, 3_Cooldown",0.000000,0.0000,2553
+"Std Dev of Y7, 3_Cooldown",0.000000,0.0000,2554
+"Std Dev of Y8, 1_Deagglomerate",0.000000,0.0000,2555
+"Mode of Tank level [%], 3_Cooldown",0.000000,0.0000,2556
+"Mode of Mean[Tank level [%]], 1_Deagglomerate",0.000000,0.0000,2557
+"Mode of Mean[Tank level [%]], 2_Heat",0.000000,0.0000,2558
+"Std Dev of Y8, 2_Heat",0.000000,0.0000,2559
+"Std Dev of Y8, 3_Cooldown",0.000000,0.0000,2560
+"Std Dev of Y9, 1_Deagglomerate",0.000000,0.0000,2561
+"Mode of Tank level [%]-Mean[Tank level [%]], 3_Cooldown",0.000000,0.0000,2562
+"Mode of Differential pressure [mmHg], 1_Deagglomerate",0.000000,0.0000,2563
+"Std Dev of Y9, 2_Heat",0.000000,0.0000,2564
+"Mode of Differential pressure [mmHg], 3_Cooldown",0.000000,0.0000,2565
+"Mode of Dryer pressure [mmHg], 1_Deagglomerate",0.000000,0.0000,2566
+"Mode of Dryer pressure [mmHg], 2_Heat",0.000000,0.0000,2567
+"Std Dev of Y9, 3_Cooldown",0.000000,0.0000,2568
+"Std Dev of Y10, 1_Deagglomerate",0.000000,0.0000,2569
+"Mode of Power [W], 2_Heat",0.000000,0.0000,2570
+"Mode of Power [W], 3_Cooldown",0.000000,0.0000,2571
+"Std Dev of Y10, 2_Heat",0.000000,0.0000,2572
+"Std Dev of Y10, 3_Cooldown",0.000000,0.0000,2573
+"Std Dev of Y11, 1_Deagglomerate",0.000000,0.0000,2574
+"Mode of Torque [Nm], 1_Deagglomerate",0.000000,0.0000,2575
+"Mode of Torque [Nm], 2_Heat",0.000000,0.0000,2576
+"Mode of Torque [Nm], 3_Cooldown",0.000000,0.0000,2577
+"Std Dev of Y11, 2_Heat",0.000000,0.0000,2578
+"Std Dev of Y11, 3_Cooldown",0.000000,0.0000,2579
+"Mode of Jacket Temp SP [degC], 3_Cooldown",0.000000,0.0000,2580
+"Std Dev of Tank level [%], 1_Deagglomerate",0.000000,0.0000,2581
+"Std Dev of Tank level [%], 2_Heat",0.000000,0.0000,2582
+"Std Dev of Mean[Tank level [%]], 1_Deagglomerate",0.000000,0.0000,2583
+"Std Dev of Mean[Tank level [%]], 3_Cooldown",0.000000,0.0000,2584
+"Std Dev of Tank level [%]-Mean[Tank level [%]], 1_Deagglomerate",0.000000,0.0000,2585
+"Std Dev of Tank level [%]-Mean[Tank level [%]], 2_Heat",0.000000,0.0000,2586
+"Std Dev of Differential pressure [mmHg], 3_Cooldown",0.000000,0.0000,2587
+"Std Dev of Dryer pressure [mmHg], 1_Deagglomerate",0.000000,0.0000,2588
+"Std Dev of Dryer pressure [mmHg], 2_Heat",0.000000,0.0000,2589
+"Mode of Dryer Temp PV [degC], 1_Deagglomerate",0.000000,0.0000,2590
+"Mode of Dryer Temp PV [degC], 2_Heat",0.000000,0.0000,2591
+"Mode of Dryer Temp PV [degC], 3_Cooldown",0.000000,0.0000,2592
+"Std Dev of Power [W], 1_Deagglomerate",0.000000,0.0000,2593
+"Std Dev of Power [W], 2_Heat",0.000000,0.0000,2594
+"Mode of Difference[Dryer Temp PV [degC]], 3_Cooldown",0.000000,0.0000,2595
+"Mode of abs(Dryer Temp SP-PV)  [degC], 1_Deagglomerate",0.000000,0.0000,2596
+"Mode of abs(Dryer Temp SP-PV)  [degC], 2_Heat",0.000000,0.0000,2597
+"Mode of abs(Dryer Temp SP-PV)  [degC], 3_Cooldown",0.000000,0.0000,2598
+"Std Dev of Agitator Speed [rpm], 2_Heat",0.000000,0.0000,2599
+"Mode of Z1, 2_Heat",0.000000,0.0000,2600
+"Mode of Z1, 3_Cooldown",0.000000,0.0000,2601
+"Mode of Z2, 1_Deagglomerate",0.000000,0.0000,2602
+"Mode of Z2, 2_Heat",0.000000,0.0000,2603
+"Mode of Z2, 3_Cooldown",0.000000,0.0000,2604
+"Mode of Z3, 1_Deagglomerate",0.000000,0.0000,2605
+"Mode of Z3, 2_Heat",0.000000,0.0000,2606
+"Mode of Z3, 3_Cooldown",0.000000,0.0000,2607
+"Mode of Z4, 1_Deagglomerate",0.000000,0.0000,2608
+"Mode of Z4, 2_Heat",0.000000,0.0000,2609
+"Mode of Z4, 3_Cooldown",0.000000,0.0000,2610
+"Mode of Z5, 1_Deagglomerate",0.000000,0.0000,2611
+"Mode of Z5, 2_Heat",0.000000,0.0000,2612
+"Mode of Z5, 3_Cooldown",0.000000,0.0000,2613
+"Mode of Z6, 1_Deagglomerate",0.000000,0.0000,2614
+"Mode of Z6, 2_Heat",0.000000,0.0000,2615
+"Mode of Z6, 3_Cooldown",0.000000,0.0000,2616
+"Mode of Z7, 1_Deagglomerate",0.000000,0.0000,2617
+"Mode of Z7, 2_Heat",0.000000,0.0000,2618
+"Mode of Z7, 3_Cooldown",0.000000,0.0000,2619
+"Mode of Z8, 1_Deagglomerate",0.000000,0.0000,2620
+"Mode of Z8, 2_Heat",0.000000,0.0000,2621
+"Mode of Z8, 3_Cooldown",0.000000,0.0000,2622
+"Std Dev of Torque [Nm], 1_Deagglomerate",0.000000,0.0000,2623
+"Std Dev of Jacket Temp SP [degC], 1_Deagglomerate",0.000000,0.0000,2624
+"Std Dev of Jacket Temp SP [degC], 2_Heat",0.000000,0.0000,2625
+"Mode of Z10, 1_Deagglomerate",0.000000,0.0000,2626
+"Std Dev of Jacket Temp SP [degC], 3_Cooldown",0.000000,0.0000,2627
+"Mode of Z10, 3_Cooldown",0.000000,0.0000,2628
+"Mode of Z11, 1_Deagglomerate",0.000000,0.0000,2629
+"Mode of Z11, 2_Heat",0.000000,0.0000,2630
+"Mode of Z11, 3_Cooldown",0.000000,0.0000,2631
+"Mode of Z (Initial cake weight) [kg], 1_Deagglomerate",0.000000,0.0000,2632
+"Mode of Z (Initial cake weight) [kg], 2_Heat",0.000000,0.0000,2633
+"Mode of Z (Initial cake weight) [kg], 3_Cooldown",0.000000,0.0000,2634
+"Mode of Level1, 1_Deagglomerate",0.000000,0.0000,2635
+"Mode of Level1, 2_Heat",0.000000,0.0000,2636
+"Mode of Level1, 3_Cooldown",0.000000,0.0000,2637
+"Mode of Temp1, 1_Deagglomerate",0.000000,0.0000,2638
+"Mode of Temp1, 2_Heat",0.000000,0.0000,2639
+"Mode of Temp1, 3_Cooldown",0.000000,0.0000,2640
+"Mode of Temp2, 1_Deagglomerate",0.000000,0.0000,2641
+"Mode of Temp2, 2_Heat",0.000000,0.0000,2642
+"Mode of Temp2, 3_Cooldown",0.000000,0.0000,2643
+"Mode of Diff_Y1, 1_Deagglomerate",0.000000,0.0000,2644
+"Mode of Diff_Y1, 2_Heat",0.000000,0.0000,2645
+"Mode of Diff_Y1, 3_Cooldown",0.000000,0.0000,2646
+"Mode of Diff_Y2, 1_Deagglomerate",0.000000,0.0000,2647
+"Mode of Diff_Y2, 2_Heat",0.000000,0.0000,2648
+"Mode of Diff_Y2, 3_Cooldown",0.000000,0.0000,2649
+"Mode of Diff_Y3, 1_Deagglomerate",0.000000,0.0000,2650
+"Mode of Diff_Y3, 2_Heat",0.000000,0.0000,2651
+"Mode of Diff_Y3, 3_Cooldown",0.000000,0.0000,2652
+"Mode of Diff_Y4, 1_Deagglomerate",0.000000,0.0000,2653
+"Mode of Diff_Y4, 2_Heat",0.000000,0.0000,2654
+"Mode of Diff_Y4, 3_Cooldown",0.000000,0.0000,2655
+"Mode of Diff_Y5, 1_Deagglomerate",0.000000,0.0000,2656
+"Mode of Diff_Y5, 2_Heat",0.000000,0.0000,2657
+"Mode of Diff_Y5, 3_Cooldown",0.000000,0.0000,2658
+"Mode of Diff_Y6, 1_Deagglomerate",0.000000,0.0000,2659
+"Mode of Diff_Y6, 2_Heat",0.000000,0.0000,2660
+"Mode of Diff_Y6, 3_Cooldown",0.000000,0.0000,2661
+"Mode of Diff_Y7, 1_Deagglomerate",0.000000,0.0000,2662
+"Mode of Diff_Y7, 2_Heat",0.000000,0.0000,2663
+"Mode of Diff_Y7, 3_Cooldown",0.000000,0.0000,2664
+"Mode of Diff_Y8, 1_Deagglomerate",0.000000,0.0000,2665
+"Mode of Diff_Y8, 2_Heat",0.000000,0.0000,2666
+"Mode of Diff_Y8, 3_Cooldown",0.000000,0.0000,2667
+"Mode of Diff_Y9, 1_Deagglomerate",0.000000,0.0000,2668
+"Mode of Diff_Y9, 2_Heat",0.000000,0.0000,2669
+"Mode of Diff_Y9, 3_Cooldown",0.000000,0.0000,2670
+"Mode of Diff_Y10, 1_Deagglomerate",0.000000,0.0000,2671
+"Mode of Diff_Y10, 2_Heat",0.000000,0.0000,2672
+"Mode of Diff_Y10, 3_Cooldown",0.000000,0.0000,2673
+"Mode of Diff_Y11, 1_Deagglomerate",0.000000,0.0000,2674
+"Mode of Diff_Y11, 2_Heat",0.000000,0.0000,2675
+"Mode of Diff_Y11, 3_Cooldown",0.000000,0.0000,2676
+"Mode of Diff_Tank level [%], 1_Deagglomerate",0.000000,0.0000,2677
+"Std Dev of Jacket Temp PV  [degC], 2_Heat",0.000000,0.0000,2678
+"Mode of Diff_Tank level [%], 3_Cooldown",0.000000,0.0000,2679
+"Mode of Diff_Mean[Tank level [%]], 1_Deagglomerate",0.000000,0.0000,2680
+"Mode of Diff_Mean[Tank level [%]], 2_Heat",0.000000,0.0000,2681
+"Mode of Diff_Mean[Tank level [%]], 3_Cooldown",0.000000,0.0000,2682
+"Mode of Diff_Tank level [%]-Mean[Tank level [%]], 1_Deagglomerate",0.000000,0.0000,2683
+"Mode of Diff_Tank level [%]-Mean[Tank level [%]], 2_Heat",0.000000,0.0000,2684
+"Mode of Diff_Tank level [%]-Mean[Tank level [%]], 3_Cooldown",0.000000,0.0000,2685
+"Std Dev of Dryer Temp SP [degC], 1_Deagglomerate",0.000000,0.0000,2686
+"Std Dev of Dryer Temp SP [degC], 2_Heat",0.000000,0.0000,2687
+"Mode of Diff_Differential pressure [mmHg], 3_Cooldown",0.000000,0.0000,2688
+"Std Dev of Dryer Temp PV [degC], 1_Deagglomerate",0.000000,0.0000,2689
+"Std Dev of Dryer Temp PV [degC], 2_Heat",0.000000,0.0000,2690
+"Std Dev of Difference[Dryer Temp PV [degC]], 1_Deagglomerate",0.000000,0.0000,2691
+"Mode of Diff_Power [W], 1_Deagglomerate",0.000000,0.0000,2692
+"Std Dev of abs(Dryer Temp SP-PV)  [degC], 1_Deagglomerate",0.000000,0.0000,2693
+"Std Dev of abs(Dryer Temp SP-PV)  [degC], 2_Heat",0.000000,0.0000,2694
+"Std Dev of abs(Dryer Temp SP-PV)  [degC], 3_Cooldown",0.000000,0.0000,2695
+"Std Dev of Z1, 1_Deagglomerate",0.000000,0.0000,2696
+"Std Dev of Z1, 2_Heat",0.000000,0.0000,2697
+"Mode of Diff_Torque [Nm], 1_Deagglomerate",0.000000,0.0000,2698
+"Mode of Diff_Torque [Nm], 2_Heat",0.000000,0.0000,2699
+"Std Dev of Z1, 3_Cooldown",0.000000,0.0000,2700
+"Mode of Diff_Jacket Temp SP [degC], 1_Deagglomerate",0.000000,0.0000,2701
+"Std Dev of Z2, 1_Deagglomerate",0.000000,0.0000,2702
+"Std Dev of Z2, 2_Heat",0.000000,0.0000,2703
+"Mode of Diff_Jacket Temp PV  [degC], 1_Deagglomerate",0.000000,0.0000,2704
+"Std Dev of Z2, 3_Cooldown",0.000000,0.0000,2705
+"Mode of Diff_Jacket Temp PV  [degC], 3_Cooldown",0.000000,0.0000,2706
+"Mode of Diff_abs(Jacket Temp SP-PV)  [degC], 1_Deagglomerate",0.000000,0.0000,2707
+"Std Dev of Z3, 1_Deagglomerate",0.000000,0.0000,2708
+"Std Dev of Z3, 2_Heat",0.000000,0.0000,2709
+"Mode of Diff_Dryer Temp SP [degC], 1_Deagglomerate",0.000000,0.0000,2710
+"Std Dev of Z3, 3_Cooldown",0.000000,0.0000,2711
+"Mode of Diff_Dryer Temp SP [degC], 3_Cooldown",0.000000,0.0000,2712
+"Std Dev of Z4, 1_Deagglomerate",0.000000,0.0000,2713
+"Std Dev of Z4, 2_Heat",0.000000,0.0000,2714
+"Std Dev of Z4, 3_Cooldown",0.000000,0.0000,2715
+"Mode of Diff_Difference[Dryer Temp PV [degC]], 1_Deagglomerate",0.000000,0.0000,2716
+"Mode of Diff_Difference[Dryer Temp PV [degC]], 2_Heat",0.000000,0.0000,2717
+"Std Dev of Z5, 1_Deagglomerate",0.000000,0.0000,2718
+"Std Dev of Z5, 2_Heat",0.000000,0.0000,2719
+"Std Dev of Z5, 3_Cooldown",0.000000,0.0000,2720
+"Std Dev of Z6, 1_Deagglomerate",0.000000,0.0000,2721
+"Mode of Diff_Z1, 1_Deagglomerate",0.000000,0.0000,2722
+"Mode of Diff_Z1, 2_Heat",0.000000,0.0000,2723
+"Mode of Diff_Z1, 3_Cooldown",0.000000,0.0000,2724
+"Mode of Diff_Z2, 1_Deagglomerate",0.000000,0.0000,2725
+"Mode of Diff_Z2, 2_Heat",0.000000,0.0000,2726
+"Mode of Diff_Z2, 3_Cooldown",0.000000,0.0000,2727
+"Mode of Diff_Z3, 1_Deagglomerate",0.000000,0.0000,2728
+"Mode of Diff_Z3, 2_Heat",0.000000,0.0000,2729
+"Mode of Diff_Z3, 3_Cooldown",0.000000,0.0000,2730
+"Mode of Diff_Z4, 1_Deagglomerate",0.000000,0.0000,2731
+"Mode of Diff_Z4, 2_Heat",0.000000,0.0000,2732
+"Mode of Diff_Z4, 3_Cooldown",0.000000,0.0000,2733
+"Mode of Diff_Z5, 1_Deagglomerate",0.000000,0.0000,2734
+"Mode of Diff_Z5, 2_Heat",0.000000,0.0000,2735
+"Mode of Diff_Z5, 3_Cooldown",0.000000,0.0000,2736
+"Mode of Diff_Z6, 1_Deagglomerate",0.000000,0.0000,2737
+"Mode of Diff_Z6, 2_Heat",0.000000,0.0000,2738
+"Mode of Diff_Z6, 3_Cooldown",0.000000,0.0000,2739
+"Mode of Diff_Z7, 1_Deagglomerate",0.000000,0.0000,2740
+"Mode of Diff_Z7, 2_Heat",0.000000,0.0000,2741
+"Mode of Diff_Z7, 3_Cooldown",0.000000,0.0000,2742
+"Mode of Diff_Z8, 1_Deagglomerate",0.000000,0.0000,2743
+"Mode of Diff_Z8, 2_Heat",0.000000,0.0000,2744
+"Mode of Diff_Z8, 3_Cooldown",0.000000,0.0000,2745
+"Mode of Diff_Z9, 1_Deagglomerate",0.000000,0.0000,2746
+"Mode of Diff_Z9, 2_Heat",0.000000,0.0000,2747
+"Mode of Diff_Z9, 3_Cooldown",0.000000,0.0000,2748
+"Mode of Diff_Z10, 1_Deagglomerate",0.000000,0.0000,2749
+"Mode of Diff_Z10, 2_Heat",0.000000,0.0000,2750
+"Mode of Diff_Z10, 3_Cooldown",0.000000,0.0000,2751
+"Mode of Diff_Z11, 1_Deagglomerate",0.000000,0.0000,2752
+"Mode of Diff_Z11, 2_Heat",0.000000,0.0000,2753
+"Mode of Diff_Z11, 3_Cooldown",0.000000,0.0000,2754
+"Mode of Diff_Z (Initial cake weight) [kg], 1_Deagglomerate",0.000000,0.0000,2755
+"Mode of Diff_Z (Initial cake weight) [kg], 2_Heat",0.000000,0.0000,2756
+"Mode of Diff_Z (Initial cake weight) [kg], 3_Cooldown",0.000000,0.0000,2757
+"Mode of Diff_Level1, 1_Deagglomerate",0.000000,0.0000,2758
+"Mode of Diff_Level1, 2_Heat",0.000000,0.0000,2759
+"Mode of Diff_Level1, 3_Cooldown",0.000000,0.0000,2760
+"Mode of Diff_Temp1, 1_Deagglomerate",0.000000,0.0000,2761
+"Mode of Diff_Temp1, 2_Heat",0.000000,0.0000,2762
+"Mode of Diff_Temp1, 3_Cooldown",0.000000,0.0000,2763
+"Mode of Diff_Temp2, 1_Deagglomerate",0.000000,0.0000,2764
+"Mode of Diff_Temp2, 2_Heat",0.000000,0.0000,2765
+"Mode of Diff_Temp2, 3_Cooldown",0.000000,0.0000,2766
+"Mode of Random Normal, 1_Deagglomerate",0.000000,0.0000,2767
+"Mode of Random Normal, 2_Heat",0.000000,0.0000,2768
+"Mode of Random Normal, 3_Cooldown",0.000000,0.0000,2769
+"Mode of Random Uniform, 1_Deagglomerate",0.000000,0.0000,2770
+"Mode of Random Uniform, 2_Heat",0.000000,0.0000,2771
+"Mode of Random Uniform, 3_Cooldown",0.000000,0.0000,2772
+"CV of Y1, 1_Deagglomerate",0.000000,0.0000,2773
+"CV of Y1, 2_Heat",0.000000,0.0000,2774
+"CV of Y1, 3_Cooldown",0.000000,0.0000,2775
+"CV of Y2, 1_Deagglomerate",0.000000,0.0000,2776
+"CV of Y2, 2_Heat",0.000000,0.0000,2777
+"CV of Y2, 3_Cooldown",0.000000,0.0000,2778
+"Std Dev of Z6, 2_Heat",0.000000,0.0000,2779
+"Std Dev of Z6, 3_Cooldown",0.000000,0.0000,2780
+"CV of Y3, 3_Cooldown",0.000000,0.0000,2781
+"CV of Y4, 1_Deagglomerate",0.000000,0.0000,2782
+"CV of Y4, 2_Heat",0.000000,0.0000,2783
+"CV of Y4, 3_Cooldown",0.000000,0.0000,2784
+"Std Dev of Z7, 1_Deagglomerate",0.000000,0.0000,2785
+"CV of Y5, 2_Heat",0.000000,0.0000,2786
+"Std Dev of Z7, 2_Heat",0.000000,0.0000,2787
+"CV of Y6, 1_Deagglomerate",0.000000,0.0000,2788
+"CV of Y6, 2_Heat",0.000000,0.0000,2789
+"CV of Y6, 3_Cooldown",0.000000,0.0000,2790
+"Std Dev of Z7, 3_Cooldown",0.000000,0.0000,2791
+"CV of Y7, 2_Heat",0.000000,0.0000,2792
+"CV of Y7, 3_Cooldown",0.000000,0.0000,2793
+"CV of Y8, 1_Deagglomerate",0.000000,0.0000,2794
+"Std Dev of Z8, 1_Deagglomerate",0.000000,0.0000,2795
+"CV of Y8, 3_Cooldown",0.000000,0.0000,2796
+"CV of Y9, 1_Deagglomerate",0.000000,0.0000,2797
+"CV of Y9, 2_Heat",0.000000,0.0000,2798
+"CV of Y9, 3_Cooldown",0.000000,0.0000,2799
+"CV of Y10, 1_Deagglomerate",0.000000,0.0000,2800
+"CV of Y10, 2_Heat",0.000000,0.0000,2801
+"CV of Y10, 3_Cooldown",0.000000,0.0000,2802
+"CV of Y11, 1_Deagglomerate",0.000000,0.0000,2803
+"CV of Y11, 2_Heat",0.000000,0.0000,2804
+"CV of Y11, 3_Cooldown",0.000000,0.0000,2805
+"CV of Tank level [%], 1_Deagglomerate",0.000000,0.0000,2806
+"CV of Tank level [%], 2_Heat",0.000000,0.0000,2807
+"Std Dev of Z8, 2_Heat",0.000000,0.0000,2808
+"CV of Mean[Tank level [%]], 1_Deagglomerate",0.000000,0.0000,2809
+"CV of Mean[Tank level [%]], 2_Heat",0.000000,0.0000,2810
+"Std Dev of Z8, 3_Cooldown",0.000000,0.0000,2811
+"CV of Tank level [%]-Mean[Tank level [%]], 1_Deagglomerate",0.000000,0.0000,2812
+"CV of Tank level [%]-Mean[Tank level [%]], 2_Heat",0.000000,0.0000,2813
+"CV of Tank level [%]-Mean[Tank level [%]], 3_Cooldown",0.000000,0.0000,2814
+"CV of Differential pressure [mmHg], 1_Deagglomerate",0.000000,0.0000,2815
+"Std Dev of Z9, 1_Deagglomerate",0.000000,0.0000,2816
+"CV of Differential pressure [mmHg], 3_Cooldown",0.000000,0.0000,2817
+"CV of Dryer pressure [mmHg], 1_Deagglomerate",0.000000,0.0000,2818
+"CV of Dryer pressure [mmHg], 2_Heat",0.000000,0.0000,2819
+"CV of Dryer pressure [mmHg], 3_Cooldown",0.000000,0.0000,2820
+"CV of Power [W], 1_Deagglomerate",0.000000,0.0000,2821
+"CV of Power [W], 2_Heat",0.000000,0.0000,2822
+"CV of Power [W], 3_Cooldown",0.000000,0.0000,2823
+"CV of Agitator Speed [rpm], 1_Deagglomerate",0.000000,0.0000,2824
+"CV of Agitator Speed [rpm], 2_Heat",0.000000,0.0000,2825
+"Std Dev of Z9, 2_Heat",0.000000,0.0000,2826
+"Std Dev of Z9, 3_Cooldown",0.000000,0.0000,2827
+"Std Dev of Z10, 1_Deagglomerate",0.000000,0.0000,2828
+"Std Dev of Z10, 2_Heat",0.000000,0.0000,2829
+"CV of Jacket Temp SP [degC], 1_Deagglomerate",0.000000,0.0000,2830
+"CV of Jacket Temp SP [degC], 2_Heat",0.000000,0.0000,2831
+"CV of Jacket Temp SP [degC], 3_Cooldown",0.000000,0.0000,2832
+"Std Dev of Z10, 3_Cooldown",0.000000,0.0000,2833
+"CV of Jacket Temp PV  [degC], 2_Heat",0.000000,0.0000,2834
+"CV of Jacket Temp PV  [degC], 3_Cooldown",0.000000,0.0000,2835
+"CV of abs(Jacket Temp SP-PV)  [degC], 1_Deagglomerate",0.000000,0.0000,2836
+"CV of abs(Jacket Temp SP-PV)  [degC], 2_Heat",0.000000,0.0000,2837
+"CV of abs(Jacket Temp SP-PV)  [degC], 3_Cooldown",0.000000,0.0000,2838
+"CV of Dryer Temp SP [degC], 1_Deagglomerate",0.000000,0.0000,2839
+"Std Dev of Z11, 1_Deagglomerate",0.000000,0.0000,2840
+"Std Dev of Z11, 2_Heat",0.000000,0.0000,2841
+"Std Dev of Z11, 3_Cooldown",0.000000,0.0000,2842
+"Std Dev of Z (Initial cake weight) [kg], 1_Deagglomerate",0.000000,0.0000,2843
+"Std Dev of Z (Initial cake weight) [kg], 2_Heat",0.000000,0.0000,2844
+"Std Dev of Z (Initial cake weight) [kg], 3_Cooldown",0.000000,0.0000,2845
+"Std Dev of Level1, 1_Deagglomerate",0.000000,0.0000,2846
+"CV of Difference[Dryer Temp PV [degC]], 3_Cooldown",0.000000,0.0000,2847
+"Std Dev of Level1, 2_Heat",0.000000,0.0000,2848
+"CV of abs(Dryer Temp SP-PV)  [degC], 2_Heat",0.000000,0.0000,2849
+"CV of abs(Dryer Temp SP-PV)  [degC], 3_Cooldown",0.000000,0.0000,2850
+"CV of Z1, 1_Deagglomerate",0.000000,0.0000,2851
+"CV of Z1, 2_Heat",0.000000,0.0000,2852
+"CV of Z1, 3_Cooldown",0.000000,0.0000,2853
+"CV of Z2, 1_Deagglomerate",0.000000,0.0000,2854
+"CV of Z2, 2_Heat",0.000000,0.0000,2855
+"CV of Z2, 3_Cooldown",0.000000,0.0000,2856
+"CV of Z3, 1_Deagglomerate",0.000000,0.0000,2857
+"CV of Z3, 2_Heat",0.000000,0.0000,2858
+"CV of Z3, 3_Cooldown",0.000000,0.0000,2859
+"Std Dev of Level1, 3_Cooldown",0.000000,0.0000,2860
+"Std Dev of Temp1, 1_Deagglomerate",0.000000,0.0000,2861
+"CV of Z4, 3_Cooldown",0.000000,0.0000,2862
+"CV of Z5, 1_Deagglomerate",0.000000,0.0000,2863
+"CV of Z5, 2_Heat",0.000000,0.0000,2864
+"CV of Z5, 3_Cooldown",0.000000,0.0000,2865
+"CV of Z6, 1_Deagglomerate",0.000000,0.0000,2866
+"CV of Z6, 2_Heat",0.000000,0.0000,2867
+"CV of Z6, 3_Cooldown",0.000000,0.0000,2868
+"Std Dev of Temp1, 2_Heat",0.000000,0.0000,2869
+"Std Dev of Temp1, 3_Cooldown",0.000000,0.0000,2870
+"CV of Z7, 3_Cooldown",0.000000,0.0000,2871
+"CV of Z8, 1_Deagglomerate",0.000000,0.0000,2872
+"CV of Z8, 2_Heat",0.000000,0.0000,2873
+"CV of Z8, 3_Cooldown",0.000000,0.0000,2874
+"CV of Z9, 1_Deagglomerate",0.000000,0.0000,2875
+"CV of Z9, 2_Heat",0.000000,0.0000,2876
+"CV of Z9, 3_Cooldown",0.000000,0.0000,2877
+"CV of Z10, 1_Deagglomerate",0.000000,0.0000,2878
+"Std Dev of Temp2, 1_Deagglomerate",0.000000,0.0000,2879
+"CV of Z10, 3_Cooldown",0.000000,0.0000,2880
+"CV of Z11, 1_Deagglomerate",0.000000,0.0000,2881
+"CV of Z11, 2_Heat",0.000000,0.0000,2882
+"CV of Z11, 3_Cooldown",0.000000,0.0000,2883
+"CV of Z (Initial cake weight) [kg], 1_Deagglomerate",0.000000,0.0000,2884
+"CV of Z (Initial cake weight) [kg], 2_Heat",0.000000,0.0000,2885
+"CV of Z (Initial cake weight) [kg], 3_Cooldown",0.000000,0.0000,2886
+"CV of Level1, 1_Deagglomerate",0.000000,0.0000,2887
+"CV of Level1, 2_Heat",0.000000,0.0000,2888
+"CV of Level1, 3_Cooldown",0.000000,0.0000,2889
+"CV of Temp1, 1_Deagglomerate",0.000000,0.0000,2890
+"CV of Temp1, 2_Heat",0.000000,0.0000,2891
+"CV of Temp1, 3_Cooldown",0.000000,0.0000,2892
+"CV of Temp2, 1_Deagglomerate",0.000000,0.0000,2893
+"CV of Temp2, 2_Heat",0.000000,0.0000,2894
+"CV of Temp2, 3_Cooldown",0.000000,0.0000,2895
+"CV of Diff_Y1, 1_Deagglomerate",0.000000,0.0000,2896
+"CV of Diff_Y1, 2_Heat",0.000000,0.0000,2897
+"CV of Diff_Y1, 3_Cooldown",0.000000,0.0000,2898
+"CV of Diff_Y2, 1_Deagglomerate",0.000000,0.0000,2899
+"CV of Diff_Y2, 2_Heat",0.000000,0.0000,2900
+"CV of Diff_Y2, 3_Cooldown",0.000000,0.0000,2901
+"CV of Diff_Y3, 1_Deagglomerate",0.000000,0.0000,2902
+"CV of Diff_Y3, 2_Heat",0.000000,0.0000,2903
+"CV of Diff_Y3, 3_Cooldown",0.000000,0.0000,2904
+"CV of Diff_Y4, 1_Deagglomerate",0.000000,0.0000,2905
+"CV of Diff_Y4, 2_Heat",0.000000,0.0000,2906
+"CV of Diff_Y4, 3_Cooldown",0.000000,0.0000,2907
+"CV of Diff_Y5, 1_Deagglomerate",0.000000,0.0000,2908
+"CV of Diff_Y5, 2_Heat",0.000000,0.0000,2909
+"CV of Diff_Y5, 3_Cooldown",0.000000,0.0000,2910
+"CV of Diff_Y6, 1_Deagglomerate",0.000000,0.0000,2911
+"CV of Diff_Y6, 2_Heat",0.000000,0.0000,2912
+"CV of Diff_Y6, 3_Cooldown",0.000000,0.0000,2913
+"CV of Diff_Y7, 1_Deagglomerate",0.000000,0.0000,2914
+"CV of Diff_Y7, 2_Heat",0.000000,0.0000,2915
+"CV of Diff_Y7, 3_Cooldown",0.000000,0.0000,2916
+"CV of Diff_Y8, 1_Deagglomerate",0.000000,0.0000,2917
+"CV of Diff_Y8, 2_Heat",0.000000,0.0000,2918
+"CV of Diff_Y8, 3_Cooldown",0.000000,0.0000,2919
+"CV of Diff_Y9, 1_Deagglomerate",0.000000,0.0000,2920
+"CV of Diff_Y9, 2_Heat",0.000000,0.0000,2921
+"CV of Diff_Y9, 3_Cooldown",0.000000,0.0000,2922
+"CV of Diff_Y10, 1_Deagglomerate",0.000000,0.0000,2923
+"CV of Diff_Y10, 2_Heat",0.000000,0.0000,2924
+"CV of Diff_Y10, 3_Cooldown",0.000000,0.0000,2925
+"CV of Diff_Y11, 1_Deagglomerate",0.000000,0.0000,2926
+"CV of Diff_Y11, 2_Heat",0.000000,0.0000,2927
+"CV of Diff_Y11, 3_Cooldown",0.000000,0.0000,2928
+"CV of Diff_Tank level [%], 1_Deagglomerate",0.000000,0.0000,2929
+"Std Dev of Temp2, 2_Heat",0.000000,0.0000,2930
+"Std Dev of Temp2, 3_Cooldown",0.000000,0.0000,2931
+"CV of Diff_Mean[Tank level [%]], 1_Deagglomerate",0.000000,0.0000,2932
+"Std Dev of Diff_Y1, 1_Deagglomerate",0.000000,0.0000,2933
+"Std Dev of Diff_Y1, 2_Heat",0.000000,0.0000,2934
+"Std Dev of Diff_Y1, 3_Cooldown",0.000000,0.0000,2935
+"Std Dev of Diff_Y3, 1_Deagglomerate",0.000000,0.0000,2936
+"CV of Diff_Tank level [%]-Mean[Tank level [%]], 3_Cooldown",0.000000,0.0000,2937
+"CV of Diff_Differential pressure [mmHg], 1_Deagglomerate",0.000000,0.0000,2938
+"Std Dev of Diff_Y3, 2_Heat",0.000000,0.0000,2939
+"Std Dev of Diff_Y3, 3_Cooldown",0.000000,0.0000,2940
+"CV of Diff_Dryer pressure [mmHg], 1_Deagglomerate",0.000000,0.0000,2941
+"CV of Diff_Dryer pressure [mmHg], 2_Heat",0.000000,0.0000,2942
+"CV of Diff_Dryer pressure [mmHg], 3_Cooldown",0.000000,0.0000,2943
+"CV of Diff_Power [W], 1_Deagglomerate",0.000000,0.0000,2944
+"Std Dev of Diff_Y4, 1_Deagglomerate",0.000000,0.0000,2945
+"CV of Diff_Power [W], 3_Cooldown",0.000000,0.0000,2946
+"Std Dev of Diff_Y4, 2_Heat",0.000000,0.0000,2947
+"CV of Diff_Agitator Speed [rpm], 2_Heat",0.000000,0.0000,2948
+"Std Dev of Diff_Y4, 3_Cooldown",0.000000,0.0000,2949
+"CV of Diff_Torque [Nm], 1_Deagglomerate",0.000000,0.0000,2950
+"CV of Diff_Torque [Nm], 2_Heat",0.000000,0.0000,2951
+"Std Dev of Diff_Y5, 1_Deagglomerate",0.000000,0.0000,2952
+"Std Dev of Diff_Y5, 2_Heat",0.000000,0.0000,2953
+"Std Dev of Diff_Y5, 3_Cooldown",0.000000,0.0000,2954
+"Std Dev of Diff_Y6, 1_Deagglomerate",0.000000,0.0000,2955
+"CV of Diff_Jacket Temp PV  [degC], 1_Deagglomerate",0.000000,0.0000,2956
+"CV of Diff_Jacket Temp PV  [degC], 2_Heat",0.000000,0.0000,2957
+"CV of Diff_Jacket Temp PV  [degC], 3_Cooldown",0.000000,0.0000,2958
+"CV of Diff_abs(Jacket Temp SP-PV)  [degC], 1_Deagglomerate",0.000000,0.0000,2959
+"Std Dev of Diff_Y6, 2_Heat",0.000000,0.0000,2960
+"CV of Diff_abs(Jacket Temp SP-PV)  [degC], 3_Cooldown",0.000000,0.0000,2961
+"Std Dev of Diff_Y6, 3_Cooldown",0.000000,0.0000,2962
+"CV of Diff_Dryer Temp SP [degC], 2_Heat",0.000000,0.0000,2963
+"CV of Diff_Dryer Temp SP [degC], 3_Cooldown",0.000000,0.0000,2964
+"Std Dev of Diff_Y7, 1_Deagglomerate",0.000000,0.0000,2965
+"CV of Diff_Dryer Temp PV [degC], 2_Heat",0.000000,0.0000,2966
+"CV of Diff_Dryer Temp PV [degC], 3_Cooldown",0.000000,0.0000,2967
+"CV of Diff_Difference[Dryer Temp PV [degC]], 1_Deagglomerate",0.000000,0.0000,2968
+"Std Dev of Diff_Y7, 2_Heat",0.000000,0.0000,2969
+"CV of Diff_Difference[Dryer Temp PV [degC]], 3_Cooldown",0.000000,0.0000,2970
+"CV of Diff_abs(Dryer Temp SP-PV)  [degC], 1_Deagglomerate",0.000000,0.0000,2971
+"CV of Diff_abs(Dryer Temp SP-PV)  [degC], 2_Heat",0.000000,0.0000,2972
+"CV of Diff_abs(Dryer Temp SP-PV)  [degC], 3_Cooldown",0.000000,0.0000,2973
+"CV of Diff_Z1, 1_Deagglomerate",0.000000,0.0000,2974
+"CV of Diff_Z1, 2_Heat",0.000000,0.0000,2975
+"CV of Diff_Z1, 3_Cooldown",0.000000,0.0000,2976
+"CV of Diff_Z2, 1_Deagglomerate",0.000000,0.0000,2977
+"CV of Diff_Z2, 2_Heat",0.000000,0.0000,2978
+"CV of Diff_Z2, 3_Cooldown",0.000000,0.0000,2979
+"CV of Diff_Z3, 1_Deagglomerate",0.000000,0.0000,2980
+"CV of Diff_Z3, 2_Heat",0.000000,0.0000,2981
+"CV of Diff_Z3, 3_Cooldown",0.000000,0.0000,2982
+"CV of Diff_Z4, 1_Deagglomerate",0.000000,0.0000,2983
+"CV of Diff_Z4, 2_Heat",0.000000,0.0000,2984
+"CV of Diff_Z4, 3_Cooldown",0.000000,0.0000,2985
+"CV of Diff_Z5, 1_Deagglomerate",0.000000,0.0000,2986
+"CV of Diff_Z5, 2_Heat",0.000000,0.0000,2987
+"CV of Diff_Z5, 3_Cooldown",0.000000,0.0000,2988
+"CV of Diff_Z6, 1_Deagglomerate",0.000000,0.0000,2989
+"CV of Diff_Z6, 2_Heat",0.000000,0.0000,2990
+"CV of Diff_Z6, 3_Cooldown",0.000000,0.0000,2991
+"CV of Diff_Z7, 1_Deagglomerate",0.000000,0.0000,2992
+"CV of Diff_Z7, 2_Heat",0.000000,0.0000,2993
+"CV of Diff_Z7, 3_Cooldown",0.000000,0.0000,2994
+"CV of Diff_Z8, 1_Deagglomerate",0.000000,0.0000,2995
+"CV of Diff_Z8, 2_Heat",0.000000,0.0000,2996
+"CV of Diff_Z8, 3_Cooldown",0.000000,0.0000,2997
+"CV of Diff_Z9, 1_Deagglomerate",0.000000,0.0000,2998
+"CV of Diff_Z9, 2_Heat",0.000000,0.0000,2999
+"CV of Diff_Z9, 3_Cooldown",0.000000,0.0000,3000
+"CV of Diff_Z10, 1_Deagglomerate",0.000000,0.0000,3001
+"CV of Diff_Z10, 2_Heat",0.000000,0.0000,3002
+"CV of Diff_Z10, 3_Cooldown",0.000000,0.0000,3003
+"CV of Diff_Z11, 1_Deagglomerate",0.000000,0.0000,3004
+"CV of Diff_Z11, 2_Heat",0.000000,0.0000,3005
+"CV of Diff_Z11, 3_Cooldown",0.000000,0.0000,3006
+"CV of Diff_Z (Initial cake weight) [kg], 1_Deagglomerate",0.000000,0.0000,3007
+"CV of Diff_Z (Initial cake weight) [kg], 2_Heat",0.000000,0.0000,3008
+"CV of Diff_Z (Initial cake weight) [kg], 3_Cooldown",0.000000,0.0000,3009
+"CV of Diff_Level1, 1_Deagglomerate",0.000000,0.0000,3010
+"CV of Diff_Level1, 2_Heat",0.000000,0.0000,3011
+"CV of Diff_Level1, 3_Cooldown",0.000000,0.0000,3012
+"CV of Diff_Temp1, 1_Deagglomerate",0.000000,0.0000,3013
+"CV of Diff_Temp1, 2_Heat",0.000000,0.0000,3014
+"CV of Diff_Temp1, 3_Cooldown",0.000000,0.0000,3015
+"CV of Diff_Temp2, 1_Deagglomerate",0.000000,0.0000,3016
+"CV of Diff_Temp2, 2_Heat",0.000000,0.0000,3017
+"CV of Diff_Temp2, 3_Cooldown",0.000000,0.0000,3018
+"CV of Random Normal, 1_Deagglomerate",0.000000,0.0000,3019
+"Std Dev of Diff_Y7, 3_Cooldown",0.000000,0.0000,3020
+"Std Dev of Diff_Y8, 1_Deagglomerate",0.000000,0.0000,3021
+"CV of Random Uniform, 1_Deagglomerate",0.000000,0.0000,3022
+"Std Dev of Diff_Y8, 2_Heat",0.000000,0.0000,3023
+"CV of Random Uniform, 3_Cooldown",0.000000,0.0000,3024

@@ -1,0 +1,49 @@
+Predictor,Contribution,Portion,Rank
+% Iron Feed,363.011,0.6120,1
+% Silica Feed,170.359,0.2872,2
+Flotation Column 04 Air Flow,11.930,0.0201,3
+Ore Pulp pH,7.481,0.0126,4
+Flotation Column 02 Air Flow,5.785,0.0098,5
+Flotation Column 01 Level,4.568,0.0077,6
+Flotation Column 01 Air Flow,4.207,0.0071,7
+Flotation Column 07 Air Flow,3.544,0.0060,8
+Flotation Column 03 Level,3.110,0.0052,9
+Flotation Column 06 Air Flow,2.890,0.0049,10
+Flotation Column 05 Air Flow,2.547,0.0043,11
+Flotation Column 03 Air Flow,2.261,0.0038,12
+Flotation Column 02 Level,1.560,0.0026,13
+% Iron Concentrate,1.149,0.0019,14
+Ore Pulp Flow,1.073,0.0018,15
+Flotation Column 06 Level,1.016,0.0017,16
+Ore Pulp Density,0.950,0.0016,17
+% Silica Concentrate,0.914,0.0015,18
+Amina Flow,0.860,0.0014,19
+Flotation Column 05 Level,0.771,0.0013,20
+Flotation Column 04 Level,0.624,0.0011,21
+Diff_Flotation Column 04 Air Flow,0.494,0.0008,22
+Flotation Column 07 Level,0.487,0.0008,23
+Diff_Flotation Column 05 Air Flow,0.287,0.0005,24
+Starch Flow,0.224,0.0004,25
+Diff_% Silica Feed,0.222,0.0004,26
+Diff_Flotation Column 03 Level,0.079,0.0001,27
+Diff_Flotation Column 07 Level,0.078,0.0001,28
+Diff_% Silica Concentrate,0.070,0.0001,29
+Diff_Starch Flow,0.065,0.0001,30
+Diff_% Iron Feed,0.060,0.0001,31
+Random Normal,0.055,0.0001,32
+Diff_Flotation Column 07 Air Flow,0.053,0.0001,33
+Random Uniform,0.051,0.0001,34
+Diff_Ore Pulp pH,0.041,0.0001,35
+Diff_Flotation Column 02 Air Flow,0.032,0.0001,36
+Diff_Flotation Column 01 Level,0.032,0.0001,37
+Diff_Flotation Column 02 Level,0.028,0.0000,38
+Diff_Flotation Column 06 Air Flow,0.024,0.0000,39
+Diff_Amina Flow,0.024,0.0000,40
+Diff_Flotation Column 01 Air Flow,0.021,0.0000,41
+Diff_Flotation Column 06 Level,0.017,0.0000,42
+Diff_% Iron Concentrate,0.017,0.0000,43
+Diff_Flotation Column 03 Air Flow,0.017,0.0000,44
+Diff_Flotation Column 05 Level,0.015,0.0000,45
+Diff_Ore Pulp Density,0.011,0.0000,46
+Diff_Flotation Column 04 Level,0.009,0.0000,47
+Diff_Ore Pulp Flow,0.009,0.0000,48
